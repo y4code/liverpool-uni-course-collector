@@ -2,17 +2,16 @@ package main
 
 import (
 	"encoding/csv"
+	"github.com/PuerkitoBio/goquery"
+	"github.com/gocolly/colly/v2"
 	"log"
 	"os"
 	"strings"
-
-	"github.com/PuerkitoBio/goquery"
-	"github.com/gocolly/colly/v2"
 )
 
 const (
 	CSVFileName  = "data.csv"
-	ColumnLength = 10
+	ColumnLength = 9
 	ColumnOffset = 3
 )
 
@@ -30,10 +29,9 @@ const (
 
 func main() {
 	var (
-		file                         *os.File
-		err                          error
-		csvContent                   [][]string
-		replaceHTMLWithLiteralFormat = strings.NewReplacer("<p>", "", "</p>", "\n", "<br />", "\n", "<br>", "\n", "<br/>", "\n", " 2. ", "\n2. ", " 3. ", "\n3. ", " 4. ", "\n4. ", " 5. ", "\n5. ", " 6. ", "\n6. ", " 7. ", "\n7. ", " 8. ", "\n8. ", " 9. ", "\n9. ", " 10. ", "\n10. ", " 11. ", "\n11. ", " 12. ", "\n12. ", " 13. ", "\n13. ", " 14. ", "\n14. ", " 15. ", "\n15. ")
+		file       *os.File
+		err        error
+		csvContent [][]string
 	)
 	//delete file if exists
 	if _, err = os.Stat(CSVFileName); err == nil {
@@ -83,3 +81,27 @@ func main() {
 		log.Fatalln("Cannot write to file", err)
 	}
 }
+
+var (
+	replaceHTMLWithLiteralFormat = strings.NewReplacer(
+		"<p>", "",
+		"</p>", "\n",
+		"<br />", "\n",
+		"<br>", "\n",
+		"<br/>", "\n",
+		" 2. ", "\n2. ",
+		" 3. ", "\n3. ",
+		" 4. ", "\n4. ",
+		" 5. ", "\n5. ",
+		" 6. ", "\n6. ",
+		" 7. ", "\n7. ",
+		" 8. ", "\n8. ",
+		" 9. ", "\n9. ",
+		" 10. ", "\n10. ",
+		" 11. ", "\n11. ",
+		" 12. ", "\n12. ",
+		" 13. ", "\n13. ",
+		" 14. ", "\n14. ",
+		" 15. ", "\n15. ",
+	)
+)
