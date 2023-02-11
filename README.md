@@ -7,6 +7,7 @@ This project is designed to download all postgraduate taught master's programs o
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [How to Run](#how-to-run)
+  - [Master's Program Index Page](#masters-program-index-page)
   - [Artifacts](#artifacts)
   - [Contribution](#contribution)
 
@@ -18,10 +19,14 @@ To run the Liverpool University Course Collector program, you will need to have 
 
     go run ./
 
-The program will create a directory named `records` in the current directory and save the CSV files of the course information in that directory.
+The program will create a directory named `artifacts` in the current directory and save the CSV files of the course information in that directory.
+
+## Master's Program Index Page
+The master's program index page of the University of Liverpool can be found at the following URL: [University of Liverpool Master's Programs](https://www.liverpool.ac.uk/study/postgraduate-taught/courses/). This page lists all of the postgraduate taught master's programs offered by the university.
+
 
 ## Artifacts
-The artifacts of the Liverpool University Course Collector program can be found in the `./tree/main/artifacts` directory. This directory contains the CSV files with the information collected on the postgraduate taught master's programs offered by the University of Liverpool.
+The artifacts of the Liverpool University Course Collector program can be found in the `./artifacts` directory. This directory contains the CSV files with the information collected on the postgraduate taught master's programs offered by the University of Liverpool.
 
 ## Contribution
 If you would like to contribute to the Liverpool University Course Collector project, please fork the repository and submit a pull request with your changes. Your contributions are greatly appreciated!
