@@ -27,6 +27,25 @@ const (
 	LearningOutcomesIndex
 )
 
+const (
+	LiverpoolDomain       = "liverpool.ac.uk"
+	WWWLiverpoolDomain    = "www.liverpool.ac.uk"
+	QueryParamsDepartment = "department"
+	EndpointCourse        = "https://www.liverpool.ac.uk/study/postgraduate-taught/courses/"
+	EndpointDepartment    = "https://www.liverpool.ac.uk/study/postgraduate-taught/courses/departments/index.php"
+)
+
+var (
+	EndpointModuleDetails = func(moduleName string) string {
+		return "https://www.liverpool.ac.uk/study/postgraduate-taught/taught/" + moduleName + "/overview/"
+	}
+	NewCollector = func() *colly.Collector {
+		return colly.NewCollector(
+			colly.AllowedDomains(LiverpoolDomain, WWWLiverpoolDomain),
+		)
+	}
+)
+
 func main() {
 	var (
 		file       *os.File
