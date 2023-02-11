@@ -1,8 +1,8 @@
 #### [Task] All courses collection support
 
-- [ ] Crawling the course **index** page https://www.liverpool.ac.uk/study/postgraduate-taught/courses/
-- [ ] Crawling the **department** page https://www.liverpool.ac.uk/study/postgraduate-taught/courses/departments/index.php?department=history
-- [ ] Persist the data to csv file named with respective name and hierarchy
+- [x] Crawling the course **index** page https://www.liverpool.ac.uk/study/postgraduate-taught/courses/
+- [x] Crawling the **department** page https://www.liverpool.ac.uk/study/postgraduate-taught/courses/departments/index.php?department=history
+- [x] Persist the data to csv file named with respective name and hierarchy
 
 #### [Task] Course changes monitoring
 
