@@ -1,5 +1,5 @@
 package main
 
 type Collector interface {
-	Collect()
+	Collect() error
 }

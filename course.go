@@ -11,30 +11,30 @@ type Course struct {
 }
 
 // Collect save the departments information and execute the Collect method of each department.
-func (c *Course) Collect() {
+func (c *Course) Collect() error {
 	var (
 		collector = NewCollector()
-		course    = &Course{
-			Name:        CourseNamePostgraduateTaught,
-			Departments: []*Department{},
-		}
-		err error
+		err       error
 	)
 	collector.OnHTML("#departments", func(e1 *colly.HTMLElement) {
 		e1.ForEach("#courseslist > tbody > tr", func(i int, e2 *colly.HTMLElement) {
 			department := &Department{
 				Name:     e2.ChildText("td:nth-child(1) > a"),
-				Link:     e2.ChildAttr("td:nth-child(1) > a", "href"),
+				Link:     EndpointCourse + e2.ChildAttr("td:nth-child(1) > a", "href"),
 				Programs: nil,
 			}
-			course.Departments = append(course.Departments, department)
+			c.Departments = append(c.Departments, department)
 		})
 	})
 	err = collector.Visit(EndpointCourse)
 	if err != nil {
-		panic(err)
+		return err
 	}
-	for _, department := range course.Departments {
-		department.Collect()
+	for _, department := range c.Departments {
+		err = department.Collect()
+		if err != nil {
+			return err
+		}
 	}
+	return nil
 }
