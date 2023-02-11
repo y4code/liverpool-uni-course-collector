@@ -1,7 +1,12 @@
 package main
 
 type Program struct {
-	Name     string
-	Overview string
-	Modules  []*Module
+	Name    string
+	Modules []*Module
+	Collector
+}
+
+func (p *Program) Collect() {
+	//TODO implement me
+	panic("implement me")
 }
