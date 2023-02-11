@@ -1,0 +1,160 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Econometric and Statistical Methods ,(ECON814),Compulsory modules,M,15,First Semester,100:0,"The aim of this module is to give the student an understanding of basic econometric and statistical methods suitable for financial and economic data series. Extensive use will be made of econometrics software including EViews in tutorials to supplement the theory with applications and to provide hands-on experience. The aims are that the student will:
+Understand the multiple regression model including the matrix and statistical background;
+Be apply to apply statistical tests estimate regression models;
+Understand the assumptions and limitations;
+Understand the maximum likelihood principle and be able to perform the relevant specification tests;
+Understand the principle underlying instrumental variables and GMM estimation;
+Be confident in the use of econometric software such as EViews for a range of methods and applications.
+","(LO1) Formulate and estimate regression models.
+(LO2) Perform diagnostics on regression models.
+(LO3) Perform all the calculations required via EVIEWS.
+(LO4) Perform maximum likelihood estimation and be aware of the properties of the estimators.
+(LO5) Perform GMM estimation.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+"
+Macroeconomic Analysis ,(ECON905),Compulsory modules,M,15,First Semester,100:0,"This module aims to provide students with a well-rounded overview of modern macroeconomics. Topics covered are facts about growth, the Solow growth model (theory and empirics), the Neoclassical Growth model (growth with dynamic optimisation), and endogenous technical change. The second half of the course will focus on Real Business Cycle models and the New Keynesian framework.  We will evaluate the successes and failures of the basic models in matching data.
+","(LO1) Demonstrate in-depth knowledge and understanding of macroeconomic theory.
+(LO2) Apply core advanced economic theory and quantitative methods to applied topics.
+(LO3) Show theory and model based understanding of advanced analytical methods.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Commercial awareness
+(S4) Communication skills
+(S5) IT skills
+(S6) International awareness
+(S7) Lifelong learning skills
+(S8) Ethical awareness
+"
+Microeconomic Analysis ,(ECON915),Compulsory modules,M,15,First Semester,80:20,"This module aims to provide an opportunity to understand and appreciate the fundamental aspects of decision making in an uncertain environment, allowing for the possible synchronic or diachronic incidence of risk. Individual risk linked behaviour will be linked to symmetric and asymmetric imperfect information scenarios. In this context individual or circumscribed group behaviour may be related to an aggregate and institutional context.
+","(LO1) An appreciation of the basic aspects of consumer and producer decision making both under certainty and uncertainty;
+(LO2) An understanding of the underlying assumptions needed to justify the existence of a general competitive equilibrium;
+(LO3) An understanding of the relationship between a general equilibrium and welfare considerations.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Organisational skills
+(S4) Communication skills
+(S5) Lifelong learning skills
+"
+Applied Macroeconometrics ,(ECON920),Compulsory modules,M,15,Second Semester,70:30,"The aim of this module is to build on the first semester econometrics module and give the student an understanding of more advanced econometric and statistical methods suitable for analysing financial and macroeconomic data series. Extensive use will be made of the econometrics package EViews in lab-based tutorials to supplement the theory with applications and to provide hands-on experience. The aims are that the students will:
+Understand the main tools of modern econometric techniques for analysing financial and macroeconomic data.
+Understand the assumptions and limitations.
+Be confident in the use of an econometric computer programme (EViews) for a range of methods and applications.
+","(LO1) Formulate and estimate time series models;
+(LO2) Use time series models for testing economic theories and making economic forecasts.
+(LO3) Perform all the calculations required via EVIEWS.
+(LO4) Understand and be able to interpret time series models estimated from EVIEWS.
+(S1) Problem solving
+(S2) Numeracy
+(S3) Communication skills
+(S4) Teamwork
+"
+Applied Microeconometrics ,(ECON826),Compulsory modules,M,15,Second Semester,75:25,"This module seeks to teach students to become a critical consumer of the empirical work in existing literature.  The goal is for students to learn to discuss, critique, and analyse applied economics research.  The material in this course will provide students with the techniques needed to conduct their own original research in microeconomics.
+","(LO1) Students will be able to discuss the methods economists use to obtain causal identification.
+(LO2) Students will be able to code basic statistical analyses in STATA.
+(LO3) Students will be able to critique various research methods.
+(LO4) Students will be able to assess the validity and plausibility of assumptions needed for results to be causal.
+(S1) Problem solving.
+Lectures and coursework provide problem sets designed to teach problem solving.
+(S2) IT skills.
+Coursework requires students to learn to code in STATA.
+(S3) Numeracy.
+Lectures, coursework, and the exam teach students the mathematics of causal identification.
+(S4) International awareness.
+Lectures and coursework teach students to analyse research and assess the efficacy of policies.
+"
+Machine Learning and Big Data Econometrics ,(ECON701),Compulsory modules,M,15,Second Semester,50:50,"The module aims to prepare students for careers where a good understanding of Machine Learning methods and Python programming is necessary or advantageous.  Examples include: research careers in applied economics or finance, careers in data science, or careers in data analysis generally.
+","(LO1) Students will be able to define, explain and motivate a number of Machine Learning methods.
+(LO2) Students will be able to use libraries in Python for Machine Learning and scientific research.
+(LO3) Students will be able to produce Jupyter Notebook documents, mixing formatted text in Markdown with Python code.
+(LO4) Students will gain a good general ability with the Python programming language.
+(S1) Flexibility and adaptability
+Students will need to learn in various directions for this module, using a variety of different resources for learning the underlying Machine Learning methodology and the programming, and this will require a degree of adaptability.
+(S2) Problem solving
+The module involves programming exercises.
+(S3) Numeracy
+The module involves a substantial amount of data analysis.
+(S4) Commercial awareness
+Commercial uses of the Machine Learning methodologies will be described in class. The Python libraries used in the module are widely used in the commercial world.
+"
+Money and Banking ,(ECON916),Optional modules,M,15,Second Semester,80:20,"To develop a microeconomic and a macroeconomic perspective of banking;
+To acquire an understanding of the specific nature of a bank as a firm, the role of banks in an economy, and of the regulatory environment in which banks operate;
+To develop an understanding of economic foundation of the banking sector and analyse its importance for the macro-economy.
+","(LO1) Understand the role and characteristics of banks in an economy;    
+(LO2) Understand the competitive environment banks operate in;
+(LO3) Explain the main risks, eg credit, liquidity, interest rate, that banks face;
+(LO4) Explain how banks measure and manage these risks;
+(LO5) Describe the main systemic risks and explain why and how banks are regulated;
+(LO6) Explain the macroeconomic role of the banking system.
+(S1) Problem solving skills
+(S2) Adaptability
+(S3) Numeracy
+(S4) Commercial awareness
+(S5) Teamwork
+(S6) Organisational skills
+(S7) Communication Skills
+(S8) IT Skills
+(S9) International awareness
+(S10) Lifelong learning skills
+(S11) Ethical awareness
+"
+Current Topics in Economics ,(ECON827),Optional modules,M,15,Second Semester,0:100,"This module aims to provide students with knowledge of cutting-edge topics in economics, and develop their understanding of the contribution of economic science to tackling both new and existing challenges faced by consumers, firms, governments, and regulators in practice. The module aims to prepare students for the workplace, whether industrial or academic, by developing life-long learning skills and embodying an approach to learning that is rooted in fundamental economic research. The module also provides the opportunity to acquire, develop and apply a range of advanced research skills, independent critical thinking, and presentation and report writing skills.
+","(LO1) Be able to actively engage with economic research.
+(LO2) Be able to apply the theories and methodologies studied to current economic issues.
+(LO3) Be able to deliver technical presentations, explain complex economic models and concepts.
+(LO4) Be able to critically evaluate research outputs.
+(LO5) Be an independent thinker, capable of original ideas and research questions.
+(S1) Adaptability.
+Practiced in lectures, roundtable discussions and self-directed learning.
+(S2) Problem solving.
+Taught explicitly in lectures, practiced in presentations and in written coursework.
+(S3) Numeracy.
+Taught explicitly in lectures, practiced in presentations and in written coursework.
+(S4) Communication.
+Practiced in presentations and in written coursework.
+(S5) Lifelong learning.
+Taught implicitly in lectures, practiced in roundtable discussions and self-directed learning.
+"
+Labour Economics ,(ECON702),Optional modules,M,15,Second Semester,50:50,"The module aims to prepare students for careers where a good understanding of microeconometric analysis is key. The topics covered in this module will prepare students to work in economic consulting, data analytics, civil service, and industry. The focus on theory underpinning policy and then empirically testing the impact of policy exposes students to the way policy-oriented research is conducted. This systematic approach reinforces the skills they have learned in other modules but brings them all together in a way that teaches students to be well rounded economists.
+","(LO1) Students will be able to model supply of labour by individuals and demand for labour by firms in competitive and uncompetitive environments.
+(LO2) Students will be able to program empirical analyses in STATA.
+(LO3) Students will be able to read and discuss empirical analyses conducted by other researchers.
+(LO4) Students will be able to quantify the effects of labour market policies.
+(LO5) Students will be able to discuss the distributional impact of policies on different groups.
+(S1) Problem solving
+The module teaches students to define a research hypothesis and empirically test it through discussions in lectures and seminars and written assignments.
+(S2) Verbal and written communication
+The module teaches student to discuss research on labour market policies through discussions in lecture and seminars and written assignments.
+(S3) Numeracy
+The module teaches students empirical skills to analyse public policy through lectures and seminars.
+(S4) IT skills
+Seminars will teach students how to program empirical analyses in STATA.
+(S5) International awareness
+Examples covered in this class will draw on labour markets from a number of countries.
+"
+Public Economics ,(ECON703),Optional modules,M,15,Second Semester,50:50,"The aim of the module is to prepare students for a variety of careers, ranging from any type of government and civil service, to economic consulting, data analytics, and other data-related work in the private sector. The goal of the module is to synthetize theoretical and microeconometric skills, many of which students have learned in other modules, to produce well-rounded economists who are knowledgeable about the current state-of-the-art methods used in conducting policy-oriented research. A particular emphasis in the module will be placed on the role of government policies in addressing environmental pollution and climate change, which are arguably among the most important issues faced by the current and future generations.
+","(LO1) Students will be able to model the responses of individuals and firms to various local and national government policies.
+(LO2) Students will be able to read, comprehend, and evaluate empirical analyses conducted by other researchers.
+(LO3) Students will be able to program empirical analyses in STATA statistical software.
+(LO4) Students will be able to quantify the effects of various national and local government policies.
+(LO5) Students will be able to discuss the distributional impact of policies on difference groups.
+(S1) Problem solving
+The module will teach students how to state a research hypothesis, and how to empirically test it. This will be accomplished via group discussions in lectures and seminars, as well as via written assignments.
+(S2) Numeracy
+The module will teach students various empirical skills to analyse government public policy via lectures and seminars.
+(S3) IT skills 
+Seminars will teach students programming of empirical analyses using STATA statistical software.
+(S4) Verbal and written communication
+The module teaches students to evaluate, analyse, and discuss research on various national and local government policies through group discussions in lectures and seminar, as well as via written assignments.
+(S5) International awareness
+Examples discussed in class will cover government policies from a number of countries.
+"
+Dissertation ,(ECON912),Optional modules,M,60,Whole Session,0:100,"The aim of this module is to enable a student to undertake an independent piece of work that demonstrates a consolidated level of thorough understanding achieved by undertaking theoretical as well as empirical analysis on a particular aspect of interest. The work could be a fundamental ground for the research that is anticipated to be undertaken in due course to be continued by the student.
+","(LO1) Development of skill of presenting theoretical and empirical analysis on a particular aspect of interest in the discipline. Further development of the work for further research may be considered.
+(S1) Research skills
+(S2) Written communication skills
+(S3) Organisational skills
+"

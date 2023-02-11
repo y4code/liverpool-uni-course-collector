@@ -1,0 +1,160 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+"Introduction to Health Research, Data and Team Science ",(DASC501),Compulsory modules,M,15,First Semester,0:100,"1.	To provide an introduction to how health data science has the potential to address some of the most challenging issues facing public health and health delivery systems globally. 
+2.	To develop an understanding of the types of research questions asked, study designs employed, and data sources commonly used in health data science. 
+3.	To develop an appreciation of the role of a health data scientist as a member of a healthcare team.
+","(M1) Evaluate current issues related to the importance of and challenges in the application of Data Science to healthcare, and associated ethical, legal, and regulatory frameworks that impact on the conduct of health data science
+(M2) Critically evaluate the different types of research study designs employed in health research
+(M3) Identify and describe the roles and responsibilities of various individuals who participate in the health research enterprise and formulate a plan to understand the role of a member of a health data science team
+(S1) Problem solving
+(S2) Critical thinking
+(S3) Awareness of academic integrity
+(S4) Creativity analysing facts and situations
+(S5) Effective communication skills
+"
+Introduction to Statistics ,(DASC502),Compulsory modules,M,15,First Semester,0:100,"1.	To provide students with an in-depth introduction to the key concepts of statistical inference, in theory and also in application for health data
+2.	To enable students to understand key statistical methods used in the analysis and presentation of health data
+3.	To develop the practical skills to analyse and summarise data using the R software package
+4.	To demonstrate the role of data visualisation in communicating complex statistical results
+","(M1) Critically appraise different types of data and study design in health research
+(M2) Develop practical skills to read and structure data, conduct statistical analyses and summarise data graphically using the R software
+(M3) Critically evaluate commonly used statistical methods for health data and their interpretation
+(S1) Problem solving
+(S2) Critical thinking
+(S3) Creativity analysing facts and situations
+(S4) Effective communication
+"
+Using Routine Health Data for Applied Epidemiology ,(DASC503),Compulsory modules,M,15,First Semester,0:100,"1.	To provide students with an introduction to routine health data sources and challenges associated with their use in applied epidemiology
+2.	To provide the student with the skills and understanding to critique research that uses routine data sources, including evaluation of bias, linkage and algorithms
+3.	To develop the practical skills required to construct code to manipulate and analyse large linked data files
+","(M1) Critically appraise of the theory of data linkage methods and limitations of linked data sets
+(M2) Critically appraise techniques applicable to secondary uses of data in healthcare research
+(M3) Develop comprehensive documentation of code that enables the evaluation of its components and re-use by other professionals
+(M4) Conceptualise and manipulate large linked data files, constructing syntax to derive exposure and outcome variables and produce results from statistical procedures
+(S1) Problem-solving
+(S2) Critical thinking
+(S3) Effective communication
+(S4) Code construction
+(S5) Critical analysis and evaluation
+"
+21st Century Evaluation of Healthcare Interventions ,(DASC504),Compulsory modules,M,15,Second Semester,0:100,"1.	To provide students with an introduction to the importance of, and methods used in the evaluation of health care interventions.
+2.	To  provide students with an understanding of fundamental problems in this area and to explain the common approaches to address these.
+3.	To develop the necessary skills to contribute as a member of a team designing, running and analysing a study to evaluate healthcare interventions.
+","(M1) Critically appraise how data-enabled study designs are useful to evaluate health care interventions, and assess facilitators and barriers to their development
+(M2) Develop and defend a Statistical Analysis Plan for a data-enabled clinical trial
+(M3) Critically evaluate how information systems design can improve efficiency in randomised trials
+(M4) Critically evaluate evidence about treatment effects from observational studies undertaken in routine practice
+(S1) Creativity analysing facts and situations
+(S2) Problem solving
+(S3) Effective communication skills
+(S4) Critical thinking
+"
+Actionable Analytics ,(DASC505),Compulsory modules,M,15,Second Semester,0:100,"1.	To provide students with an introduction to Learning Health System principles and to the expanding role of actionable analytics.
+2.	To enable students to apply Learning Health Systems principles to design an evaluation of an informatics intervention to improve the management of common health conditions.
+3.	To critically appraise commonly used techniques including statistical and simulation models, artificial intelligence and machine learning approaches to healthcare and their relevance to system-wide interventions.
+","(M1) Critically appraise how Learning Health System principles apply to the design of analytics solutions in healthcare settings
+(M2) Formulate problem definitions in co-production with health policymakers and clinicians that enable actionable insights
+(M3) Choose appropriate techniques to produce and communicate actionable insights for health policymakers and clinicians
+(M4) Critically evaluate a candidate health informatics intervention
+(S1) Effective communication skills (oral or written)
+(S2) Problem solving (critical analysis and evaluation)
+(S3) Critical thinking (problem identification)
+(S4) Creativity analysing facts and situations
+(S5) Creative thinking to develop appropriate solution
+"
+Database and Information Systems ,(COMP518),Compulsory modules,M,15,First Semester,25:75,"To provide a deep, systematic and critical understanding of the nature of information systems, with a focus on database systems and their operation.
+","(LO1) Design and implement relational databases with multiple tables.
+(LO2) Understand the mathematical foundations of relational databases through the use of relational algebra.
+(LO3) Use SQL effectively and efficiently as a data definition and data manipulation language in a modern DBMS.
+(LO4) Demonstrate a systematic understanding of transaction management and concurrency control in database systems.
+(S1) Skills in using technology - Using common applications (work processing, databases, spreadsheets etc.)
+(S2) Critical thinking and problem solving - Creative thinking
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Critical thinking and problem solving - Synthesis
+(S5) Skills in using technology - Information accessing
+(S6) Numeracy/computational skills - Confidence/competence in measuring and using numbers
+(S7) Problem solving
+(S8) Business and customer awareness
+(S9) Information Technology (IT) skills
+(S10) Computer science principles
+"
+Dissertation ,(DASC500),Compulsory modules,M,60,Whole Session,0:100,"•	To produce a significant piece of research to address a scientific research question with real world impact in health research. 
+•	To demonstrate critical understanding of applied and methodological research in a relevant source material related to Biostatistics, Computer Science or Epidemiology
+•	To communicate their findings to a professional audience.
+","(M1) Identify and critically define a research question or a learning health system  of relevance and importance in health data science
+(M2) Critically evaluate current research in this area and apply appropriate research methodologies to address the question of interest
+(M3) Produce a complete and coherent research project report in health data science in an internationally recognised format
+(M4) Effectively communicate the health data science  concepts and research findings
+(M5) Apply knowledge to conduct quantitative analysis of health data
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Awareness of /commitment to academic integrity
+(S3) Effective communication skills
+"
+Advanced Biostatistics I - Joint Longitudinal & Survival Data Analysis and Prediction Modelling ,(DASC506),Optional modules,M,15,Second Semester,0:100,"1.	To provide  students with an in-depth understanding of statistical methods for the separate and simultaneous analysis of longitudinal and survival / event-time data
+2.	To enable students to communicate complex statistical results using data visualisation methods
+3.	To develop in students an understanding of clinical prediction models
+4.	To develop practical skills with real data analysis using R software
+","(M1) Critically appraise the theory and application of advanced statistical methodologies such as joint analysis of survival and longitudinal data and clinical prediction models
+(M2) Explain and apply statistical techniques of modelling of survival and longitudinal health data using specialist software packages
+(M3) Critically evaluate state-of-the-art data visualisation techniques, to present data and model estimates for clinical audiences
+(S1) Programming skills in R
+(S2) Effective communication skills
+(S3) Problem solving
+(S4) Critical thinking
+(S5) Creativity analysing facts and situations
+(S6) Creative thinking to develop appropriate solution
+"
+Advanced Biostatistics II - Analysis Methods for Complex Data Structures ,(DASC507),Optional modules,M,15,Second Semester,0:100,"1.	To provide students with an introduction to some of the advanced techniques developed to analyse complex data
+2.	To develop the necessary skills to apply these techniques to a variety of healthcare data
+3.	To develop the necessary skills for interpretation and communication of complex statistical results
+","(M1) Critically appraise and utilise key statistical methods required for the analysis of data with complex structures
+(M2) Explain and apply a range of more advanced approaches for the analysis of health data using R software
+(M3) Critically evaluate estimates and report findings from complex statistical analysis
+(S1) Critical thinking
+(S2) Statistical programming in R
+(S3) Effective communication skills (written/oral)
+(S4) Problem solving
+"
+Advanced Biostatistics III - Statistical Genetics and Pharmacogenetics ,(DASC508),Optional modules,M,15,Second Semester,0:100,"1. To  introduce key genetic concepts, terminology and study designs, and format of genetic datasets 
+2. To enable students to apply different methods for genetic sequencing and variant calling, to undertake quality control of genetic datasets, to impute missing genotypes, to deal with subpopulations, and to test for association between both common and rare variants and a variety of different outcome types
+3. To enable students to analyse datasets with different types of genetic data and outcome variables that are common in pharmacogenetic and other genetic studies, and present and interpret the results 
+4. To critically appraise large, publically available genetic datasets, their utility and how to access them
+","(M1) Critically evaluate data generated from SNP arrays and genetic sequencing in genetic association studies
+(M2) Format genetic data correctly for the various genetic analysis software used during the module
+(M3) Perform genotype quality control (QC) on both SNP array and genetic sequencing data and explain why each step of the QC procedure is important
+(M4) Critically select and accurately perform the most appropriate analysis method for both common and rare variants, and various outcome types
+(M5) Critically evaluate results of genetic association studies and communicate the findings
+(M6) Critically appraise various publicly available and accessible genetic datasets and their importance
+(S1) Effective communication skills (written/oral)
+(S2) Problem solving
+(S3) Creativity analysing facts and situations
+(S4) Critical thinking
+(S5) Numeracy
+"
+Computational Intelligence ,(COMP575),Optional modules,M,15,Second Semester,100:0," Understand the basic structures and the learning mechanisms underlying neural networks within the field of artificial intelligence and examine how synaptic adaptation can facilitate learning and how input to output mapping can be performed by neural networks. Obtain an overview of linear, nonlinear, separable and non separable classification as well as supervised and unsupervised mapping. Understand the benefit of adopting naturally inspired techniques to implement optimisation of complex systems and acquire the fundamental knowledge in various evolutionary techniques. Become familiar with the basic concepts of systems optimisation and its role in natural and biological systems and entities.
+","(LO1) Learning  the advantages and main characteristics of neural networks in relation to traditional methodologies. Also, familiarity with different neural networks structures and their learning mechanisms.
+(LO2) Appreciation of the advantages of evolutionary-related approaches for optimisation problems and their advantages compared to traditional methodologies. Also, understanding the different techniques of evolutionary optimisation for discrete and continuous configurations
+(LO3) Understanding of the needs for genetic encoding and modelling for solving optimisation problems and familiarisation with the evolutionary operators and their performance.
+(LO4) Understanding of the neural network learning processes and their most popular types, as well as  appreciation of how neural networks can be applied to artificial intelligence problems.
+(S1) On successful completion of this module the student should be able to pursue further study in artificial intelligence as well as more advanced types of neural networks and evolutionary optimisation and bio-inspired techniques.
+(S2) On successful completion of this module the student should be able to analyse numerically the mathematical properties of most major network types and apply them to artificial intelligence problems. Also, the student should be able to appreciate and understand the suitability of evolutionary optimisation in systems where classical methods cannot be effective.
+(S3) On successful completion of this module the student should be able to approach methodologically artificial intelligence problems and bio-inspired algorithms in general and understand the principal mathematics of learning systems and the fundamental principles governing evolutionary optimisation techniques.
+"
+Data Mining and VIsualisation ,(COMP527),Optional modules,M,15,Second Semester,70:30,"To provide an in-depth, systematic and critical understanding of some of the current research issues at the forefront of the academic research domain of data mining.
+","(LO1) A critical awareness of current problems and research issues in Data Mining.
+(LO2) A comprehensive understanding of current advanced scholarship and research in data mining and how this may contribute to the effective design and implementation of data mining applications.
+(LO3) The ability to consistently apply knowledge concerning current data mining research issues in an original manner and produce work which is at the forefront of current developments in the sub-discipline of data mining.
+(LO4) A conceptual understanding sufficient to evaluate critically current research and advanced scholarship in data mining.
+(S1) Critical thinking and problem solving - Problem identification
+(S2) Critical thinking and problem solving - Critical analysis
+"
+Machine Learning and Bioinspired Optimisation ,(COMP532),Optional modules,M,15,Second Semester,70:30,"In this module we focus on learning agents that interact with an initially unknown world. Since the world is dynamic this module will put strong emphasis on learning to deal with sequential data unlike many other machine learning courses. The aims can be summarised as: 
+To introduce and give an overview to state of the art bio-inspired self-adapting methods.  
+To enable students to not only learn to build models with reactive input/output mappings but also build computer programs that sense and perceive their environment, plan, and make optimal decisions.  
+To familiarise students with multi-agent reinforcement learning, swarm intelligence, deep neural networks, evolutionary game theory, artificial immune systems and DNA computing. 
+To demonstrate principles of bio-inspired methods, provide indicative examples, develop problem-solving abilities and provide students with experience to apply the learnt methods in real-world problems.
+","(LO1) A systematic understanding of bio-inspired algorithms that can be used for autonomous agent design and complex optimisation problems.
+(LO2) In depth insight in  the mathematics of biologically inspired machine learning and optimisation methods.
+(LO3) A comprehensive understanding of the benefits and drawbacks of the various methods.
+(LO4) Demonstrate knowledge of using the methods in real-world applications (e.g. logistic problems).
+(LO5) Practical assignments will lead to hands on experience using tools as well as coding of own algorithms.
+"

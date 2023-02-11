@@ -1,0 +1,93 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Informatics for Life Sciences ,(LIFE721),Compulsory modules,M,15,First Semester,0:100,"To provide a broad overview of the use of informatics in the biological sciences, to give students a theoretical and technical grounding in a range of application areas including bioinformatics-related topics.
+","(LO1) Critically evaluate and utilise core techniques in bioinformatics to support their research
+(LO2) Critically analyse, evaluate data analyses results and interpret them within the relevant  research context.
+(LO3) Evaluate research methods in bioinformatics to solve biological problems
+(LO4) Critically evaluate the literature and apply knowledge when analysing data.
+(S1) Learning skills online studying and learning effectively in technology-rich environments, formal and informal.
+(S2) Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication and collaboration online participating in digital networks for learning and research.
+"
+Cellular Biotechnology and Biological Imaging ,(LIFE749),Compulsory modules,M,15,First Semester,0:100,"To enhance the core skills acquired , including both scientific (presentational and communication) and employability skills, and to provide advice on careers and career development in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models.
+To enable students to evaluate the latest scientific literature and technologies in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models of disease and topical issues of particular concern to biotechnologist.
+To enhance problem solving skills by data analysis exercises in relation to experimental methods in imaging and cell biotechnology, and develop a deeper understanding of topical issues in the subject.
+","(LO1) Compare various mammalian cell culture and cell analysis techniques.
+(LO2) Critically review the molecular details of various technologies for the genetic manipulation of mammalian cells .
+(LO3) Critically evaluate a broad range of imaging techniques and modalities to analyse cellular features and cell behaviour at different scales, from microscopic analysis to imaging in animal models of disease.
+(LO4) Appraise the translational impact of cellular biotechnology approaches and justify their application in medical research.
+(S1) Scientific Communication
+(S2) Scientific Technical Ability
+(S3) Digital Fluency
+(S4) Critical Thinking
+"
+Computational Biology ,(LIFE752),Compulsory modules,M,15,Second Semester,0:100,"The aims of this module are:
+1.	To support students develop a comprehensive understanding of complex computational approaches
+2.	Enable students to identify the correct computational approach to address a wide range of biological questions.
+","(LO1) Justify the integration of different tools and approaches for the description and analysis of complex data
+(LO2) Assess the basis for quantitative and computational techniques
+(LO3) Become proficient using computational analysis approaches to model the interaction of cellular molecular components in a wide range of biological systems
+(LO4) Assess the application of complex computational approaches for the discovery, development and optimisation of therapies
+(S1) Written communication
+(S2) Think critically
+(S3) Problem solving
+(S4) Biological Interpretation
+(S5) IT skills
+"
+Proteomics Metabolomics and Data Analysis ,(LIFE754),Compulsory modules,M,15,Second Semester,0:100,"To illustrate the value of proteomics and metabolomics towards unbiased, quantitative and high-throughput analysis of biological systems. To offer demonstrations in the design and synthesis of proteomic and metabolomics experiments, including practical demonstrations within the metabolomics and proteomics facilities.
+","(LO1) Appraise proteomic and metabolome techniques.
+(LO2) Evaluate analytical methods and design proteomics or metabolomics experiments to address a given biological problem.
+(LO3) Critically appraise data analysis tools and strategies and interpret the experimental data in the biological context
+(S1) Problem Solving Skills
+(S2) Communication Skills – Professional Report Writing
+(S3) Coding and Statistical Analysis
+"
+Synthetic Biology and Biotechnology ,(LIFE756),Compulsory modules,M,15,Second Semester,0:100,"The module aims to provide students with an in-depth knowledge of the grand challenges in biotechnological applications and the primary design principles of synthetic biology. The module also aims to teach tools and strategies being developed and applied in the rapidly expanding field of synthetic biology and train students in practical
+experience by demonstrating the University’s research facilities and providing research and industry-based projects encompassing green biotechnology.
+","(LO1) Critically appraise concept and research evidence relating to current grand challenges and industrial needs, and how biotechnological methods are developed and exploited to address the problems
+(LO2) Critically evaluate key theoretical and practical knowledge in a diverse range of synthetic biology and biotechnology techniques and applications
+(LO3) Design and evaluate appropriate approaches and processes for synthetic biology and biotechnology techniques
+(LO4) Evaluate the public concerns and ethical issues in the fields of synthetic biology and biotechnology
+(S1) Scientific communication
+(S2) Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner
+(S3) Critical thinking
+(S4) Team work
+"

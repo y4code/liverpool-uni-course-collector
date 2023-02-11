@@ -1,0 +1,157 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Research Methods in Computer Science ,(COMP516),Compulsory modules,M,15,First Semester,0:100,"1. To provide a deep and systematic understanding of the nature and conduct of CS research.
+2. To enhance existing transferable key skills.
+3. To develop high order transferable key skills.
+4. To equip students with the ability to undertake independent research.
+5. To remind students of the Legal, Social, Ethical and Professional (LSEP) issues applicable to the computer industry.
+","(LO1) Have an understanding of how established techniques of research and enquiry are used to extend, create and interpret knowledge in Computer Science.
+(LO2) Have a conceptual understanding sufficient to:(i) evaluate critically current research and advanced scholarship in Computer Science and (ii) propose possible alternative directions for further work.
+(LO3) Be able to: (i) deal with complex issues at the forefront of the academic discipline of Computer Science in a manner, based on sound judgements, that is both systematic and creative, (ii) demonstrate self-direction and originality in tackling and solving problems within the domain of Computer Science, (iii) act autonomously in planning and implementing solutions in a professional manner and (iv) define, plan, and/or carry out a project related to research and to communicate conclusions clearly to both specialists and non-specialists.
+(LO4) Make use of the qualities and transferable skills necessary for employment requiring:(i) the exercise of initiative and personal responsibility, (ii) decision making in complex and unpredictable situations, (iii) scientific risk identification, assessment and control, and (iv) the independent learning ability required for continuing professional development.
+(LO5) Understand and participate within the professional, legal, social and ethical framework within which they would be expected to operate as professionals within the IT industry.
+(LO6) Have the skills set to be able to continue to advance their knowledge and understanding, and to develop new skills to a high level, with respect to continuing professional development as a &#34;self-directed life-long learner&#34; across the discipline of Computer Science.
+(S1) Communication (oral, written and visual) - Presentation skills – oral
+(S2) Communication (oral, written and visual) - Listening skills
+(S3) Communication (oral, written and visual) - Academic writing (inc. referencing skills)
+(S4) Time and project management - Project planning
+(S5) Research skills - Ethical awareness
+"
+Programming Fundamentals ,(COMP517),Compulsory modules,M,15,First Semester,0:100,"This module provides an intensive introduction to programming for postgraduate students who do not have a computer science background. The basics of program development, control flow, data structures and object-oriented design will be covered. The primary objective is to develop key programming and problem-solving skills using a modern programming language.
+","(LO1) Demonstrate knowledge of fundamental imperative programming concepts such as variables and assignment, conditional statements, loops and methods.
+(LO2) Be able to design and code applications in a suitable programming language.
+(LO3) Critical knowledge of concepts and principles of object-orientation such as objects and classes, encapsulation, object state, coupling, cohesion and modularity.
+(LO4) Critical awareness of important principles of software design and development, including appropriate naming of variables and classes, code layout, testing and debugging, and documentation.
+(S1) Problem Solving - Numeracy and computational skills
+(S2) Problem solving – analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Maths and Statistics for Ai and Data Science ,(COMP533),Compulsory modules,M,15,First Semester,60:40,"This module aims to cover the key concepts and techniques from linear algebra,
+differential calculus, probability theory and statistics. The acquired knowledge
+will help the student to interpret the results generated during data analysis.
+","(LO1) Good understanding of basic mathematical principles and methods of interest to data scientists.  The main focus is on differential calculus and linear algebra.
+(LO2) Critical awareness of basic and more specialised concepts in probability theory and statistics  relevant to data science.
+(LO3) Ability to undertake a small software project in the domain of data science.
+(LO4) Ability to communicate the outcome of experimental work in the domain of data science.
+(S1) Problem Solving – Numeracy and computational skills.
+(S2) Problem Solving – Analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Data Mining and VIsualisation ,(COMP527),Compulsory modules,M,15,Second Semester,70:30,"To provide an in-depth, systematic and critical understanding of some of the current research issues at the forefront of the academic research domain of data mining.
+","(LO1) A critical awareness of current problems and research issues in Data Mining.
+(LO2) A comprehensive understanding of current advanced scholarship and research in data mining and how this may contribute to the effective design and implementation of data mining applications.
+(LO3) The ability to consistently apply knowledge concerning current data mining research issues in an original manner and produce work which is at the forefront of current developments in the sub-discipline of data mining.
+(LO4) A conceptual understanding sufficient to evaluate critically current research and advanced scholarship in data mining.
+(S1) Critical thinking and problem solving - Problem identification
+(S2) Critical thinking and problem solving - Critical analysis
+"
+Applied Artificial Intelligence ,(COMP534),Compulsory modules,M,15,Second Semester,0:100,"1.	To provide students with an introduction to key topics in the field of Artificial Intelligence (AI), including Machine Learning, Deep Learning, Natural Language Processing (NLP) and Computer Vision. 
+2.	To present fundamental problems in all these areas and explain the common methods used to deal with these problems.
+3.	To develop the practical skills necessary to build AI applications using data from different domains.
+","(LO1) An in-depth understanding of key areas in applied machine learning.
+(LO2) Ability to critically  justify the use of Neural Network architectures and Deep Learning.
+(LO3) Ability to apply state-of-the-art machine learning techniques to a variety of applications.
+(LO4) Ability to critically evaluate the output of machine learning solutions.
+(S1) Critical thinking and problem solving – Problem identification.
+(S2) Critical thinking and problem solving – Critical analysis.
+(S3) Creative thinking to develop appropriate solutions.
+"
+MSc Placement Experience ,(COMP598),Compulsory modules,M,60,Whole Session,0:100,"The aim of the module is to provide students with experience of an industrial environment and to assess operational aspects of the placement provider, its products, working practices and management structure.  Students are expected to work as normal employees of the placement provider and develop a range of skills and knowledge in the context of their placement.  The specific aims of the module are: 1) To have an appreciation of: The management and organisational structure of the company. Principal roles of company personnel. Strategic plans (as published). Processes for ordering goods and/or services. Processes for processing orders and/or services. Financial controls that are in place to ensure that costs are controlled. The company&#39;s accounts. Decision making processes within the company. Process function in the company to ensure delivery of quality in services and/or products. Any related ethical policies. Sustainability of product lines or services. 2) To develop a range of practical skills related to commercial environments.  Students should gain, where appropriate, hands-on experience of: The process for producing products and/or services. Organising of documentation and/or work flows. Setting of realistic deadlines with the expectation of on-time delivery. 3)  To develop general transferable skills with respect to: Effective communication (written, audio and visual). Ability to work within a team, towards achieving a common target. Leadership and managerial skills. Time and resource management. Enhanced ability for self-learning.
+","(LO1) Experience of working practices in the context a commercial organisation.
+(LO2) A critical understanding of the nature of the managerial structure of commercial organisations.
+(LO3) A comprehensive understanding of the working practices of commercial organisations.
+(LO4) A comprehensive appreciation and understanding of documentation (paper trail) related to employment and relevant employment legislation.
+(S1) The necessary positive attitude and self-confidence for success in the modern day work place, together with: (i) readiness to take part and contribute to activities, (ii) openness to new ideas and (iii) drive to make &#34;things happen&#34;.
+(S2) The self-management skills required to: (i) accept positions of responsibility (i.e. leadership), (ii) demonstrate flexibility, resilience, self-starting, initiative and integrity in the workplace, (iii) display appropriate assertiveness, (iv) conduct effective time management and (v) improve one&#39;s own performance based on feedback and/or reflective learning.
+(S3) Business and customer awareness and a basic understanding of the key drivers for business success, including the importance of: (i) innovation, (ii) the need to provide customer satisfaction and (iii) the need to build customer loyalty.
+"
+MSc Industrial Project ,(COMP599),Compulsory modules,M,60,Whole Session,0:100,"The main aim of the MSc industrial project module is to allow students to develop and demonstrate autonomy in the management and development of realistic projects in computer science that either research or application oriented. Specifically: The aims of the project are: To give students the opportunity to work in a guided but independent fashion, in order to explore a substantial problem in depth, via making practical use of principles, techniques and methodologies acquired elsewhere. To equip students with experience for carrying out a large piece of individual work culminating in a dissertation. To give students an opportunity to enhance their verbal and non-verbal communication skills.
+","(LO1) An ability to investigate and specify a substantial Computer Science (CS) problem and to place this problem in the context of related work and, where appropriate, CS research.
+(LO2) An ability to make use of the general qualities and transferable skills necessary for the successful conduct of a CS project, such as: (i) the exercise of initiative and personal responsibility, (ii) decision making in complex situations, (iii) risk identification (including, if applicable, commercial and scientific risk), assessment and control, and (iv) independent learning in the context of continuing professional development.
+(LO3) An ability to demonstrate effective time management, self-direction and originality in carrying out a project in the domain of CS.
+(LO4) Knowledge of how to locate and make use of information relevant to an identified CS problem.
+(LO5) An ability to design solutions to identified CS problems.
+(LO6) An ability to implement and test potential solutions to CS problems.
+(LO7) An in-depth understanding of how to evaluate critically, in the context of a given project, current research and advanced scholarship in CS.
+(LO8) An in-depth understanding of how to evaluate critically their own work, and participate effectively in the process of peer review of other projects.
+(LO9) Knowledge of how to conduct and evaluate critically CS projects with respect to the professional, legal, social and ethical framework in which the CS and IT industry operates.
+(LO10) An ability to prepare and deliver formal presentations and software demonstrations.
+(LO11) An in-depth understanding of the processes for generating appropriate documentation in the context of CS projects.
+(S1) Ability to undertake a substantial project in an independent manner.
+(S2) Ability to effectively manage project resources and time.
+(S3) Effective communication, presentation and documentation skills.
+(S4) Effective use of knowledge and information technology to solve problems.
+"
+Database and Information Systems ,(COMP518),Optional modules,M,15,First Semester,25:75,"To provide a deep, systematic and critical understanding of the nature of information systems, with a focus on database systems and their operation.
+","(LO1) Design and implement relational databases with multiple tables.
+(LO2) Understand the mathematical foundations of relational databases through the use of relational algebra.
+(LO3) Use SQL effectively and efficiently as a data definition and data manipulation language in a modern DBMS.
+(LO4) Demonstrate a systematic understanding of transaction management and concurrency control in database systems.
+(S1) Skills in using technology - Using common applications (work processing, databases, spreadsheets etc.)
+(S2) Critical thinking and problem solving - Creative thinking
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Critical thinking and problem solving - Synthesis
+(S5) Skills in using technology - Information accessing
+(S6) Numeracy/computational skills - Confidence/competence in measuring and using numbers
+(S7) Problem solving
+(S8) Business and customer awareness
+(S9) Information Technology (IT) skills
+(S10) Computer science principles
+"
+Web Programming ,(COMP519),Optional modules,M,15,Second Semester,0:100,"To provide students with a deep, critical and systematic understanding of the most significant technologies for developing web applications. 
+To enable students to use these technologies in the development of web applications. 
+To provide knowledge of the characteristics of good web site design principles.
+","(LO1) be able to use a range of technologies and programming languages available to organisations and businesses and be able to choose an appropriate architecture for a web application.
+(LO2) be able  to develop reasonably sophisticated client-side web applications using one or more suitable technologies and to make informed and critical decisions in that context.
+(LO3) be able  to develop reasonably sophisticated server-side web applications using one or more suitable technologies and to make informed and critical decisions in that context.
+(S1) Problem Solving - Numeracy and computational skills
+(S2) Problem solving – Analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Artificial Intelligence and Communication B ,(COMM718),Optional modules,M,15,Second Semester,0:100,"To provide insight into the way Artificial Intelligence is influencing our communication practices
+To introduce students with analytic means to navigate the complexity of communication in the AI era
+To explore the changes brought about by AI through the introduction of digital media as well as human-computer interactions
+To encourage students to reflect on the impact that AI is having on their communication processes
+To provide students with the means to assess risks and opportunities introduced by the use of AI in the communication environment
+","(LO1) Students will demonstrate knowledge about core notions to investigate the relations between AI and communication.
+(LO2) Students will analyse data privacy issues in view of algorithm transparency norms.
+(LO3) Students will critically analyse cases of (mis)information diffusion.
+(LO4) Students will evaluate risks and opportunities that the use of AI tools create in daily communication practices.
+(S1) Problem solving and critical thinking
+(S2) Ethical awareness
+(S3) Digital Communication skills
+(S4) Application of discourse analysis tools
+"
+MSc Group Project ,(COMP530),Optional modules,M,15,Second Semester,0:100,"1.	To provide experience of working and collaborating in a software development team 
+2.	To provide experience of aspects of the development of an appropriate and effective solution to tackle industrially relevant issues 
+3.	To prepare students for their individual MSc project (COMP702).
+4.	To consolidate materials from other MSc course modules taken by the student by applying these to real world problems.
+","(LO1) An in depth and critical understanding of the operation of software development teams, the interpersonal skills required and the issues involved in working as part of a team.
+(LO2) Knowledge of how to specify and design appropriate and effective solutions to industrially relevant issues.
+(LO3) Knowledge of how to implement and test appropriate and effective software systems.
+(LO4) A critical understanding of the software development process.
+(LO5) Practical experience in the realisation of a moderately sized software system.
+(LO6) A critical understanding of the importance of software documentation and its creation.
+(S1) Communication (oral, written and visual) - Presentation skills - written
+(S2) Time and project management - Project planning
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Working in groups and teams - Group action planning
+(S5) Working in groups and teams - Time management
+(S6) Commercial awareness - Relevant understanding of organisations
+"
+Machine Learning and Bioinspired Optimisation ,(COMP532),Optional modules,M,15,Second Semester,70:30,"In this module we focus on learning agents that interact with an initially unknown world. Since the world is dynamic this module will put strong emphasis on learning to deal with sequential data unlike many other machine learning courses. The aims can be summarised as: 
+To introduce and give an overview to state of the art bio-inspired self-adapting methods.  
+To enable students to not only learn to build models with reactive input/output mappings but also build computer programs that sense and perceive their environment, plan, and make optimal decisions.  
+To familiarise students with multi-agent reinforcement learning, swarm intelligence, deep neural networks, evolutionary game theory, artificial immune systems and DNA computing. 
+To demonstrate principles of bio-inspired methods, provide indicative examples, develop problem-solving abilities and provide students with experience to apply the learnt methods in real-world problems.
+","(LO1) A systematic understanding of bio-inspired algorithms that can be used for autonomous agent design and complex optimisation problems.
+(LO2) In depth insight in  the mathematics of biologically inspired machine learning and optimisation methods.
+(LO3) A comprehensive understanding of the benefits and drawbacks of the various methods.
+(LO4) Demonstrate knowledge of using the methods in real-world applications (e.g. logistic problems).
+(LO5) Practical assignments will lead to hands on experience using tools as well as coding of own algorithms.
+"
+Computational Intelligence ,(COMP575),Optional modules,M,15,Second Semester,100:0," Understand the basic structures and the learning mechanisms underlying neural networks within the field of artificial intelligence and examine how synaptic adaptation can facilitate learning and how input to output mapping can be performed by neural networks. Obtain an overview of linear, nonlinear, separable and non separable classification as well as supervised and unsupervised mapping. Understand the benefit of adopting naturally inspired techniques to implement optimisation of complex systems and acquire the fundamental knowledge in various evolutionary techniques. Become familiar with the basic concepts of systems optimisation and its role in natural and biological systems and entities.
+","(LO1) Learning  the advantages and main characteristics of neural networks in relation to traditional methodologies. Also, familiarity with different neural networks structures and their learning mechanisms.
+(LO2) Appreciation of the advantages of evolutionary-related approaches for optimisation problems and their advantages compared to traditional methodologies. Also, understanding the different techniques of evolutionary optimisation for discrete and continuous configurations
+(LO3) Understanding of the needs for genetic encoding and modelling for solving optimisation problems and familiarisation with the evolutionary operators and their performance.
+(LO4) Understanding of the neural network learning processes and their most popular types, as well as  appreciation of how neural networks can be applied to artificial intelligence problems.
+(S1) On successful completion of this module the student should be able to pursue further study in artificial intelligence as well as more advanced types of neural networks and evolutionary optimisation and bio-inspired techniques.
+(S2) On successful completion of this module the student should be able to analyse numerically the mathematical properties of most major network types and apply them to artificial intelligence problems. Also, the student should be able to appreciate and understand the suitability of evolutionary optimisation in systems where classical methods cannot be effective.
+(S3) On successful completion of this module the student should be able to approach methodologically artificial intelligence problems and bio-inspired algorithms in general and understand the principal mathematics of learning systems and the fundamental principles governing evolutionary optimisation techniques.
+"

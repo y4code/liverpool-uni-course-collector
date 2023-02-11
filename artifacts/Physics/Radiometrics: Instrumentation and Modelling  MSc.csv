@@ -1,0 +1,117 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Basic Physics of the Atom ,(PHYS801),Compulsory modules,M,7,First Semester,0:100,"To cover the background basic Atomic and Nuclear Physics necessary for Radiometrics
+",
+Principles of Radiation Detection ,(PHYS802),Compulsory modules,M,7.5,Whole Session,33:67,"To briefly cover the principles involved in a wide range of detectors and detection techniques.
+Experience the practical use of examples of all types of detectors.
+","(LO1) Knowledge of the interaction of radiation with materials
+(LO2) Knowledge of gas, scintillation, semiconductor and neutron detectors
+(LO3) Practical experience of the use of alpha, beta, gamma and neutron detectors
+(S1) Problem solving skills
+"
+Simple Modelling ,(PHYS803),Compulsory modules,M,7.5,Whole Session,0:100,"To introduce modelling techniques To give some basic rules for modelling the performance of a detector.  To compare the results of a model with experimental measurements
+","(LO1) Knowledge of programming in a MATLAB
+(LO2) Modelling of some simple physical situations
+(LO3) Familiarity with Monte Carlo methods
+(LO4) Modelling of the performance of a gamma ray detector
+(S1) Problem solving skills
+"
+High Resolution Gamma Spectrometry ,(PHYS804),Compulsory modules,M,7.5,Whole Session,33:67,"To give a practical and theoretical knowledge of all aspects of high resolution gamma-spectrometry using germanium detectors.
+","(LO1) Knowledge of the interaction of gamma-rays with material
+(LO2) Knowledge of germanium detectors (construction and uses)
+(LO3) Familiarity of the electronics and data acquisition systems
+(LO4) The ability to set up and use a gamma ray spectrometer in a variety of applications
+(S1) Problem solving skills
+"
+Gamma-rays: Detection and Modelling ,(PHYS805),Compulsory modules,M,7.5,Whole Session,0:100,"To give a practical and theoretical knowledge of gamma ray detection using scintillation, semiconductor and gas detectors to use a modelling code to predict detector performance.
+","(LO1) Knowledge of the interaction of gamma-rays with materials
+(LO2) Knowledge of scintillation and semiconductor detectors (construction and uses)
+(LO3) The ability to set up and use scintillation and semiconductor detectors
+(LO4) The ability to use the MCNP code to model detector performance
+"
+Alpha Spectrometry ,(PHYS806),Compulsory modules,M,7.5,Whole Session,33:67,"To give a practical and theoretical knowledge of the identification and measurement of alpha particles using silicon detectors.
+","(LO1) Knowledge of the origin of alpha particle and the natural decay series
+(LO2) Knowledge of the properties of alpha particles and their interaction with materials
+(LO3) The ability to set up and use silicon alpha particle detectors
+(LO4) Awareness of sample preparation techniques
+(S1) Problem solving skills
+"
+Neutrons: Detection and Modelling ,(PHYS807),Compulsory modules,M,7.5,Whole Session,33:67,"To give a practical and theoretical knowledge of neutron detection using gas and scintillation detectors To use a modelling code to predict detector performance
+","(LO1) Knowledge of the interaction of neutrons with materials
+(LO2) Knowledge of gas and scintillation detectors (construction and uses)
+(LO3) The ability to set up and use neutron detectors
+(LO4)  The ability to use the MCNP code to model detector performance
+(S1) Problem solving skills
+"
+Nuclear Instruments ,(PHYS808),Compulsory modules,M,7.5,Whole Session,33:67,"To give a practical and theoretical knowledge of the basic electronics and electronic instrumentation used in nuclear measurements.
+","(LO1) Knowledge of the principles of the use of electronic instrumentation for spectroscopic, count rate and timing measurements
+(LO2) The ability to set up and use NIM electronics for spectroscopic, count rate and timing measurements
+(LO3) Optimisation of the time resolution performance of spectroscopic detector systems
+(S1) Problem solving skills
+"
+Statistics ,(PHYS809),Compulsory modules,M,7.5,Whole Session,33:67,"To give a theoretical and practical understanding of the statistical principles involved with radiation detectors.
+","(LO1) Knowledge of experimental errors and probability distributions
+(LO2) The ability to use statistical methods in data analysis
+(LO3) The ability to apply statistical analysis to data from radiation detectors
+(S1) Problem solving skills
+"
+Radiation Protection and Dosimetry ,(PHYS810),Compulsory modules,M,7.5,Whole Session,33:67,"To cover the basic principles involved in radiation protection and dosimetry including biological aspects of being in a radiation environment.
+","(LO1) Knowledge of radiation dosimetry and radiation protection criteria
+(LO2)  Knowledge of radiation monitoring systems and their uses
+(LO3) Knowledge of the effects of radiation and use of risk calculations
+(LO4)  The ability to use measuring instruments in a variety of applications
+(S1) Problem solving skills
+"
+Environmental Aspects ,(PHYS812),Compulsory modules,M,7.5,Whole Session,33:67,"To cover environmental uses of radiation detectors and the impact of low levels of radiation on the environment.
+","(LO1) Knowledge of the origins of environmental radiation and examples of where it exists in the environment
+(LO2)  Knowledge if methods of the detection of low levels of radiation including shielding
+(LO3)   The ability to use gamma and alpha counting systems in a practical laboratory for environmental samples
+(S1) Problem solving skills
+"
+Radiation Shielding ,(PHYS820),Compulsory modules,M,7.5,Whole Session,0:100,"To introduce the subject of radiation shielding and illustrate solutions to the particle transport equation in the context of Monte Carlo and deterministic transport codes. Simple shielding methods will be compared with sophisticated complex calculations in order to familiarise students with the essential concepts. As well as the core material, the course has four external lecturers who are experts in their respective fields. The use of Monte Carlo and Deterministic Codes will be presented in the context of industry needs and requirements. Shielding applications and the shielding design process will be discussed.
+","(LO1) Demonstrate an understanding of the Particle Transport equation and the transport codes and methodologies used to solve it.
+(LO2) Understand and be able to evaluate a shielding scenario using simple shielding methods.
+(LO3) Demonstrate an understanding of the Monte Carlo and Deterministic methods and they are applied to radiation shielding calculations.
+(LO4) Understand the systematic process that must be followed in order to design shielding to adequately protect those working with ionising radiation.
+(LO5) Have an understanding of how the range of shielding solutions is consistent with common principles of radiation physics and radiological protection.
+"
+Applied High Resolution Gamma Spectrometry ,(PHYS824),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of high resolution gamma spectrometry
+","(LO1) A more detailed knowledge of some aspects of high resolution gamma spectrometry.
+"
+Applied Gamma Ray: Detection and Modelling ,(PHYS825),Compulsory modules,1,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of gamma ray detection and modelling.
+","(LO1) A more detailed knowledge of some aspects of gamma ray detection and modelling in an applied context.
+"
+Applied Alpha Spectrometry ,(PHYS826),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed investigative work on an alpha spectrometry problem.
+","(LO1) A more detailed knowledge of some aspects of alpha spectrometry.
+(S1) Problem solving skills
+"
+Applied Neutrons: Detection and Modelling ,(PHYS827),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of neutron detection.
+","(LO1) A more detailed knowledge of the detection of neutrons in an industry application.
+"
+Applied Nuclear Instrumentation ,(PHYS828),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of nuclear instrumentation.
+","(LO1) A more detailed knowledge of the uses of nuclear instrumentation with detector systems.
+"
+Applied Statistics ,(PHYS829),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of the use of statistics in nuclear counting systems.
+","(LO1) A more detailed knowledge of the use of statistics in applications in the nuclear industry.
+"
+Applied Statistics ,(PHYS829),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of the use of statistics in nuclear counting systems.
+","(LO1) A more detailed knowledge of the use of statistics in applications in the nuclear industry.
+"
+Applied Radiation Protection and Dosimetry ,(PHYS830),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on aspects of radiation protection and dosimetry.
+",
+Applied Environmental Aspects ,(PHYS832),Compulsory modules,M,7.5,Whole Session,0:100,"To carry out further detailed work on environmental aspects on nuclear radiation.
+","(LO1) A more detailed knowledge of the detection systems needed for environmental measurements.
+"
+Radiation Shielding Assignment ,(PHYS840),Compulsory modules,M,7.5,Whole Session,0:100,"To introduce the subject of radiation shielding and illustrate solutions to the particle transport equation in the context of Monte Carlo and deterministic transport codes. Simple shielding methods will be compared with sophisticated complex calculations in order to familiarise students with the essential concepts. As well as the core material, the course has four external lecturers who are experts in their respective fields. The use of Monte Carlo and Deterministic Codes will be presented in the context of industry needs and requirements. Shielding applications and the shielding design process will be discussed.
+","(LO1) Demonstrate an understanding of the Particle Transport equation and the transport codes and methodologies used to solve it.
+(LO2) Understand and be able to evaluate a shielding scenario using simple shielding methods.
+(LO3) Demonstrate an understanding of the Monte Carlo and Deterministic methods and they are applied to radiation shielding calculations.
+(LO4) Understand the systematic process that must be followed in order to design shielding to adequately protect those working with ionising radiation.
+"
+Dissertation for the Pg Diploma in Radiometrics ,(PHYS842),Compulsory modules,M,30,First Semester,0:0,"To write a disertation on a radiometrics topic. To apply the radiometrics knowledge gained during the programme to a problem not involving practical work.
+",
+Project ,(PHYS841),Compulsory modules,M,60,Whole Session,0:100,"To carry out a practical project on a radiometrics topics. To apply the radiometrics knowledge gained during the programme to a practical problem.
+","(LO1) The ability to solve a problem using the knowledge gained during the programme The ability to make detailed measurements using radiometrics instrumentation or techniques The ability to analyse a large data set and draw conclusions Experience in presenting the results in a detailed report
+"
+Dissertation for the MSc in Radiometrics ,(PHYS843),Compulsory modules,M,15,Whole Session,0:100,"To write a short dissertation on a radiometrics topic. To apply the radiometrics knowledge gained in more than one radiometrics module to a problem not involving practical work.
+","(LO1) The ability to solve a problem using the knowledge gained during more than one module. The ability to make a literature survey to find the required information. Experience in presenting the results in a detailed report.
+"

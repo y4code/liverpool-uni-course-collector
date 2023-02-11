@@ -1,0 +1,227 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+"Measurement, Monitoring and Sensors ",(ELEC421),Compulsory modules,M,15,Whole Session,80:20,"This module aims to provide students with: The philosophical differences between measurement and monitoring systems. The role of sensors in providing inputs to these sytems. The output requirements for measurement systems and monitoring systems. The need to provide information without the surfeit of data. The application of sensors, measurement systems and monitoring systems for electrical energy and power system networks.
+","(LO1) To know and comprehend the interrelations between sensors, measurement transducer, measurement systems and monitoring systems.
+(LO2) To have a firm understanding of the modulation techniques and sensor types for energy and power system networks measurement and monitoring.
+(LO3) To understand the need for monitoring and measurement in an energy and power system network.
+(LO4) To understand the potential advantages for using the informaton from such sensors etc., for managing energy and power network assets. 
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: independent learning. problem solving and design skills.
+(S2) After successful completion of the module, students should be able to: determine the benefits that a measurement system of monitoring might have in an energy system. Quantify the benefits of measurement and monitoring. Design a simple measurement and monitoring system balancing the constraints of data collection and analysis with information.
+(S3) After successful completion of the module, the students should be able to: Demonstrate potential advantages of sensors, measurements and monitoring systems for energy and power networks. Identify methods for extracting relevant information from data. Recognise the need to keep data to a minimum whilst maintaining optimum information. demonstrate that there are alternative potentially more powerful data processing methods that from first sight seem to be counter intuitive but can give valuable information. Relate the basic measurement and monitoring approaches to energy and power systems.
+"
+Research Skills & Project Management ,(ELEC483),Compulsory modules,M,15,Whole Session,0:100,"To provide students with the necessary background information so that they will be able to satisfactorily research, plan and undertake their project.
+","(E1) Reflect on experiences, reflecting on goals and objectives, building a reflective habit, and building self-awareness through reflection.
+(E2) Assess and compare personal skills and attributes to identify development needs.
+(E3) Apply knowledge and skills to build a professional network, integrating program learning, graduate attributes and professional experiences to construct a professional identity.
+(E4) Prepare evidence to enhance employability, to demonstrate positive behaviours and communicate appropriately for a job/study interview.
+(LO1) Ability to demonstrate and appreciate the importance of communicating technical/scientific information.
+(LO2) Ability to demonstrate and appreciate the importance formalising the organisation and planning of project work
+(LO3) Capable of collecting and assessing the resources required to complete a project and presenting their findings in both oral presentation and written reports
+(LO4) Determining the critical path in the planning of a project
+(LO5) Show use of methodologies for organising and planning project workcommunicate via executive summaries, technical reports and oral presentationsanalysing and synthesise research data
+(LO6) Demonstrate an understanding of Academic Integrity Policy.
+(S1) On successful completion of the module, students should be able to show use of methodologies for: organising and planning project work; communicate via executive summaries, technical reports and oral presentations; analysing abd synthesise research data
+(S2) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning; Problem solving and design skills
+(S3) Academic integrity awareness.
+"
+Drives ,(ELEC331),Compulsory modules,3,7.5,First Semester,100:0,"To introduce students to a range of electrical machines (AC &amp; DC) using the concepts of rotating magnetic fields and co-energy.
+To facilitate the prediction of machine performance by the use of equivalent circuits.
+","(LO1) A greater understanding of how the physical laws of electromagnetism and mechanics apply to practical motors and transformers;
+(LO2) A familiarity with the features of the common machines such as DC (series, shunt and brushless) and AC (synchronous and asynchronous);
+(LO3) An understanding of how the physical phenomena, represented by equivalent circuit parameters, affect the device performance;
+(LO4) An appreciation of relationships and similarities between different types of machine.
+(LO5) An appreciation of the operating characteristics of machines.
+(S1)  After successfully completing the module, students should be able to show experience and enhancement of the following key skills: Independent learning, Problem solving and design skills.
+(S2) After successful completion of the module, the student should be able to demonstrate practical skills in the following discipline specific areas:- The connection of a synchronous machine to a three phase, fixed frequency, AC supply (Synchronizing) using an equivalent circuit to predict the performance of various machines.
+(S3) After successfully completing the module the student should:- Have the ability to translate the complex physical nature of machines into a simple equivalent circuit representation; Be able to apply the complex number theory learnt in other modules to the analysis of electrical machines; Have the ability to explain the operation of synchronous and asynchronous AC machines in terms of rotating magnetic fields.
+(S4) After successfully completing the module, the student should have: A greater understanding of how the physical laws of electromagnetism and mechanics apply to practical motors and transformers; A familiarity with the features of the common machines such as DC (series, shunt and brushless) and AC (synchronous and asynchronous); An understanding of how the physical phenomena, represented by equivalent circuit parameters, affect the device performance; An appreciation of relationships and similarities between different types of machine. An appreciation of the operating characteristics of machines.
+"
+Engineering  Programming ,(ELEC431),Compulsory modules,M,15,First Semester,0:100,"This module aims to equip students with knowledge of two most popular programming languages, C++ and MATLAB, an understanding of the Functional Decomposition method for program design, and practical skills of designing and coding software for engineering applications based on a problem specification.
+","(LO1) Knowledge and Understanding : On successful completion of the module, students should be able to demonstrate their appreciation of software as an &#34;engineered product&#34; and its development procedure;understanding of established engineering principles, such as abstraction, modularity and information hiding;knowledge of MATLAB and C++ as programming languages commonly used for enginnering computation and modelling, and their pros and cons for different applications requirements.knowledge of logic structures, data types, user sub-routines (functions), operater precedancy, and the availability of special functions or tool boxes in MATLAB for signal analysis, image processing, filter design, and simulation of electrical systems.
+(LO2) Intellectual Abilities: On successful completion of the module students should be able to analyse and determine the suitability of a programming language based on the nature of the problem; based on relevant software engineering principles, decompose a problem specification into well defined functional blocks (modules) and design the overall program structure; propose coding algorithms based on their knowledge of the programming languages to efficiently implement the software design; design and carry out a test strategy to assess the soundness of the software and make subsequent improvement to design and code; choose and correctly use appropriate tool boxes or functions for a given computational or data processing need in Matlab.
+(S1) On completion of the module students should be able to show experience and skills in software design based on functional decomposition method; design and coding C++ classes for Object oriented program design; using MATLAB to perform matrix calculation and generating high quality visualisation of a given data set. using SIMULINK to model electrical and electronic systems.
+(S2) On completion of the module students should be able to show experience and enhancement in software design using different programming languages; project organisation and problem solving; exploring the functionality of emerging Matlab toolboxes and C++ libraries through independent study.
+"
+Renewable Energy  & Smart Grid ,(ELEC435),Compulsory modules,M,15,Second Semester,50:50,"To develop a good understanding of different renewable energy sources and the principle of energy conversion from renewable sources into electricity. To develop an appreciation of the operation of a micro grid and basic principle of smart grid technologies and associated engineering. To gain a good understanding of the reality of the energy and power systems in industry.
+","(LO1) Knowledge of wind, wave, solar and hydropower energy sources, their energy density and its effects on land usage and an introduction to the theory of conversion from the original form to the electrical energy.
+(LO2) An appreciation of typical configuration of wind power generation systems including wind turbine, generator and power electronic converters and how the wind power generation system operated and connected with the power grid.
+(LO3) Knowledge of micro-grid embedded with renewable energy sources and the operation of an active distribution networks.
+(LO4) An appreciation of smart grid technologies and applications of smart meters and active demand management.
+(LO5) Reliablity and stability of power systems, inlcuding rotor-angle stability, frequency stability, and voltage stability, and how will those terms envolve under smart grid technologies.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: independent learning, problem solving and design skills.
+(S2) On successful completion of the module the student should be able to: Calculate energy conversion efficiency and economical cost of different types of renewable energy sources. Analyse and design a small scale solar thermal application. To design a small micro-grid system including wind power generation system, solar PV and CHP and integration with the distribution network.
+(S3) On successful completion of the module, the student should be able to: Apply their knowledge in the analysis of renewable energy sources, the basic conversion principle to electricity energy, typical wind power generation system and its integration with the power grid and active distribution networks, smart grid and smart meters, and its use to design desired technological applications.
+"
+High Voltage Engineering ,(ELEC407),Compulsory modules,M,15,Second Semester,75:25,"The module aims to provide students with: 
+knowledge of the role and importance of high voltage engineering and insulation in power delivery systems;
+a clear understanding of the underlying theories and principles in relation to network transients, insulation degradation and operation of modern advanced  electrical apparatus;  
+opportunities to develop subject specific and transferrable skills in deriving technical solutions in response to system requirements and safety risks;
+appreciation of practically important issues in executing industrial projects and the latest research development in relation to modelling and experiment of gas discharges.
+","(LO1) On successful completion of the module, students are expected to:
+have knowledge of the history of high voltage engineering and its current development trend, especially high voltage direct current (HVDC) transmission systems.
+(LO2) understand the objectives of insulation design and high voltages testing.
+(LO3) have in-depth knowledge in electrical discharge mechanisms and breakdown in gases and solid materials including air, SF6 and polymer materials.
+(LO4) be familiar with high voltage testing systems including high voltage generation circuits and test systems, measurement of voltage and current.
+(LO5) gain knowledge and understanding of the operation principles of modern electrical apparatuses including circuit breakers, insulators, transformers, surge arrestors, etc and develop skills for the design of test systems and test strategy for these apparatuses.
+(LO6) understand the technical challenge associated with insulation behaviour of polymer material under HVDC stress.
+(S1) Communication (oral, written and visual) - Academic writing (inc. referencing skills)
+(S2) Numeracy/computational skills - Problem solving
+(S3) Numeracy/computational skills - Numerical methods
+(S4) Estimation of fault current levels for a given circuit configuration.
+(S5) Determination of number of outdoor insulators for a given voltage level and technical specification of insulator.
+(S6) Estimation of the design parameters of high voltage generators for a given specification.
+(S7) Ability to analyse test results of electrical apparatus and detemine if a test on an apparatus is successful.
+"
+Power Systems Analysis & Dynamics ,(ELEC402),Compulsory modules,M,15,First Semester,75:25,"The module aims to provide the students with the background necessary to undertand the steady state and dynamic behaviour of power systems, which will enable them to analyse, model and design such systems.
+","(LO1) Analyse simple AC circuits using calculations and phasor diagrams.
+(LO2) Calculate per-unit quantities.
+(LO3) Calculate power flow in 2-bus power systems using the analytical method.
+(LO4) Compute power flow in complex power systems using numerical methods.
+(LO5) Calculate fault quantities, such as fault currents and short circuit levels, in power systems.
+(LO6) Use software tools to analyse the steady-state and faulted behaviour of power systems.
+(LO7) Calculate steady state changes in frequency following load disturbances in single or two-area (interconnected) power systems.
+(LO8) Model power system components such as synchronous machines, transformers and transmission lines.
+(LO9) Evaluate the small-disturbance stability and large-disturbance (transient) stability of a power system.
+(LO10) Apply appropriate measures to improve power system stability.
+"
+Advanced Power Electronics ,(ELEC433),Compulsory modules,M,7.5,Second Semester,75:25,"The module aims to provide the students with the background necessary to undertand the switching, control, and conversion of electrical energy using semiconductor devices which will enable them to analyse, model and design power electronic converters.
+","(LO1) Explain the operation of 3-pulse, 6-pulse and 12-pulse diode rectifiers.
+(LO2) Analyse the waveforms and calculate electrical parameters, such as harmonics, RMS input current and power factor, of diode rectifiers.
+(LO3) Analyse the effect of non-zero source inductance on the operation of rectifier circuits.
+(LO4) Explain the operation of switch-mode DC:DC converters, and the need for transformers in DC:DC converter circuits.
+(LO5) Analyse the operation of the full-bridge forward converter.
+(LO6) Calculate losses in power semiconductor devices and derive thermal management models.
+(LO7) Analyse the gate drive requirements for MOSFET and IGBT gate drives.
+(LO8) Explain the generation of Pulse Width Modulation (PWM) control signals.
+(LO9) Analyse the operation of DC choppers for DC motor drive applications.
+(LO10) Explain the operation of three-phase DC:AC inverters.
+"
+MSc Placement Experience ,(ELEC498),Compulsory modules,M,60,Whole Session,0:100,"The aim of this module is provide students with experience of an industrial environment and to assess operational aspects of the company, its products, working practices, and management structures, also to work as a normal exployee to develop a range of skills and knowledge required for a company.
+The specific aims are: to have an appreciation of: - 
+Management and organisational structure of the company. 
+Principal roles of company personnel. 
+Strategic plans (as published). 
+Processes for ordering goods etc. 
+Processes for processing orders etc.
+Financial controls that are in place to ensure that costs are controlled. 
+The company’s accounts. 
+Decision making processes within the company. 
+Processes function in the company to ensure delivery of quality in services or products.  
+Any ethical policies. 
+Sustainability of product lines or services.
+To develop a range of practical skills. Students should gain where appropriate: -
+Hands on experience of manufacturing products or services. Organising paper work
+Setting realistic deadlines with the expectation to deliver on time.
+To develop general Transferable Skills  
+Effective communication (written, audio and visual) 
+Able to work in a team towards a common goal 
+Develop leadership skills 
+Managing of time and resources 
+Enhanced ability to self learn
+","(LO1) To gain experience of a working environment
+(LO2) To gain knowledge of the organizational structure of a company
+(LO3) To understand the working practices of a company
+(LO4) To organize paperwork related to employment and relevant employment legislation.
+(S1) Business and customer awareness basic understanding of the key drivers for business success – including the importance of innovation and taking calculated risks – and the need to provide customer satisfaction and build customer loyalty
+(S2) Positive attitude/ self-confidence A &#39;can-do&#39; approach, a readiness to take part and contribute; openness to new ideas and the drive to make these happen
+(S3) Self-management readiness to accept responsibility (i.e. leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning
+"
+MSc Industrial Project ,(ELEC499),Compulsory modules,M,60,Whole Session,0:100,"The main aim of this module is for the students to undertake a research project in a real world envionment successfully.
+In particular The aims of the project are:
+for the student to plan, carry out and control a research project at the forefront of their academic discipline, field of study or area of professional practice undertake research or investigative work in professional engineering.
+gain a comprehensive understanding of the techniques applicable to research or advanced scholarship in their field of study to make an original contribution to knowledge.
+to report and present finding and work in both writting and oral presentation.
+to gain industrial experience and enhence the employability.
+","(LO1) An in-depth understanding of the subject.
+(LO2) Mastery of research techniques.
+(LO3) Ability to apply the theory to practice.
+(LO4) Ability and skills to evaluate and present the project outcomes.
+(LO5) Ability and skills to manage and undertake an engineering project in a company.
+(S1) Skills to undertake a research project independently
+(S2) Effective management of resources and time
+(S3) Effective communication, presentation and documentation skills
+(S4) Effective use of knowledge and information technology to solve engineering problems
+"
+Advanced Embedded Systems ,(ELEC470),Optional modules,M,15,Whole Session,75:25,"This module covers material for understanding and designingadvanced embedded computer systems.
+Key topics include computer architecture, low-powerdesign, hardware/software co-design and logic synthesis techniques.
+","(LO1) Students will achieve a full understanding of modernembedded systems including computer architecture, low-power design, hardware/softwareco-design and logic synthesis techniques.
+(LO2) On successful completion the student should be able to understand published data concerning use of typical computer system design and components.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning, Problem solving and design skills.
+(S2) On successful completetion the student should be able to understand published literature on topics related to low-power embedded systems.
+(S3) After scuccessful completion of the module, the student should have: an understanding of the internal operation of CPU, computer architecture, low-power design techniques, hardward/software co-design and logic synthesis techniques.
+"
+Digital System Design ,(ELEC473),Optional modules,M,15,Whole Session,20:80,"To provide students with the ability to: Design and synthesise digital systems using Verilog and ASM. Understand the problems of meta-stability in digital systems. Design microprocessors using ASM techniques. Develop and test customised NIOS II systems using Altera&#39;s System on a Programmable Chip (SOPC) builder tool and Software Build Tools (SBT).
+","(LO1) Ability to design digital systems using the ASM design method.
+(LO2) Ability to implement digital systems using the Verilog Hardware Description Language.
+(LO3) Understanding the internal operation of a MIPS processor.
+(LO4) Ability to implement a SOPC system using Quartus Nios-II.
+(S1) IT skills.
+(S2) Problem solving skills.
+"
+Advanced Systems Modelling & Control ,(ELEC476),Optional modules,M,15,First Semester,70:30,"The module is to introduce advanced system analysis and design techniques to the students and to develop the skills of considering engineering problems from system point of view.
+The aims of the module are: 
+To learn the skills required for system modelling and simulation. 
+To extend the students knowledge from time-driven system to even-driven system modelling and simulation, which covers modelling and simulation of stochastic processes. 
+To understand the principle of advanced control systems. Understand principles of basic adaptive and learning systems and their applications. 
+Select appropriate adaptive systems and/or learning algorithms to deal with a specific engineering problem.
+Develop software packages using MATLAB to resolve an adaptive and/or learning problem. 
+Gain their own knowledge of the subjects of adaptive and learning systems for further development.
+","(LO1) After successful completion of the module, the student should have: An understanding of how time and event driven systems can be represented by mathematical modules. 
+An understanding of how computer simulation can be implemented to help system analysis and design. 
+An appreciation of how computer-aided design and simulation tools operate. 
+An understanding of how random number and random process can be simulated. 
+An understanding of discrete time Markov process modelling and simulation. 
+An appreciation of the system optimisation. 
+The principle of advanced control system design. 
+An appreciation of the advantages of system identification approached to problems of industrial modelling and control and adaptive controller design by contrast to the traditional methodologies. 
+A familiarity with system identification and parameter estimation of dynamic systems.
+An understanding of the system identification and adaptive control techniques. 
+An ability to use the MATLAB software to model a linear dynamic system and design an adaptive controller. 
+An appreciation of how adaptive control theory can be applied to various industrial systems.
+A basic understanding of stochastic automata and their applications.
+(S1) on successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning 
+Problem solving and design skills
+(S2) After successful completion of the module, students will have skills to develop software programs for complicated mixed time-and-event-driven systems. on successful completion of this module the student should have practical skills of using MATLAB System Identification Toolbox to achieve the system modelling of basic engineering systems and to design a basic adamptive learning system for engineering problems.
+(S3) After successful completion of the module, the students should be able to demonstrate ability in applying knowledge of the module topics to: Develop mathematical models for both time-driven and event-driven systems. Analyse the systems described by Markov process. Model, simulate, and validate random processes. Design simulation programs for particularly specified systems. Understand the methods of system optimisation and adaptive control design. On successful completion of this module the student should be able to pursue the further study by themselves in this subject and relevant areas.
+(S4) After successful completion of the module, the student should have: An understanding of how time and event driven systems can be represented by mathematical modules. An understanding of how computer simulation can be implemented to help system analysis and design. An appreciation of how computer-aided design and simulation tools operate. An understanding of how random number and random process can be simulated. An understanding of discrete time Markov process modelling and simulation. An appreciation of the system optimisation. The principle of advanced control system design. An appreciation of the advantages of system identification approached to problems of industrial modelling and control and adaptive controller design by contrast to the traditional methodologies. A familiarity with system identification and parameter estimation of dynamic systems. An understanding of the system identification and adaptive control techniques. An ability to use the MATLAB software to model a linear dynamic system and design an adaptive controller. An appreciation of how adaptive control theory can be applied to various industrial systems. A basic understanding of stochastic automata and their applications.
+"
+Image Processing ,(ELEC319),Optional modules,3,7.5,First Semester,100:0,"To introduce the basic concepts of digital image processing and pattern recognition.
+","(LO1) Knowledge and understanding of Human Vision
+(LO2) Knowledge and understanding of Image Histogram and its application
+(LO3) Knowledge and understanding of Image Transformation methods and their applications
+(LO4) Knowledge and understanding of Shapes and Connectivity
+(LO5) Knowledge and understanding of Morphologocal Operations and their applications
+(LO6) Knowledge and understanding of Noise Filtering methods in Image Processing
+(LO7) Knowledge and understanding of Image Enhancement techniques
+(LO8) Knowledge and understanding of Image Segmentation and its applications
+(LO9) Knowledge and understanding of Image Compression methods
+(LO10) Knowledge and understanding of Frequency Domain Image Analysis
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning Problem solving and design skills
+(S2) After successful completion of the module, the student should have: The ability to apply relevant image enhancement techniques to a given problem. The necessary mathematical skills to develop standard image processing algorithms. The necessary Software skills (using MATLAB) to apply image processing methods and techniques on images.
+"
+Communications Networks ,(ELEC461),Optional modules,M,15,Second Semester,100:0,"To  introduce the principles of communications networks, their components and protocols.    
+To provide students with the tools and techniques to analyse the performance of the main communications protocols, including: link layer, MAC layer, Network Layer (IP) including the main routing protocols, the transport control protocol (TCP), and basic packet queuing theory.
+To provide an overview of the main topic areas in network/Cyber secuity including firewalls, intrusion detection and prevention systems, key  ciphers and applied cryptogrphy, and secure sockets layer (SSL).
+","(LO1) Knowledge and Understanding:On successful completion of the module, students should be able to demonstrate knowledge and understanding of:- The structure of communications networks and how these can be described and analysed using standard reference models (OSI, TCP/IP).- The common protocols used over the major  wired and wireless networks, and ther Interent. - The concept of quality of service (QoS) as applied to networks, and the techniques for implementing it.- The essential parts of an Interent router and the main routing protocols used over the Interent
+(LO2)  Intellectual Abilities: On successful completion of the module, students should be able to  demonstrate the ability to apply their knowledge of the above topics to: - Design and analyse communications networks - Analyse the behaviour, and predict the performance of the communications protocols they have learned. - Analyse and predict the behaviour of queues in packet switched networks. - Analyse and predict the performance of common Internet routing algorithms when applied to differnt network topologies.  - Analyse QoS for communications networks.  -
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning Problem solving and design skills
+(S2) Practical Skills:On successful completion of the module, students should be able to show experience and enhancement of the following key skills:- General mathematical and IT skills.- The ability to analyse and configure networks and protocols.
+"
+Electromagnetic Compatibility ,(ELEC382),Optional modules,3,7.5,Second Semester,75:25,"The module is aimed to provide the students with advanced knowledge and skills to deal with EMC problems.
+The students are expected to master the  fundamental EMC principles and concepts based on the underlying electromagnetic theory. 
+To study  EMC standa rds and regulations, and be able to apply them to real world problems.  
+To be able to use advanced theory too analyse EMC problems.
+To be able to conduct EMC measurements and tests, and also interprete the results.
+","(LO1) Ability to conduct EMC tests and analysis
+(LO2) Ability to conduct EMC analysis and designs
+(LO3) Knowledge and skills and solve EMC problems
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the folowing key skills: Independent learning Problem solving and design skills.
+(S2) After successful completion of the module, the student should be able to: Demonstrate their familiarity with the various measurement techniques used to assess the electromagnetic compatibility of both hardware and systems.
+(S3) On successful completion of the module, students should be able to: Demonstrate their ability to apply sound EMC analytical and design techniques when dealing with both conducted and radiated interference and times domains, and their applicability to engineering systems, is prerequisite knowledge.
+(S4) On successful completion of the module, students should be able to: Demonstrate their knowledge and understanding of the relevant EU regulations governing EMC. Be capable of analysing EMC problems by applying sound electromagnetics principles to networks of current-carrying conductors whether as cable configurations or in circuits/systems involving active and passive devices.
+"
+Plasma System Engineering ,(ELEC391),Optional modules,3,7.5,First Semester,100:0,"To develop an appreciation and understanding of industrial plasma discharges and associated engineering.
+","(LO1) Apply knowledge in the analysis of plasma creation and sustainment, its basic physical properties, its interaction with substrates and its use to produce desired technological outcomes.
+(S1) After successful completion of the module, the student should be able to: Calculate plasma characteristics, predit the energy and flux at the boundary region of material surfaces; Calculate the desposition, etch and sputter rates of substrates in different types of plasma; To design a number of simple power supply circuits relevant to technology plasma creation; To design a simple plasma system for particular technological applications.
+(S2) After successful completion of the module, the student should be able to: Apply their knowledge in the analysis of plasma creation and sustainment , its basic physical properties, its interaction with substrates and its use to produce desired technological outcomes.
+(S3) To demonstrate knowledge and understanding of the basic physical properties in plasmas relevant to industry and the uses for industrial plasma technology.
+"

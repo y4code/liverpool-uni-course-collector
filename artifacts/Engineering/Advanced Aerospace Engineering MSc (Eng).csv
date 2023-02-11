@@ -1,0 +1,246 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Flight Handling Qualities (15cr) ,(AERO401),Compulsory modules,M,15,First Semester,0:100,"The aim is to equip students with the skills and knowledge required to understand fundamental aircraft handling qualities and related &#39;whole aircraft&#39; problems in Industry.
+","(LO1) Students will demonstrate knowledge of a range of different handling qualities requirements for different classes of aircraft and different missions (e.g. ADS-33E, MIL STD 1797)
+(LO2) Students will be able identify and produce the relevant predicted handling qualities criteria for their aircraft
+(LO3) The ability to design mission task elements for use in piloted simulation trials and to conduct an appropriate simulation trial.
+(LO4) Use of appropriate ratings scales and performance metrics to determine the assigned HQs of an aircraft
+(LO5) Presentation of results to demonstrate aircraft&#39;s fitness for role.
+(S1) Teamwork
+(S2) Communication skills
+(S3) Numeracy
+(S4) Lifelong learning skills
+(S5) IT skills
+"
+Advanced Aerodynamics ,(AERO416),Compulsory modules,M,7.5,First Semester,40:60,"To help students develop the ability to analyse and compute the aerodynamic characteristics of aircraft components.
+To introduce students to:
+-- the analytical generation of inviscid flow over airfoils using elementary potential flows.
+-- the mathematical description of potential flow from the incompressible to the supersonic regime. 
+-- the analytical calculation of aerodynamic forces on lifting surfaces, using potential flow theory.
+-- the numerical computation of aerodynamic properties using panel methods
+-- the numerical computation of flow properties using the Method of Characteristics in compressible potential flow
+To introduce students to:
+ -- Computational Fluid Dynamics using the open source packages GMSH for mesh generation and OpenFOAM for simulation.
+To develop the ability to calculate inviscid 2D flows using a CFD package and compare results with analytical potential flow theories such as the Panel Method, Prandtl-Meyer compression and expansion theory and the Method of Characteristics
+","(S1) Problem solving skills
+(S2) Design discussion
+(S3) Application of engineering tools
+(S4) Compilation of engineering report
+(S5) Skills in combining theory, simulation, and experiment
+"
+Further Aerostructural Analysis ,(AERO417),Compulsory modules,M,7.5,First Semester,70:30,"To build upon the structural analysis methods covered in the previous three years of the course to enable static and dynamic analyses of simple structrues with aerostrcutures in sight.
+","(LO1) Students will gain new knowledge of dynamics theory of rods, shafts and beams
+(LO2) Students will achieve enhanced understanding of aerodynamics and structural analysis
+(LO3) Students will gain new knowledge of the finite element method in a dynamics context
+(LO4) Students will learn to carry out static and dynamic analyses of simple structures using a computer software package (MATLAB)
+(LO5) Students will learn to form team roles and be able to work as a member of a team
+(S1) Students will strengthen numerial analysis skills and programming skills
+(S2) Students will practise technical report writing
+"
+Aerospace Capstone Group Design Project ,(AERO420),Compulsory modules,M,30,Whole Session,0:100,"To develop a detailed understanding of the nature of the design process in Aerospace Engineering.
+To integrate technical insight into Aerospace configurational design.  
+To be able to select and use the appropriate tools for the detail design of selected aircraft components.
+To appreciate the importance of teamwork and group activity to achieve a complete engineering objective.
+To stimulate awareness of the marketing, costing and business dimension in the Aerospace project.
+","(LO1) Students will be able to select and be competent in the use of appropriate conceptual design tools and techniques in an aerospace context
+(LO2) Students will be able to plan and conduct an experimental flight test and present the analysis of  their results in an appropriate manner
+(LO3) Students will demonstrate understanding of and be able to show that they have had to make some of the trade-offs that have to be made to come to a realisable and saleable aircraft design
+(LO4) Students will be able to select and be competent in the use of appropriate detail design tools and techniques in an aerospace context
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Oral presentation, Written communications, Oral communication and team-working skills, Computing and IT skills, Problem-solving.
+(S2) On successful completion of the module, students should be able to show experience and enhancement of the following discipline-specific practical skills: Using IT tools for implementing simulations of aerospace systems.
+(S3) On successful completion of the module,students should be able to demonstrate ability in applying knowledge of the above topics in: Reviewing and developing the market requirement and the customer view. Developing a physical embodiment of the aerospace product concept. Checking the detail design against the system specification. Simulating aerospace design concepts quantitatively. Applying existing aerospace knowledge from other modules in new contexts.
+(S4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of: The stages of the design process from concept to detail. The relation of the detail design stage to the conceptual and requirement definition stages;The necessity of teamwork and consistency checking in the detail design stages. The role of project planning in the aerospace project life-cycle.
+"
+Technical Writing for Engineers ,(ENGG596),Compulsory modules,M,7.5,First Semester,0:100,"This module develops technical writing skills to support project planning.
+","(LO1) Critical Review of Scientific Literature
+(LO2) Technical Writing Skills
+(LO3) Carrying out a Literature Survey
+(S1) Communication skills
+(S2) Problem solving skills
+(S3) IT skills
+"
+Project Management ,(MNGT502),Compulsory modules,M,7.5,First Semester,45:55,"To teach students the fundamentals of practical project management required in later university study and in professional engineering careers;
+To provide students with the opportunity to develop a range of professional and project management skills through group project work.
+","(LO1) On completion of this module students will have developed knowledge un understanding of fundamentals of practical project management including:
+- situational analysis
+-preparation of requirements documentation
+- formulation of objectives
+- work programme planning
+- work programme scheduling
+- understanding and use of critical path
+(LO2) On completion of this module students will have developed knowledge un understanding of fundamentals of practical risk management including:
+- identification of risks to project completion
+- quantification of risk severity
+- risk analysis and mitigation / contingency planning
+(LO3) On completion of this module students will have developed knowledge un understanding of fundamentals of practical cost management including:
+- understanding and analysis of direct and indirect costs
+- calculation of key costs such as labour and depreciation of capital
+- understanding and analysis of cost behaviour over time
+- understanding and calculation of overheads and overhead absorption rates
+- cost analysis as a decision making tool (eg special order costing)
+(S1) On completion of the 5 project tasks students will be able to demonstrate their development of group work and communications skills
+(S2) On completion of the 5 project tasks students will be able to demonstrate their development of meeting management and record keeping skills
+(S3) On completion of the 5 project tasks students will be able to demonstrate that they can deliver project outputs to a hard deadline
+(S4) On completion of the 5 project tasks students will be able to demonstrate their ability to use MS Project software as a management tool.
+(S5) On completion of the MSc only task the students will develop and evidence skills in self and peer performance evaluation
+"
+Aeroelasticity ,(AERO415),Compulsory modules,M,7.5,Second Semester,80:20,"To build upon the structural analysis methods and aerodynamics covered in the previous three years of the programme to enable static and dynamic aeroelastic analysis of low-degree-of-freedom systems by analytical and numerical methods
+","(LO1) Students will gain new knowledge of static and dynamic aeroelasticity
+(LO2) Students will achieve enhanced understanding of aerodynamics and structural analysis
+(LO3) Students will be more confident in analysis to solve engineering problems
+(S1) Problem solving skills
+"
+Enterprise Studies ,(MNGT414),Compulsory modules,M,7.5,Second Semester,0:100,"To introduce the student to various aspects of entrepreneurial activity
+To develop a knowledge and understanding of enterprise related concepts, legislation and current development tools.
+To stimulate an appreciation of modern enterprise challenges and the importance of entrepreneurial activity in relation to organisational success.
+","(LO1) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the key aspects of enterprise activities (Marketing, Management of Technology, Entrepreneurship, Business Planning, Legislation, Ethics).
+(LO2) On successful completion of the module, students should be able to demonstrate knowledge and understanding of theory on technology assessment and competitive positioning.
+(LO3) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the relationships between innovation, technology and commercial viability.
+(LO4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the main differences between general management and enterprise processes.
+(LO5) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the process of business planning and financing new business start-ups.
+(LO6) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the modern approach to innovation management and professional ethics.
+(LO7) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to describing and explaining the concepts and processes in the syllabus.
+(LO8) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to analysing technology opportunity and value propositions.
+(LO9) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to preparing of business plans.
+(LO10) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to dealing with ambiguity.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: in descriptive writing in qualitative and quantitative analysis and problem-solving in effective assessment of business opportunities
+(S2) On successful completion of the module, students should have gained the following practical skills: Computer searching for real-time business information, worldwide patents and British Standards Using software to assist with the preparation of a plan for a technology-based business group working project management
+"
+Msc(eng) Project (60 Credits) ,(ENGG660),Compulsory modules,M,60,Summer (June-September),0:100,"This module enables students to pursue a research project under the guidance of a member of academic staff.
+","(LO1) On successful completion of the project, the student should have developed a substantial and systematic knowledge and understanding of key aspects of the engineering or engineering-related topic of his/her project, including the theory, recognised principles and best practices (as appropriate).  Much of this knowledge will be at, or informed by, the forefront of defined aspects of the discipline.
+(LO2) On successful completion of the project, the student should also have developed a comprehensive knowledge and understanding of the experimental and theoretical techniques and research methodology appropriate to advanced study in their field.
+(S1) On successful completion of the project, the student should be able to show experience and enhancement of the following key skills: 
+Dealing with complex issues in a systematic and creative manner; 
+Effectively communicating findings orally and in writing to specialist and non-specialist audiences; 
+Planning and implementing tasks autonomously at a professional level; 
+Interacting effectively with others (eg, supervisor, technicians, etc); 
+Designing poster/webpages; 
+Computing and ITskills (scope-dependent);
+Self-discipline, self-motivation, self-direction and originality in tackling and solving problems.
+(S2) On successful completion of the project, the student should be able to show experience and enhancement in some of the following discipline-specific practical skills (depending on the scope of the project): 
+Using sophisticated research equipment to carry out experimental/laboratory/workshop activities with due regard to safety;
+Using appropriate engineering analysis software and IT tools.
+(S3) On successful completion of the project, the student should be able to demonstrate ability in several of the following: 
+Critically evaluating current research and advanced scholarship;
+Defining/specifying a problem; 
+Researching and information-gathering; 
+Planning/designing experimental work using suitable techniques and procedures with due regard to safety; 
+Assessing and managing risk; 
+Analysing technical problems qualitatively and/or quantitatively and drawing conclusions; 
+Designing a system, component or process based on an outline or detailed specification; 
+Assembling and analysing data and drawing conclusions; 
+Evaluating current methodologies and (where appropriate) propose new methodologies; 
+Critically evaluate the project outcomes; 
+Making an original contribution to knowledge.
+"
+Space Mission Design ,(AERO419),Optional modules,M,15,Second Semester,50:50,"The aims of this module are to enable students to understand the principles of spacecraft trajectory design, navigation and operations for planetary missions. Using mathematical methods and knowledge of the physical world, it is possible to design and/or estimate spacecraft trajectories, or to identify properties of planets and moons from measurements taken by planetary orbiters and space probes. Mastering these topics enables the student to start to actually design space missions, including the specifying of navigation and observation system, to be used in space exploration.
+Most realistic problems in orbital mechanics can only be solved numerically, hence computer programming forms an important part of this module. Students should thus ideally have an interest and some basic skills in programming. Participants will be expected (and helped) to develop their own code. MATLAB/SIMULINK will be the default programming environment, though students who prefer to use different tools may do so. By the end of the module, students will have developed their own mini astrodynamics &#34;toolbox&#34;, and acquired good numeracy and analytical skills. They will understand the numerical techniques used in Astrodynamics. Students will be encouraged to investigate NASA&#39;s open-source ephemeris toolbox called the SPICE Toolkit (https://naif.jpl.nasa.gov/naif/toolkit.html), which is commonly used by the Space Industry and Space Agencies for orbit design and navigation. The &#34;Clean Space initiative&#34; regarding  new space missions design impact across their entire life cycle (i.e. design of the end-of-life and disposal of a spacecraft) will be discussed.
+","(LO1) Ability to understand, analyse, and obtain appropriate solutions to a range of problem associated with the motion of a spacecraft through the solar system.
+(LO2) Ability to distinguish between different potential solution methods for trajectory design and optimisation, and to determine the most appropriate for a given astrodynamics problem.
+(LO3) Familiarity with, and ability to employ appropriate language and terminology to discuss and define space missions and operation.
+(LO4) Appreciation of the principles of space mission design, including the environmental impact of a space mission&#39;s life-cycle.
+(LO5) Understanding of the importance of space mission life-cycle, e.g. within ESA&#39;s &#34;Clean Space Initiative&#34;.
+(S1) Problem solving skills. Ability to analyse a range of realistic space-mission scenarios; to formulate and solve associated numerical problems.
+(S2) Numeracy/Computer Model development, by means of exercises requiring numeric solutions via MATLAB/SIMULINK (or their chosen programming language, by agreement with module coordinator)
+(S3) Reasoning logically, using a rational, systematic approach based on sound understanding and application of appropriate Mechanics, Physics, and Mathematics theories, to arrive at appropriate conclusions.
+(S4) Ability to apply and adapt the concepts and techniques learned about to unseen problems.
+(S5) Reporting, writing and data presentation and analysis skills, through an individual written report on the coursework project.
+"
+Advanced Fluid Mechanics ,(ENGG419),Optional modules,M,15,First Semester,40:60,"To introduce students to:
+-- the mathematical description of fluid kinematics.
+-- the physical laws expressed by the equations of fluid motion.
+-- the assumptions associated with particular limits of the equations of fluid motion.
+-- simple exact solutions of the equations of motion.
+-- the mathematical nature of different classes of partial differential equations and the implications for their numerical solution.
+-- the concept of scientific computing and its basic elements: solution of linear and nonlinear systems, eigenvalue problems, differentiation and integration.
+-- the differences between laminar and turbulent flow.
+-- the origins of laminar-turbulent flow transition
+-- the physics of turbulence
+-- the need for turbulence modelling and fundamental concepts of turbulence modeling.
+To make students aware of the capabilities and weaknesses of CFD.
+To develop skills in choosing appropriate levels of CFD analysis for a specific problem.
+To enable students to solve simple fluid mechanics problems in Matlab and analyze the results.
+
+To develop skills in using a CFD package, including meshing and setting up a simulation.
+
+To enable students to solve laminar and turbulent flow examples using a CFD package and analyze the results.
+","(LO1) On successful completion of the module, students should be able to show experience and enhancement of practical skills in using appropriate modelling and analytical methods to solve advanced fluid mechanics problems
+(LO2) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the kinematic description of fluid motion.
+(LO3) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the different limits of the equations of fluid motion.
+(LO4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of dimensionless numbers arising in fluid flow motion, and of the process of non-dimensionalization of the equations.
+(LO5) On successful completion of the module, students should be able to derive exact steady laminar flow solutions under a variety of approximations and boundary conditions.
+(LO6) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the concepts of inviscid flow and the boundary layer
+(LO7) On successful completion of the module, students should be able to demonstrate knowledge and understanding of (basic) elements of scientific computing.
+(LO8) On successful completion of the module, students should be able to solve simple elliptic and parabolic equations, arising as limiting cases of the equations of motion, using Matlab (R).
+(LO9) On successful completion of the module, students should be able to demonstrate knowledge and understanding of how to use both self-programmed and open source CFD packages to solve 2D and 3D flow problems for incompressible, transonic or supersonic steady or unsteady flow.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S5) Digital scholarship participating in emerging academic, professional and research practices that depend on digital systems
+"
+Advanced Engineering Materials ,(MATS301),Optional modules,3,7.5,First Semester,85:15,"To understand the production methods for and mechanical properties of non-ferrous metals.
+To identify the types of fibres and matrices commonly used in the manufacture of composite materials.
+To identify the commonly used test methods and NDT techniques for composites.
+To use micromechanics approaches and Classical Laminate Theory to study the mechanical response of composites.
+","(LO1) Knowledge and understanding of the origins of the microstructures of Al, Ti and Ni alloys, and how they may be influenced by thermal and mechanical treatments
+(LO2) Knowledge of fibres, matrices and fabric types used in composites
+(LO3) Understanding of manufacturing processes, test methods and NDT techniques used for composites
+(LO4) Ability of calculating the mechanical properties of composites using micromechanics and Classical Laminate Theory
+"
+Rotorcraft Flight ,(AERO314),Optional modules,3,7.5,Second Semester,100:0,"To provide students with a solid grounding in the principles of rotorcraft flight mechanics, through lectures, discussion, problem solving, background reading, this all leading to the ability to formulate and solve a range of problems relating to rotorcraft flight performance and dynamics.
+","(LO1) Discipline-specific practical skills: Ability to carry out correct momentum-theory based performance analysis; hover, axial and forward flight anaylses; rotor dynamic analysis; blade element modelling.
+(LO2) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to:use a variety of analysis methods (e.g.momentum theory, blade element method, linear stability theory,eigenvalues/vectors, response solutions, analytic approximations) to explore,and evaluate helicopter flight mechanics.analyse aerodynamic and dynamic behaviour of helicopter rotor blades.
+(LO3) On successful completion of the module, students should be able to demonstrate knowledge and understanding of: the context in which helicopters are operated (both civil and military) the limitations in their operational capability in terms of fundamental aerodynamic and dynamic characteristics helicopter flight mechanics in terms of the ability to trim the aircraft in a range of flight conditions, analyse the stability of flight and the response to controls and atmospheric disturbances
+"
+Spaceflight ,(AERO319),Optional modules,3,7.5,First Semester,80:20,"To develop an understanding of the principles and challenges of space flight and the significance of space-based applications.  Development of the ability to analyse the performance of a multi-stage rocket as well as the ability to predict the trajectory of a spacecraft in orbit around the Earth or in an inter-planetary orbit.
+","(LO1) Developing an understanding of orbital mechanics of planets and spacecraft
+(LO2) Developing an understanding of the principles of rocket propopulsion and the design and layout of space launchers
+(LO3) Developing an insight into the different systems onboard a spacefraft and their function
+(LO4) Developing an understanding of how spacefraft stabilisation works
+(LO5) Learning how to computate spacecraft orbits
+(LO6) Simplified theory of variable mass systems, the rocket equation.
+(S1) On completion of this module, students should be able to show experience and enhancement of their ability to analyse, interpret and present technical data
+(S2) On completion of this module students should have enhanced of their written communication skills
+(S3) On completion of this module students should be able to simulate two- and three-body problems
+"
+Advanced Guidance Systems ,(AERO430),Optional modules,M,7.5,Second Semester,100:0,"To develop an understanding of the use of advanced guidance laws in autonomous air systems, including the interactions of airframe dynamics, sensors and control surfaces. 
+To understand the use of the Kalman and Extended Kalman filters in aerospace systems.
+","(LO1)  On successful completion of the module, a student will be expected to understand: 
+The importance of navigation reference systems and accurate guidance systems. 
+State estimation using a Kalman filter. 
+The limitations on navigation and guidance accuracy arising from system dynamics, sensor errors and imperfect control systems. 
+At least one application of advanced guidance techniques.
+(LO2)  On successful completion of the module, the student will be expected to be able to demonstrate: The transformation of co-ordinates from one reference system to another. The derivation of state estimates from supplied data. The application of guidance techniques to a simulated dynamical control system.
+(S1)  On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning Problem solving and design skills
+"
+Structural Optimisation ,(ENGG414),Optional modules,M,7.5,Second Semester,70:30,"To build upon the structural analysis methods covered in the previous twoyears of the course to enable finite element analysis and structuraloptimisation for design.
+","(LO1) Students will grasp the idea of optimisation and learn how to optimise simple structures by analytical and numerical methods
+(LO2) Students will learn some new mathematics and enhance mathematical skills
+(LO3) Students will enhance numerical and programming skills
+(LO4) Students will practise design and technical report writing
+(LO5) Students will learn to form team roles and be able to work as a member of team
+"
+Business and the Environment ,(ENVS470),Optional modules,M,15,Second Semester,0:100,"To explore the relationships between business and the new environmental agenda;
+To develop an understanding of the benefits of a positive approach to environmental management for business;
+To develop an understanding of the processes involved in developing environmental management systems for businesses.
+","(LO1) an appreciation of the growing importance of environmental management to business
+(LO2) an understanding of the processes involved in the development of a formal environmental management system
+(LO3) an ability to appreciate the advantages and disadvantages of formal verification
+(LO4) an ability to communicate ideas effectively to different audiences
+(S1) Communicating to different audiences using a variety of different approaches
+(S2) Teamwork
+(S3) Organisational skills
+"
+Energy and the Environment ,(MECH433),Optional modules,M,15,Second Semester,0:100,"To give students an understanding of the advantages and disadvantages of alternative and conventional energy generation methods.
+To develop detailed knowledge of wind, solar energy capture and nuclear energy.
+To develop skills in quantitative analysis of energy generation methods.
+To develop skills in dealing with complex problems in a systematic manner. To develop ability in independent learning.
+","(LO1) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the energy sources, the concept of sustainability, the way energy is generated or harvested and their impact to the natural environment.
+(LO2) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the basic theory of wind energy, solar energy and nuclear energy.
+(LO3) On successful completion of the module, students should be able to demonstrate ability in using simple theory to estimate the energy production and associated costs.
+(LO4) On successful completion of the module, students should be able to demonstrate ability in using simple economic model to estimate the viability of the energy scheme and sustainability issues.
+(S1) Problem formulation and analysis
+(S2) Using analytical methods taught in the module, dealing with complex issues in a systematic manner
+(S3) Applying analytical methods to wind, solar power and nuclear energy generation problems; decision making in complex and unpredictable situations
+(S4) Understanding of alternative energy generation methods.  Impact of conventional energy generation methods on the environment; quantitative analysis techniques for energy generation methods
+"

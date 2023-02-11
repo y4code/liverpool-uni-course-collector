@@ -1,0 +1,222 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Technical Writing for Engineers ,(ENGG596),Compulsory modules,M,7.5,First Semester,0:100,"This module develops technical writing skills to support project planning.
+","(LO1) Critical Review of Scientific Literature
+(LO2) Technical Writing Skills
+(LO3) Carrying out a Literature Survey
+(S1) Communication skills
+(S2) Problem solving skills
+(S3) IT skills
+"
+"Anatomy, Physiology and Biochemistry ",(PHYS876),Compulsory modules,M,7.5,First Semester,100:0,"To provide the necessary physics and biological principles which underpin medical physics and clinical engineering. 
+","(LO1) Knowledge of the necessary physics and biological principles which underpin medical physics and clinical engineering.
+(S1) Problem solving skills
+(S2) Communication skills
+"
+Structural Biomaterials ,(MATS410),Compulsory modules,M,15,First Semester,0:100,"The aims of this course are to develop an advanced understanding of the structure and properties of materials used in medical devices.  In particular: how this relates to their application in medical devices how the interactions with the biological environment influences their structure and properties (e.g. degradation) how the surface properties of the materials influence the bio interactions and biocompatibility how the surface properties of the materials can be modified to enhance the biological interactions
+","(LO1) Be able to select appropriate materials, in terms of their structure and properties, for specific medical implant applications
+(LO2)  Evaluate and understand the likely biocompatibility of the choice of material
+(LO3)  Undestand strategies to enhance biocompatibility via surface modification
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning, group discussions, Scientific literature searching, interpretation of scientific literature, report writing
+(S2) On successful completion of the module, student should be able to demonstrate ability in applying knowledge of the above topics to: select the appropriate materials, in terms of their structure and properties, for specific medical implant applications, evaluate and understand the likely biocompatibility of their choice, consider strategies to enhance biocompatibility via surface modification.
+(S3) On successful completion of the module, students should be able to demonstrate knowledge and understanding of: The structure and properties of key metals and alloys that make them applicable in specific medical applications, How implantation in the body influence the corrosion of key implant metals and alloys, The structure and properties of key polymers that make them applicable in specific medical applications, The mechanisms of polymer degradation and how they can be used in specific applications such as to aid drug delivery, The structure and properties of specific ceramics that make them applicable in medical applications, The structure and properties of a range of composites and how to tailor their properties for specific medical applications, The concept of biocompatibility, The structure and importance of the material surface/biological environment interface, The important surface properties of implant materials and how they are analysed, How the surface properties of implant materials can be modified to control the biological interactions/
+"
+Computer Aided Design ,(MNFG604),Compulsory modules,M,7.5,First Semester,0:100,"To introduce the student to the latest 3D tools and techniques used by designers.
+To develop a wider knowledge and understanding of integrated systems design.
+To stimulate an appreciation of modern design and development methodologies.
+","(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Engineering related IT skills Qualitative and quantitative analysis and problem-solving
+(S2) On successful completion of the module, students should be able to show experience and enhancement of the following discipline-specific practical skills: Proficient use of Pro/ENGINEER 3D CAD/CAM/CAE - [WILDFIRE]
+(S3) On successful completion of the module, students should be able to demonstrate ability in: Working from existing specifications and technical drawings Translating concepts and ideas into non-ambiguous 3D models in virtual space Developing articulate and intelligent parametric models with the correct &#39;design intent&#39; Integrated system design
+(S4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the following: Principles of modern computer aided design Latest computer aided design methodologies Processes used in integrated systems design Parametric modelling - the master model concept Pro/ENGINEER CAD/CAM/CAE &#39;Design for Manufacture and Assembly&#39; (DFMA) Traditional management of assemblies using a &#39;Bill of Materials&#39; (BOM) Industry standard technical drawings
+"
+Musculoskeletal Biomechanics ,(ENGG410),Compulsory modules,M,15,Second Semester,0:100,"To introduce biomechanics terminology and concepts. To develop knowledge of biomechanics of tissues and structures of the musculoskeletal system (bone, cartilage, tendons, ligaments, skeletal muscle). To develop knowledge of biomechanics of joints (knee, hip, foot and ankle) to develop understanding of biomechanics of human movement.
+","(LO1) Students will develop knowledge and understanding of the basic principles of biomechanics
+(LO2) Students will develop knowledge and understanding of the structure and biomechanical of hard and soft tissues
+(LO3) Students will develop knowledge and understanding of the structure and biomechanical of hard and soft tissues of the musculoskeletal system.
+(LO4) Students will develop knowledge and understanding of the biomechanics of human gait and techniques to measure and analyse human movement.
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Critical thinking and problem solving - Problem identification
+(S3) Communication (oral, written and visual) - Academic writing (inc. referencing skills)
+"
+Group Engineering Design ,(MECH401),Compulsory modules,M,15,Whole Session,0:100,"To present the fundamental principles of Engineering Product Design according to the Total design methodology.
+To engage students in a multi-disciplinary group project to develop and justify an innovative engineering solution/product that is part of a grand challenge which is formulated from complex and uncertain factors.
+To develop students team working, communication, project management, problem solving and critical evaluation skills.
+To formulate a theoretical novel solution that is supported by valid evidence and meets an authentic need.
+","(M1) (LO1) On successful completion of the module the students should be able to critically evaluate methodologies and associated outcomes, in order to select and use the most appropriate methods and identify good practice in the areas of:
+-	Product development processes – particularly “Total Design”
+-	Management of Engineering Design
+-	Tools and techniques employed in engineering design
+-	3D computer Aided Design in Creo
+-	Materials and manufacturing process selection using   Cambridge Engineering Selector software
+-	Design for Manufacture, Assembly and Sustainability
+-	Record keeping and meeting administration
+(S1) On successful completion of the module, students should be able to reflect and evaluate factors which have an impact on and contribute to good practice in
+-Group working
+- Project planning and management
+- Creative solutions of uncertain and open ended complex problems
+(S2) On successful completion of the module students should be able to identify good practice and  make and justify decisions which are based on a critical evaluation of data/solutions derived from the following design skills:
+-Analysis of market and technical state of the art to identify innovation opportunity
+- Preparation of product design specification
+- Creative concept design through group brainstorming
+- Formal approaches to Concept Variant Analysis
+- Detailed design and embodiment in 3D CAD (Creo)
+- Materials and manufacturing selection using CES
+- Specification and sourcing of standard engineering components
+- Preparation of 2D technical drawings
+- Preparation of formal design review documents
+"
+Tissue Engineering ,(ENGG412),Compulsory modules,M,15,Second Semester,0:100,"The aim of this module are to provide an overview and tissue engineering applications and their use in current and future therapies, giving specific examples in hard and soft tissue engineering.
+","(LO1) Understand the multi-disciplinary nature of tissue engineering and the key target areas that are currently successful within the field and why in terms of material development and cost.
+(LO2) Develop a basic understanding of the biological environment into which a specific tissue engineered device could be implanted and the associated experimental/functional parameters that need to be considered when addressing these areas.  Understand the differences in tissue structure in terms of mechanical properties and how these need to be incorporated into material and experimental design.
+(LO3) Develop an understanding for the need for “bottom-up” (material induced biological responses) approaches to tissue engineering  , understanding how to use material variables to control cell responses and what material variables can be changed to control certain biological responses
+(LO4) Identify novel material development/modification techniques that can be used to develop the next generation of smart materials for tissue engineering applications
+(LO5) Understand and design in vitro testing regimes that can be used to assess the potential of materials for tissue engineering applications.
+(S1) Communication skills-Oral Presentation
+(S2) Teamwork-Group Work
+(S3) Problem solving skills-Material selection ssesments
+"
+Statistics ,(PHYS809),Compulsory modules,M,7.5,Whole Session,33:67,"To give a theoretical and practical understanding of the statistical principles involved with radiation detectors.
+","(LO1) Knowledge of experimental errors and probability distributions
+(LO2) The ability to use statistical methods in data analysis
+(LO3) The ability to apply statistical analysis to data from radiation detectors
+(S1) Problem solving skills
+"
+Cardiovascular Bioengineering ,(ENGG411),Compulsory modules,M,7.5,Second Semester,80:20,"To introduce engineering students to various biofluid mechanicsproblems. In particular the fluidmechanics of the circulation (haemodynamics) will be presented in terms thatare familiar to students of engineering.
+","(LO1) On successful completion of the module, students should be able to demonstrate knowledge and understanding of: The role of different bio-fluids in the human bodyThe importance of blood flow in relation to health and disease.The basic principles of blood flow in the body
+(LO2) On successful completion of the module students should be able to perform calculations relating to blood flow in arteries and cardiovascular devices
+(S1) Critical thinking and problem solving - Problem identification
+(S2) Numeracy/computational skills - Problem solving
+(S3) Communication (oral, written and visual) - Presentation skills - written
+"
+Msc(eng) Project (60 Credits) ,(ENGG660),Compulsory modules,M,60,Summer (June-September),0:100,"This module enables students to pursue a research project under the guidance of a member of academic staff.
+","(LO1) On successful completion of the project, the student should have developed a substantial and systematic knowledge and understanding of key aspects of the engineering or engineering-related topic of his/her project, including the theory, recognised principles and best practices (as appropriate).  Much of this knowledge will be at, or informed by, the forefront of defined aspects of the discipline.
+(LO2) On successful completion of the project, the student should also have developed a comprehensive knowledge and understanding of the experimental and theoretical techniques and research methodology appropriate to advanced study in their field.
+(S1) On successful completion of the project, the student should be able to show experience and enhancement of the following key skills: 
+Dealing with complex issues in a systematic and creative manner; 
+Effectively communicating findings orally and in writing to specialist and non-specialist audiences; 
+Planning and implementing tasks autonomously at a professional level; 
+Interacting effectively with others (eg, supervisor, technicians, etc); 
+Designing poster/webpages; 
+Computing and ITskills (scope-dependent);
+Self-discipline, self-motivation, self-direction and originality in tackling and solving problems.
+(S2) On successful completion of the project, the student should be able to show experience and enhancement in some of the following discipline-specific practical skills (depending on the scope of the project): 
+Using sophisticated research equipment to carry out experimental/laboratory/workshop activities with due regard to safety;
+Using appropriate engineering analysis software and IT tools.
+(S3) On successful completion of the project, the student should be able to demonstrate ability in several of the following: 
+Critically evaluating current research and advanced scholarship;
+Defining/specifying a problem; 
+Researching and information-gathering; 
+Planning/designing experimental work using suitable techniques and procedures with due regard to safety; 
+Assessing and managing risk; 
+Analysing technical problems qualitatively and/or quantitatively and drawing conclusions; 
+Designing a system, component or process based on an outline or detailed specification; 
+Assembling and analysing data and drawing conclusions; 
+Evaluating current methodologies and (where appropriate) propose new methodologies; 
+Critically evaluate the project outcomes; 
+Making an original contribution to knowledge.
+"
+Smart Materials ,(MATS515),Optional modules,M,7.5,Second Semester,80:20,"To develop an understanding of the properties and limitations of a range of ‘smart materials’, leading to an appreciation of how these can be exploited for a wide range of engineering applications. To develop an appreciation of state-of-the-art and future materials, devices and processing technology associated with smart materials.
+","(LO1) Students who successfully engage with this module will be able to describe the underlying physics responsible for the actuating behaviour of each of the mayor classes of ‘Smart Material’ covered.
+(LO2) Students who successfully engage with this module will be able to make informed judgements about the selection of smart materials for specific applications (including state-of-the-art applications or future applications that are at the research stage).
+(LO3) Students who successfully engage with this module will be able to describe key manufacturing processes associated with the utilisation of Smart Materials and make informed decisions about which process methodology is most suitable.
+(LO4) Students who successfully engage with this module will be able to numerically evaluate device performance related parameters and make informed decisions about device design based on these.
+(LO5) Students who successfully engage with this module will be able to describe and illustrate examples of applications of each ‘Smart Material’ covered in the module, identifying materials that are commercially used, critically evaluating why these have been selected and evaluating research and state-of-the-art materials that may be used in the future.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: independent learning. advanced problem solving. critical evaluation.
+"
+Additive Manufacturing ,(MNFG610),Optional modules,M,7.5,First Semester,60:40,"To provide an overview on the role of additive manufacturing in new product development.
+To develop a generic understanding on the principles and the complete process chain of additive manufacturing processes.
+To provide an awareness on recent developments in additive manufacturing and associated technologies.
+","(LO1) Knowledge and Understanding
+On successful completion of the module, students should be able to demonstrate knowledge and understanding of: 
+- The scientific principles of additive manufacturing technology
+- The generic software for slicing operations.
+- The niche role of additive manufacturing technology in rapid product development. 
+- Analysis and evaluation of AM processes.  
+- Intellectual Abilities
+On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to:
+- Selecting an appropriate additive manufacturing process for a particular need based on technical, economic, quality and time considerations. 
+- Practical Skills N/A General Transferable Skills
+On successful completion of the module, students should be able to show experience and enhancement of the following key skills: 
+- written report writing. 
+- Ability to work in a team Ability to deliver work to a deadline
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: 
+- Written report writing (publishable standard)
+- Ability to work in a team Ability to deliver work to a deadline
+(S2) On successful completion of the module, students should be able to show experience and enhancement of the following key skills:
+Teamwork skills: Communication - Time management - Problem-solving - Listening - Critical thinking - Collaboration
+(S3) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to:
+- Select an appropriate additive manufacturing process for a particular need based on technical, economic, quality and time considerations.
+-  Suggest and discuss future advances in Additive Manufacturing
+(S4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of:
+- The scientific principles of additive manufacturing technology.
+- The generic software for slicing operations.
+- The niche role of additive manufacturing technology in rapid product development.
+- Analysis and evaluation of AM processes.  
+-The types of materials used in Additive Manufacturing
+"
+Materials Processing and Selection ,(MATS520),Optional modules,M,15,First Semester,70:30,"This module will introduce the student to the concepts of materials processing and selection and the criteria used in these processes. The broad scope of manufacturing and processing technologies for metals, ceramics and polymers will be introduced.  This will be followed by development of a deeper appreciation of the influence of processing upon the structure and properties of these materials.
+","(LO1) Knowledge and understanding of a broad range of advanced metal, polymer and ceramic processing techniques and manufacturing technology. 
+(LO2) Appreciation of how the processing of materials affects their microstructure and properties.
+(LO3) Understanding of heat-treatment processes in the context of materials processing
+(LO4) Appreciation of the factors which are important in the selection of a material and fabrication process to produce components with specific mechanical and other properties
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Commercial awareness
+"
+Enterprise Studies ,(MNGT414),Optional modules,M,7.5,Second Semester,0:100,"To introduce the student to various aspects of entrepreneurial activity
+To develop a knowledge and understanding of enterprise related concepts, legislation and current development tools.
+To stimulate an appreciation of modern enterprise challenges and the importance of entrepreneurial activity in relation to organisational success.
+","(LO1) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the key aspects of enterprise activities (Marketing, Management of Technology, Entrepreneurship, Business Planning, Legislation, Ethics).
+(LO2) On successful completion of the module, students should be able to demonstrate knowledge and understanding of theory on technology assessment and competitive positioning.
+(LO3) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the relationships between innovation, technology and commercial viability.
+(LO4) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the main differences between general management and enterprise processes.
+(LO5) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the process of business planning and financing new business start-ups.
+(LO6) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the modern approach to innovation management and professional ethics.
+(LO7) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to describing and explaining the concepts and processes in the syllabus.
+(LO8) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to analysing technology opportunity and value propositions.
+(LO9) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to preparing of business plans.
+(LO10) On successful completion of the module, students should be able to demonstrate ability in applying knowledge of the above topics to dealing with ambiguity.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: in descriptive writing in qualitative and quantitative analysis and problem-solving in effective assessment of business opportunities
+(S2) On successful completion of the module, students should have gained the following practical skills: Computer searching for real-time business information, worldwide patents and British Standards Using software to assist with the preparation of a plan for a technology-based business group working project management
+"
+Advanced Manufacturing With Lasers ,(MECH607),Optional modules,M,15,Second Semester,80:20,"To provide an understanding of the principles of advanced manufacturing techniques using lasers and how these are being explored through current/recent research and adopted by industry.
+","(LO1) A systematic understanding of knowledge about the principles and practice of a range of advanced manufacturing processes using lasers and up to date research activity.
+(LO2) A systematic understanding of knowledge about the applications of lasers in micro and nano scale processing.
+(LO3) A systematic understanding of knowledge about the principles of laser-materials interactions at the micro level.
+(LO4) A systematic understanding of knowledge about how new laser technology may be introduced to enhance current practice, using a sound theoretical approach.
+(S1) Organisational skills - Independent learning, via private study
+(S2) Communication skills - ability to write scientific and technical reports
+(S3) Problem solving skills
+"
+Energy and the Environment ,(MECH433),Optional modules,M,15,Second Semester,0:100,"To give students an understanding of the advantages and disadvantages of alternative and conventional energy generation methods.
+To develop detailed knowledge of wind, solar energy capture and nuclear energy.
+To develop skills in quantitative analysis of energy generation methods.
+To develop skills in dealing with complex problems in a systematic manner. To develop ability in independent learning.
+","(LO1) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the energy sources, the concept of sustainability, the way energy is generated or harvested and their impact to the natural environment.
+(LO2) On successful completion of the module, students should be able to demonstrate knowledge and understanding of the basic theory of wind energy, solar energy and nuclear energy.
+(LO3) On successful completion of the module, students should be able to demonstrate ability in using simple theory to estimate the energy production and associated costs.
+(LO4) On successful completion of the module, students should be able to demonstrate ability in using simple economic model to estimate the viability of the energy scheme and sustainability issues.
+(S1) Problem formulation and analysis
+(S2) Using analytical methods taught in the module, dealing with complex issues in a systematic manner
+(S3) Applying analytical methods to wind, solar power and nuclear energy generation problems; decision making in complex and unpredictable situations
+(S4) Understanding of alternative energy generation methods.  Impact of conventional energy generation methods on the environment; quantitative analysis techniques for energy generation methods
+"
+Advanced Engineering Materials ,(MATS301),Optional modules,3,7.5,First Semester,85:15,"To understand the production methods for and mechanical properties of non-ferrous metals.
+To identify the types of fibres and matrices commonly used in the manufacture of composite materials.
+To identify the commonly used test methods and NDT techniques for composites.
+To use micromechanics approaches and Classical Laminate Theory to study the mechanical response of composites.
+","(LO1) Knowledge and understanding of the origins of the microstructures of Al, Ti and Ni alloys, and how they may be influenced by thermal and mechanical treatments
+(LO2) Knowledge of fibres, matrices and fabric types used in composites
+(LO3) Understanding of manufacturing processes, test methods and NDT techniques used for composites
+(LO4) Ability of calculating the mechanical properties of composites using micromechanics and Classical Laminate Theory
+"
+Finite Element Analysis ,(MECH452),Optional modules,M,7.5,First Semester,0:100,"To develop a fundamental understanding of the Finite Element method.  To apply the Finite Element methodology to a range of problems, spanning mechanical and civil engineering. To develop skills in interpreting and understanding the physical meaning of finite element results.
+","(LO1) Fundamental understanding of the capabilities and limitations of modern Finite Element software.
+(LO2) Ability to apply the Finite Element methodology to problems across mechanical and civil engineering.
+(LO3) Ability to appraise and interpret the results provided by Finite Element software.
+(LO4) Understanding the importance of model validation.
+(LO5) Understanding the limitations of modern Finite Element software and the approximations that are made during model development.
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Organisational skills
+(S3) IT skills
+"

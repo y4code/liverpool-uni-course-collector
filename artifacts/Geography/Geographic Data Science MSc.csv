@@ -1,0 +1,183 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Qualitative Research Methods ,(ENVS441),Compulsory modules,M,15,First Semester,0:100,"This module aims to introduce students to research methodology, philosophy, strategy and design, and to the ethical and practical considerations associated with conducting research.
+This module aims to provide students with an understanding of various qualitative research methods.
+This module aims to enable students to develop the skills necessary to analyse qualitative data.
+","(LO1) Students will gain knowledge of ontological and epistemological positions and their implications for research
+(LO2) Students will gain an understanding of ethical issues in research
+(LO3) Students will develop the skills needed to select appropriate qualitative research methods
+(LO4) Students will develop the skills to plan and conduct research using qualitative methods
+(LO5) Students will develop the skills to analyse qualitative data
+(S1) Ethical awareness
+(S2) Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources, collecting and using data, applying research methods, applying ethics
+"
+Social Survey Analysis ,(ENVS450),Compulsory modules,M,15,First Semester,0:100,"To introduce the principles underlying the collection and analysis of social survey data;
+To equip students to analysse social survey data;
+To provide a basic competence in the use of the &#39;R&#39; statistical programming language;
+To provide a platform to more advanced data analysis techniques covered in the Semester 2 module ENVS453 &#39;Spatial Analysis&#39;
+","(LO1) The ability to produce descriptive statistics and graphical representations of quantitative variables 
+(LO2) The ability to address survey bias through the use of survey reweighting
+(LO3) The ability to use statistical inference techniques to address the impacts of sampling uncertainty on survey estimates
+(LO4) An understanding of the impact of survey design and sample size on the precision of survey estimates
+(LO5) The ability to conduct data analysis using correlation and multivariate regression (OLS and logistic) 
+(LO6) Competence in the use of a statistical programming language (R) to undertake basic social survey analysis
+(S1) Communication skills
+(S2) Numeracy
+(S3) Problem solving skills
+(S4) IT skills
+"
+Geographic Data Science ,(ENVS563),Compulsory modules,M,15,First Semester,0:100,"The module provides students with core competences in Geographic Data Science (GDS). This includes the following:
+Advancing their statistical and numerical literacy;
+Introducing basic principles of programming and state-of-the-art computational tools for GDS;
+Presenting a comprehensive overview of the main methodologies available to the Geographic Data Scientist, as well as their intuition as to how and when they can be applied;
+Focusing on real world applications of these techniques in a geographical and applied context.
+","(LO1) Demonstrate advanced GIS/GDS concepts and be able to use the tools programmaticallyto import, manipulate and analyse data in different formats.
+(LO2) Understand the motivation and inner workings of the main methodological approcahes ofGDS, both analytical and visual.
+(LO3) Critically evaluate the suitability of a specific technique, what it can offer and how it canhelp answer questions of interest.
+(LO4) Apply a number of spatial analysis techniques and how to interpret the results, in theprocess of turning data into information.
+(LO5) When faced with a new data-set, work independently using GIS/GDS tools programmatically.
+(S1) Numeracy
+(S2) Organisational skills
+(S3) Problem solving skills
+(S4) IT skills
+(S5) Ethical awareness
+(S6) Communication skills
+"
+Geographic Information Science ,(ENVS609),Compulsory modules,M,15,First Semester,0:100,"The module aims to develop an understanding of  how digital representations of the real world can be created within a GIS and why GIS is useful in the social and environmental sciences. It will introduce students to the fundamentals of GIS and enable students to gain familiarity with the unique properties of geographic data and providing real-world valuable insights. Students will also develop skills in the use various GIS software , create digital representations of the world and understand their constraints within a framework of GI Science
+develop: (i) a theoretical knowledge of GIS and spatial analytical methods, and; (ii) a practical ability to apply GIS in the handling and analysis of spatial data in a context of planning and social sciences.
+To gain familiarity with the unique properties of geographic data including spatial autocorrelation and modifiable areal units;
+Appreciate that there are uncertainties in the creation of geographic representations;
+Develop skills in the basic use of GIS to create digital representations and understand their constraints within a framework of GIScience
+","(LO1) Gain a sound understanding of the function, concepts  and features of a Geographic Information System
+(LO2) Understand those constraints and considerations that are required when implementing a GIS to build geographic representations
+(LO3) Develop practical skills in the application of a GIS to those data types often associated with a student&#39;s disciplinary area
+(S1) Numeracy, GIS ans spatial modelling skills
+(S2) Problem solving skills
+(S3) IT skills
+"
+Theorising Human Geography ,(ENVS416),Compulsory modules,M,15,Second Semester,0:100,"To situate contemporary Human Geography within the wider context of research in the Social Sciences;
+To introduce students to some of the major debates of society, environment, space and place and the relationships between them; 
+To introduce students to the different epistemological underpinnings in geographical research.
+To help students identify and explore an area of human geography that particularly interests them and might form an appropriate dissertation topic 
+To be able to situate their research interests  within wider geographical scholarship
+","(LO1) Gain a thorough understanding of the major themes that define human geography;
+(LO2) Gain an understanding of what constitutes significant, rigorous and influential geographical scholarship.
+(LO3) Understand research ethics and how to apply for it successfully
+(LO4)  Gain a thorough understanding of the epistemological underpinnings of different approaches to researching human geography
+(LO5) Be able to locate your individual research interests and dissertation topics within the wider corpus of geographical enquiry.
+(S1) Ethical awareness
+(S2) Problem solving skills
+(S3) Research management:  formulating questions, selecting appropriate literature, using primary/secondary/diverse sources and delivering an extended essay
+(S4) Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture
+"
+Spatial Modelling for Data Scientists ,(ENVS453),Compulsory modules,M,15,Second Semester,0:100,"Build upon the more general research training delivered via companion modules on Data Collection and Data Analysis, both of which have an aspatial focus;       
+Highlight a number of key socialissues that have a spatial dimension;
+Explain the specific challenges facedwhen attempting to analyse spatial data;
+Introduce a range of analyticaltechniques and approaches suitable for the analysis of spatial data;   
+Enhancepractical skills in using software packages to implement a wide range of spatial analytical tools.
+","(LO1)  Identify some key sources of spatial data and resources of spatial analysis and modelling tools
+(LO2) Explain the advantages of taking spatial structure into account when analysing spatial data
+(LO3) Apply a range of computer-based techniques for the analysis of spatial data, including mapping, correlation, kernel density estimation, regression, multi-level models, geographically-weighted regression, spatial interaction models and spatial econometrics
+(LO4) Select appropriate analytical tools for analysing specific spatial data sets to address emerging social issues facing the society
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+"
+Web Mapping and Analysis ,(ENVS456),Compulsory modules,M,15,Second Semester,0:100,"Through this module students will gain an understanding of how maps can be visualised online through a number of web platforms. Additionally, the internet will be presented both as a source of new data, and provide analytical functionality that can assist when solving geographic problems. Geographic data can be any dataset that can be visualised in a map. The module is taught through a mixture of lectures and practicals, and is assessed through two summative projects.
+","(LO1) Experience using tile rendering tools to generate content for map-based websites.
+(LO2) Web-based data collection techniques
+(LO3) Programming skills to enable basic online data manipulation and web mapping 
+(LO4) Knowledge of web-based mapping infrastructure
+(S1)  Communication skills
+(S2)  Problem solving skills
+(S3)  IT skills
+(S4)  Organisational skills
+(S5) Numeracy
+"
+Dissertation - Geographic Data Science ,(ENVS492),Compulsory modules,M,60,Whole Session,0:100,"To produce a complete and independent study written to a publishable standard in the field of Geographic Data Science.
+","(LO1) Write a study to publishable standard
+(LO2) Demonstrate advanced knowledge of Geographic Data Science
+(LO3) Critically evaluate the suitability of an appropriate technique, what it can offer and how it can help answer the research questions of interest
+(LO4) Apply a number of techniques to turn data into new insights and knowledge
+(LO5) Work independently and develop a self-guided approach to learning
+(S1) Numeracy/computational skills - Numerical methods
+(S2) Communication (oral, written and visual) - Presentation skills - written
+(S4) Critical thinking and problem solving - Critical analysis
+(S5) Global citizenship - Relevant economic/political understanding
+"
+Database and Information Systems ,(COMP518),Optional modules,M,15,First Semester,25:75,"To provide a deep, systematic and critical understanding of the nature of information systems, with a focus on database systems and their operation.
+","(LO1) Design and implement relational databases with multiple tables.
+(LO2) Understand the mathematical foundations of relational databases through the use of relational algebra.
+(LO3) Use SQL effectively and efficiently as a data definition and data manipulation language in a modern DBMS.
+(LO4) Demonstrate a systematic understanding of transaction management and concurrency control in database systems.
+(S1) Skills in using technology - Using common applications (work processing, databases, spreadsheets etc.)
+(S2) Critical thinking and problem solving - Creative thinking
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Critical thinking and problem solving - Synthesis
+(S5) Skills in using technology - Information accessing
+(S6) Numeracy/computational skills - Confidence/competence in measuring and using numbers
+(S7) Problem solving
+(S8) Business and customer awareness
+(S9) Information Technology (IT) skills
+(S10) Computer science principles
+"
+Big Data Analytics ,(COMP529),Optional modules,M,15,First Semester,60:40,"To introduce students to advanced methods and algorithms used in Big Data analytics.
+To introduce students to  software environments that enable developing solutions for Big Data problems.
+To introduce students to implementing algorithms using such software environments.
+","(LO1) Deep and systematic knowledge of algorithmic approaches for Big Data analysis and handling batch and streaming data.
+(LO2) Comprehensive and critical insight into the software environments that can be used to enable algorithms to scale up to analysis of large batch and streaming datasets.
+(LO3) Devising a most suitable algorithm for solving a Big Data problem
+(LO4) Demonstrating a critical awareness of current problems and research issues in the field of Big Data
+(S1) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S2) Communication (oral, written and visual) - Following instructions/protocols/procedures
+"
+Population Science ,(ENVS418),Optional modules,M,15,Second Semester,0:100,"To provide an introduction to fundamental theories of population science. 
+To introduce students to novel data and approaches to understanding population dynamics and societal change. 
+To equip students with skills and experience to conduct population science using computational approaches.
+","(LO1) An appreciation of relevant demographic theory to help intepret patterns of population change
+(LO2) An understanding of the types of demographic and social science methods that are essential for interpreting and analysing new forms of data in the context of demographic research
+(LO3) The ability to apply different methods to  understand population dynamics and societal change
+(LO4) An appreciation of how  population science approaches to understanding societal change connect to policy relevant debates
+(LO5) Critical awareness of modern demographic analysis and the ethical issues associated with big and new forms of data
+(S1) Numeracy/computational skills - Numerical methods
+(S2) Communication (oral, written and visual) - Presentation skills - written
+"
+Computational Intelligence ,(COMP575),Optional modules,M,15,Second Semester,100:0," Understand the basic structures and the learning mechanisms underlying neural networks within the field of artificial intelligence and examine how synaptic adaptation can facilitate learning and how input to output mapping can be performed by neural networks. Obtain an overview of linear, nonlinear, separable and non separable classification as well as supervised and unsupervised mapping. Understand the benefit of adopting naturally inspired techniques to implement optimisation of complex systems and acquire the fundamental knowledge in various evolutionary techniques. Become familiar with the basic concepts of systems optimisation and its role in natural and biological systems and entities.
+","(LO1) Learning  the advantages and main characteristics of neural networks in relation to traditional methodologies. Also, familiarity with different neural networks structures and their learning mechanisms.
+(LO2) Appreciation of the advantages of evolutionary-related approaches for optimisation problems and their advantages compared to traditional methodologies. Also, understanding the different techniques of evolutionary optimisation for discrete and continuous configurations
+(LO3) Understanding of the needs for genetic encoding and modelling for solving optimisation problems and familiarisation with the evolutionary operators and their performance.
+(LO4) Understanding of the neural network learning processes and their most popular types, as well as  appreciation of how neural networks can be applied to artificial intelligence problems.
+(S1) On successful completion of this module the student should be able to pursue further study in artificial intelligence as well as more advanced types of neural networks and evolutionary optimisation and bio-inspired techniques.
+(S2) On successful completion of this module the student should be able to analyse numerically the mathematical properties of most major network types and apply them to artificial intelligence problems. Also, the student should be able to appreciate and understand the suitability of evolutionary optimisation in systems where classical methods cannot be effective.
+(S3) On successful completion of this module the student should be able to approach methodologically artificial intelligence problems and bio-inspired algorithms in general and understand the principal mathematics of learning systems and the fundamental principles governing evolutionary optimisation techniques.
+"
+Social and Spatial Inequalities ,(ENVS557),Optional modules,M,15,Second Semester,0:100,"Gain an understanding of several core areas of social and spatial inequalities and how these inter-relate, and to engage with academic debates about these issues;         
+Explore evidence for, and interpretations of, social and spatial inequalities, eg labour market, ethnic, spatial aspects of poverty;         
+Gain an understanding of the geographies of social inequalities, including why inequalities are not equal between places, and what the implications of this unevenness are for individuals and communities;          
+Consider how and why social inequalities have persisted and/or changed over time, with reference to allied theories and empirical evidence;          
+Gain acritical understanding of the meaning and measurement of inequalities, poverty and deprivation;         
+Identify and review the types of data sources that can be used to explore social and spatial inequalities ;         
+Explore the wider UK context for the development of social and spatial inequalities, including economic restructuring and welfare reform;          
+Consider representations of inequalities in the media, policy and political debate;         
+Consider a number of policy developments/responses to problems of social and spatial inequalities, and to highlight their impact.
+","(LO1) Develop anunderstanding of social and spatial inequalities, how these inter-relate, andhow the terms have been (mis-)used in academic, political, policy and public discourses
+(LO2) Develop anunderstanding of how and why social and spatial inequalities might havepersisted over time, and review the empirical evidence for this 
+(LO3) Understand how and why social inequalities havespecific geographies and can be concentrated in particular areas orneighbourhoods
+(LO4) Understand the difficulties in defining andmeasuring social and spatial inequalities, and how such definitions may relateto broader theories, perspectives or frameworks of relevance
+(LO5) Gain insightinto a range of government responses that have been developed to combat socialinequalities and related issues in the UK, at the regional and sub-regionallevel 
+(S1) Problem solving skills
+(S2) Organisational skills
+(S3) Communication skills
+(S4) International awareness
+(S5) Lifelong learning skills
+(S6) Ethical awareness
+"
+Data Science Studio ,(ENVS615),Optional modules,M,15,Second Semester,0:100,"This module seeks to provide students with a robust grounding in those methods enabling the study of human dynamics, providing particular focus on programatic implementations. The content of this module will enable students to develop a deeper understanding of how new forms of big data with spatio-temporal attributes can be synthesised into useful information when making decisions.
+","(LO1) Demonstrate advanced analysis of human dynamics concepts and be able to use tools programmatically to import, manipulate and analyse data in different formats.
+(LO2) Understand the motivation and inner workings of the main methodological approaches of human dynamics, both analytical and visual.
+(LO3) Critically evaluate the suitability of a specific technique, what it can offer and how it can help answer questions of interest.
+(LO4) Apply a number of analysis techniques and how to interpret the results, in the process of turning data into information.
+(LO5) When faced with a new data-set, work independently using tools programmatically.
+(S1) Information technology (application of) adopting, adapting and using digital devices, applications and services
+(S2) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources, collecting and using data, applying research methods, applying ethics
+"

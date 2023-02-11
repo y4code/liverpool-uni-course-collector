@@ -1,0 +1,121 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Biomedical Sciences & Translational Medicine Research Project 1 (full-time) ,(BIOM703),Compulsory modules,M,40,First Semester,0:100,"1. To provide students with training in appropriate techniques, research methods and project management in order to conduct a novel research project on aspects of biomedical and translational sciences within an active, first class research environment.
+2 To provide the opportunity for students to experience cutting-edge research, and to provide an up-to-date understanding of recent developments and applications in areas of biomedical and translational sciences.
+3. To enable students to develop a range of complementary research and employability skills which will provide them with the skills needed to pursue a research career or other professional employment.
+","(LO1) Plan an original research study in the field of biomedical sciences within a specified time frame.
+(LO2) Critically evaluate appropriate research techniques, when designing a biomedical sciences research project.
+(LO3) Critically appraise relevant literature in the field of biomedical sciences, utilising insights when designing an original research project.
+(LO4) Communicate project ideas and principles to a scientific audience.
+(S1) Literacy ability to produce clear, structured written work and oral literacy - including listening and questioning.
+(S2) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication, listening and questioning respecting others, contributing to discussions, influencing, presentations.
+(S4) Self-management readiness to accept responsibility (i.e. leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning.
+(S5) Plan research within ethical, health and safety, and research governance frameworks.
+"
+Biomedical Sciences & Translational Medicine Research Project 2 (full-time) ,(BIOM704),Compulsory modules,M,80,Second Semester,0:100,"1. To provide students with training in appropriate techniques, research methods and project management in order to conduct a novel research project on aspects of biomedical and translational sciences within an active, first class research environment.
+2. To provide the opportunity for students to experience cutting-edge research, and to provide an up-to-date understanding of recent developments and applications in areas of biomedical and translational sciences.
+3. To enable students to develop a range of complementary research and employability skills which will provide them with the skills needed to pursue a research career or other professional employment.
+","(LO1) Conduct, analyse and interpret original empirical research in the field of biomedical sciences within a specified time frame.
+(LO2) Apply and critically evaluate appropriate techniques when conducting biomedical sciences research.
+(LO3) Communicate project findings to a scientific audience.
+(LO4) Critically appraise relevant literature in the field of biomedical sciences, utilising insights when interpreting results from original research.
+(LO5) Evaluate own performance and working standards by reflection, and place work in a wider scientific context.
+(S1) Literacy ability to produce clear, structured written work and oral literacy - including listening and questioning.
+(S2) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication, listening and questioning respecting others, contributing to discussions, influencing, presentations.
+(S4) Self-management readiness to accept responsibility (i.e. leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning.
+(S5) Manage and execute research within ethical, health and safety, and research governance frameworks.
+"
+Techniques and Frontiers in Biomedical Sciences ,(BIOM604),Compulsory modules,M,30,Whole Session,0:100,"To develop advanced knowledge of current and emerging techniques used in Biomedical Sciences
+To provide training in critical evaluation of recent research advances in biomedical and translational research
+","(LO1) To demonstrate understanding of the fundamental skills and experimental methods that underpin modern research in biomedical sciences.
+(LO2) To evaluate current experimental limitations and appraise future technical developments
+(LO3) To demonstrate understanding of the fundamental concepts underpinning modern ideas in biomedical sciences
+(LO4) To show independent learning ability to access, synthesise and discuss, in writing, the subject literature.
+(LO6) 
+(S1) Literacy application of literacy, ability to produce clear, structured written work and oral literacy - including listening and questioning
+(S2) Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations
+(S3) Numeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (e.g. measuring, weighing, estimating and applying formulae)
+(S4) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+"
+Transferable Skills ,(BIOM603),Compulsory modules,M,15,Whole Session,0:100,"To provide students with appropriate key skills relevant to careers in biomedical science-related areas
+","(LO1) To demonstrate understanding of how to obtain funding for research and the relevance of biomedical research to business opportunities and the commercial sector.
+(LO2) To be able to communicate science to both specialists and no specialists.
+(LO3) To demonstrate understand of the complexity of ethical issues in biomedical research
+(LO4) To show team working and self-reflective skills
+(LO5) 
+(S1) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+(S2) Business and customer awareness basic understanding of the key drivers for business success – including the importance of innovation and taking calculated risks – and the need to provide customer satisfaction and build customer loyalty
+(S3) Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations
+(S4) Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources, collecting &amp; using data, applying research methods, applying ethics
+"
+Cellular Biotechnology and Biological Imaging ,(LIFE749),Optional modules,M,15,First Semester,0:100,"To enhance the core skills acquired , including both scientific (presentational and communication) and employability skills, and to provide advice on careers and career development in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models.
+To enable students to evaluate the latest scientific literature and technologies in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models of disease and topical issues of particular concern to biotechnologist.
+To enhance problem solving skills by data analysis exercises in relation to experimental methods in imaging and cell biotechnology, and develop a deeper understanding of topical issues in the subject.
+","(LO1) Compare various mammalian cell culture and cell analysis techniques.
+(LO2) Critically review the molecular details of various technologies for the genetic manipulation of mammalian cells .
+(LO3) Critically evaluate a broad range of imaging techniques and modalities to analyse cellular features and cell behaviour at different scales, from microscopic analysis to imaging in animal models of disease.
+(LO4) Appraise the translational impact of cellular biotechnology approaches and justify their application in medical research.
+(S1) Scientific Communication
+(S2) Scientific Technical Ability
+(S3) Digital Fluency
+(S4) Critical Thinking
+"
+Coding for Life Sciences ,(LIFE733),Optional modules,M,15,First Semester,0:100,"This module is aimed at postgraduate students in the Life Sciences, wishing to learn about methods for use in data-intensive research. The module provides a broad introduction to the use of Python coding for performing basic tasks in the biological sciences. The module will give students practical experience in writing their own Python scripts for basic bioinformatics tasks, such as manipulating DNA, RNA and protein sequences, file input/output and working with other programs, such as BLAST. There is also an introduction to data visualisation using Python, and simple techniques used in data science, including a basic introduction to machine learning.
+","(LO1) Use Python for basic scripting
+(LO2) Understanding data structures in python and apply them to biological data
+(LO3) Use Python for manipulating files and controlling the running of external programs
+(LO4) Write Python code for performing simple bioinformatics tasks
+(LO5) Use Python to plot and analyse simple data
+(LO6) Understand basic concepts in supervised machine learning and use Python for such analyses
+(S1) Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations
+(S2) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+"
+Cancer Clinical Trials ,(LIFE726),Optional modules,M,15,Second Semester,0:100,"This module is designed to provide the students insights into how cancer clinical trials are designed and what strategies are to be considered whilst designing and executing a clinical trial. In order to achieve this, the students will be introduced to key concepts in this field, followed by lectures on how translational research is linked to clinical trials, with respect to study design, as well as regulatory requirements. The assessments in this module will enable students to critically appraise published clinical trials and systematic reviews. The module will have several case-based learning tutorials and workshops, all of which will enable the students to independently design a clinical trial to address a clinically important question.
+","(LO1) Assess the different cancer clinical trial strategies and designs
+(LO2) Justify appropriate courses of action to ensure good practice is set out and adhered to in given cancer clinical trial situations
+(LO3) Analyse and interpret cancer clinical trial data
+(LO4) Critique and appraise published cancer clinical trials and systematic reviews
+(S1) Scientific communication
+(S2) Develop critical thinking
+(S3) Digital fluency
+"
+Frontiers in Cancer Research and Treatment ,(LIFE724),Optional modules,M,15,Second Semester,0:100,"This module aims to allow students to: develop the knowledge and understanding of the fundamentals of cancer biology and the current challenges in both diagnosis and treatment of cancer; gain an understanding of different treatment modalities used against cancer including chemotherapy, radiotherapy, targeted therapies and immunotherapy along with their advantages and disadvantages; understand the mechanisms of cancer resistance to treatment; understand the role of cancer biomarkers in patient stratification for optimal treatment strategies as well as the challenges in diagnosis of cancer and critically appraise scientific literature and seminars in the cancer field and to analyse and interpret tumour tissue samples.
+","(LO1) To assess and critique the current topics of research in cancer
+(LO2) To identify unmet screening, diagnostic and therapeutic needs in cancer.
+(LO3) To analyse and interpret research areas focussing on the fundamental mechanisms of cancer growth and resistance to therapies
+(LO4) To appraise state of the art technologies used in cancer research and interpret results
+(S1) Problem solving
+(S2) Presentation of scientific data
+(S3) Critical assessment of scientific data
+"
+Immunology ,(LIFE728),Optional modules,M,15,Second Semester,0:100,"To develop principal skills in presenting immunological interactions and responses using graphics, posters and verbal communication that are transferable and key for employability.
+To aid critical evaluation of current topics, problems and developments in immunological research through advanced scholarship
+To evaluate methodologies and develop critiques of approaches used for interrogating the host immune response and integrating functions and evasion mechanisms of pathogens
+","(LO1) To  evaluate critically  the current concepts of host immunity and defence against viral, bacterial and parasite infections
+(LO2) Demonstrate  a comprehensive understanding of innate and adaptive immune responses and their interactions
+(LO3) Critically evaluate  methodologies for the study of key effector immune cells in host immune tissues, their migration and functions
+(LO4) Demonstrate a systematic understanding of immune function knowledge, and a critical awareness of the mucosal immune system relevant to the gastrointestinal and respiratory tracts and selected exemplar pathogens
+(LO5) Demonstrate critical awareness of current problems from immunological threats posed by infectious diseases and the potential of vaccines
+(S1) Deal with complex issues both systematically and creatively,  and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"
+Proteomics Metabolomics and Data Analysis ,(LIFE754),Optional modules,M,15,Second Semester,0:100,"To illustrate the value of proteomics and metabolomics towards unbiased, quantitative and high-throughput analysis of biological systems. To offer demonstrations in the design and synthesis of proteomic and metabolomics experiments, including practical demonstrations within the metabolomics and proteomics facilities.
+","(LO1) Appraise proteomic and metabolome techniques.
+(LO2) Evaluate analytical methods and design proteomics or metabolomics experiments to address a given biological problem.
+(LO3) Critically appraise data analysis tools and strategies and interpret the experimental data in the biological context
+(S1) Problem Solving Skills
+(S2) Communication Skills – Professional Report Writing
+(S3) Coding and Statistical Analysis
+"
+Synthetic Biology and Biotechnology ,(LIFE756),Optional modules,M,15,Second Semester,0:100,"The module aims to provide students with an in-depth knowledge of the grand challenges in biotechnological applications and the primary design principles of synthetic biology. The module also aims to teach tools and strategies being developed and applied in the rapidly expanding field of synthetic biology and train students in practical
+experience by demonstrating the University’s research facilities and providing research and industry-based projects encompassing green biotechnology.
+","(LO1) Critically appraise concept and research evidence relating to current grand challenges and industrial needs, and how biotechnological methods are developed and exploited to address the problems
+(LO2) Critically evaluate key theoretical and practical knowledge in a diverse range of synthetic biology and biotechnology techniques and applications
+(LO3) Design and evaluate appropriate approaches and processes for synthetic biology and biotechnology techniques
+(LO4) Evaluate the public concerns and ethical issues in the fields of synthetic biology and biotechnology
+(S1) Scientific communication
+(S2) Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner
+(S3) Critical thinking
+(S4) Team work
+"

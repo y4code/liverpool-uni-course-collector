@@ -1,0 +1,87 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+"Diagnostics, Therapeutics and Vaccines ",(LIFE732),Compulsory modules,M,15,Second Semester,0:100,"To develop core skills in critically evaluating design and implementation of diagnostics, therapeutics and vaccines using written reports generated from appraising student-led discussion workshops and verbal communication, which are transferable and key for employability.
+To enhance critical evaluation of the considerations for product development through advanced scholarship of issues, including: industrial partnering, regulatory affairs, testing, governmental support and societal influences
+To enable appraisal of established techniques of research and enquiry to determine host contribution and response to interventions for the development of both diagnostic and control strategies
+","(LO1) To critically evaluate the strategies needed to design and develop novel drugs and vaccines for infectious disease
+(LO2) Demonstrate critical awareness of successes and current problems from infectious diseases, the genesis and implementation of diagnostics and strategies for limiting infection
+(LO3) Demonstrate a systematic understanding of the various agencies that input into local, national and global development of disease interventions
+(S1) Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"
+Emerging Infections and Pandemics ,(LIFE751),Compulsory modules,M,15,First Semester,0:100,"To develop core skills in critically evaluating issues associated with emerging infectious disease and pandemics using written reports generated from appraising student-led discussion workshops and verbal communication, which are transferable and key for employability.
+To enhance ability to appraise the host contribution and response to interventions together with factors that can be exploited for the development of both diagnostic and control strategies
+","(LO1) To critically evaluate the history of both emerging animal and human diseases with major societal impact and interrogate the inter-species associations of infectious diseases
+(LO2) Demonstrate a comprehensive understanding of the origins and causalities of emerging pandemics with the underlying biology
+(LO3) To recognise and discuss the direct health consequences and societal impacts of a pandemic as well as the indirect effectors compromising the livestock and the foodchain as a whole.
+(LO4) Demonstrate a systematic understanding of individual pathogens causing emerging pandemics with their specific characteristics defining their gravity of the disease.
+(LO5) Critically evaluate the precautionary measures needed to curtail or to minimise the damaging effects from emergence of a new pandemic.
+(S1) Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"
+Understanding Models and Data ,(LIFE762),Compulsory modules,M,15,Second Semester,0:100,"This module will
+•	Introduce the skills required to understand the distinction between mathematical and statistical models, what each can provide, and when it is appropriate to use them
+•	Discuss the importance of context in quantitative data, and how to use exploratory statistical approaches to gain pertinent insight from epidemiological data
+•	Explain the assumptions, strengths, and limitations of different types of mathematical models
+•	Demonstrate how to understand and deal with different types of uncertainty
+•	Demonstrate how to read a paper and critically appraise the quantitative information it presents
+","(M1) Critically appraise, evaluate and interpret knowledge of a wide range of topics in mathematical and statistical modelling, and apply your understanding of mathematical and statistical models to discuss their use in the context of a pandemic or a large infectious disease outbreak.
+(M2) Justify and explain the importance of context in representation of numerical or statistical data in the course of a pandemic or disease outbreak, and demonstrate clear ability to provide critical evaluation of biases and limitations to inference when proper context is not provided.
+(M3) Critically appraise the presentation of statistical data and interpretation of analysis, and suggest areas for improvement with reference to specific case studies from the literature.
+(M4) Evaluate and compare a range of approaches for describing uncertainty in data and models, e.g. Bayesian statistics and confidence intervals, and explain the different sources of uncertainty in mathematical and statistical modelling.
+(M5) Critically appraise and explain to a non-specialist quantitative information as presented in an academic research paper, a report to government, or a media news article.
+(S1) Numeracy (understanding of quantitative information); the ability to distinguish between mathematical and statistical models; understanding of basic measures of uncertainty
+(S2) Critical appraisal: the ability to interrogate and criticise the research and reporting of others, and identify common errors and areas of weakness
+(S3) Presentation skills and confidence in communicating statistical and numerate concepts to non-specialists.
+(S4) Group working (delegate and divide tasks; communication skills; reaching consensus)
+"
+Global Outbreak Surveillance and Control ,(LIFE758),Compulsory modules,M,30,Whole Session,0:100,"The module aims to:
+To develop core skills in presenting and the communication of global outbreaks using graphics, student-led discussion workshops and verbal communication, which are transferable and key for employability
+To aid critical evaluation of current topics, problems, and developments in global outbreaks though advanced scholarship of issues, including intersectoral collaboration, public health policy and societal implementation
+To evaluate methodologies and develop critiques of cross-disciplinary approaches used for the investigation, surveillance and control of outbreaks at global, national, and local levels
+","(LO1) Demonstrate a comprehensive understanding of the scale, and societal and economic impact of past and present human and animal pandemics in workshop discussions
+(LO2) Critically evaluate the range of control interventions and strategies needed to prevent, mitigate, and control infections among at-risk populations
+(LO3) Determine the roles and responsibilities of the various stakeholders that input into global, national, and local surveillance and control measures
+(LO4) Discuss the importance of effectively interpreting and disseminating factual data to diverse populations, and role of the media and communication
+(LO5) Critically appraise and evaluate the tools, methods used and applications of bioinformatics and biobanks in the context of pandemics
+(S1) Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"

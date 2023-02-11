@@ -1,0 +1,110 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Econometric and Statistical Methods ,(ECON814),Compulsory modules,M,15,First Semester,100:0,"The aim of this module is to give the student an understanding of basic econometric and statistical methods suitable for financial and economic data series. Extensive use will be made of econometrics software including EViews in tutorials to supplement the theory with applications and to provide hands-on experience. The aims are that the student will:
+Understand the multiple regression model including the matrix and statistical background;
+Be apply to apply statistical tests estimate regression models;
+Understand the assumptions and limitations;
+Understand the maximum likelihood principle and be able to perform the relevant specification tests;
+Understand the principle underlying instrumental variables and GMM estimation;
+Be confident in the use of econometric software such as EViews for a range of methods and applications.
+","(LO1) Formulate and estimate regression models.
+(LO2) Perform diagnostics on regression models.
+(LO3) Perform all the calculations required via EVIEWS.
+(LO4) Perform maximum likelihood estimation and be aware of the properties of the estimators.
+(LO5) Perform GMM estimation.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+"
+Corporate Finance and Valuation ,(ECON906),Compulsory modules,M,15,First Semester,80:20,"The aim of this module is to examine a range of topics and issues in corporate finance including: capital budgeting; capital structure; dividend policy; raising long-term capital; corporate governance and international corporate finance in order to equip students to be able to undertake independent and advanced investigations in corporate finance.
+","(LO1) Develop understanding of theoretical and empirical principles in capital budgeting as the basis for conducting a rigorous evaluation of associated scenarios;
+(LO2) Critically assess theoretical and empirical developments in capital structure topics and relate their findings to the contemporary business environment;
+(LO3) Develop skills to enable the critical evaluation of theoretical and empirical aspects in dividend policy research, and to communicate findings effectively;
+(LO4) Develop knowledge regarding the sources of financing for the firm within a constantly changing financial environment;
+(LO5) Develop knowledge and understanding in concepts of corporate governance and their relationship with corporate performance;
+(LO6) Develop a comprehension of the importance of internationalization/globalization for firms&#39; international transactions and the implications for effective corporate governance.
+(S1) Numeracy/computational skills - Problem solving
+(S2) Communication (oral, written and visual) - Presentation skills – oral
+(S3) Communication (oral, written and visual) - Presentation skills - written
+(S4) Communication (oral, written and visual) - Following instructions/protocols/procedures
+(S5) Critical thinking and problem solving - Critical analysis
+"
+Measure Theory and Probability ,(MATH365),Compulsory modules,3,15,Second Semester,50:50,"The main aim is to provide a sufficiently deepintroduction to measure theory and to the Lebesgue theory of integration. Inparticular, this module aims to provide a solid background for the modernprobability theory, which is essential for Financial Mathematics.
+","(LO1) After completing the module students should be ableto:
+(LO2) master the basic results about measures and measurable functions;
+(LO3) master the basic results about Lebesgue integrals and their properties;
+(LO4) to understand deeply the rigorous foundations ofprobability theory;
+(LO5) to know certain applications of measure theoryto probability, random processes, and financial mathematics.
+(S1) Problem solving skills
+(S2) Logical reasoning
+"
+Stochastic Modelling in Finance ,(MATH482),Compulsory modules,M,15,First Semester,70:30,"This module aims at demonstrating the advanced mathematical techniques underlying financial markets and the practical use of financial derivative products to analyse various problems arising in financial markets. Emphases are on various option pricing formulae, hedging methods, and stochastic analysis.
+","(LO1) At the end of the module students should be able to do the following things. Use put-call parity to determine the relationship between prices of European put and call options and to identify arbitrage opportunities.
+(LO2) Calculate the value of European and American options using both the binomial model and the Black-Scholes option-pricing model.
+(LO3) Interpret option Greeks.
+(LO4) Explain the cash flow characteristics of the following exotic options: Asian, barrier, compound, gap and exchange.
+(LO5) Explain the properties of a lognormal distribution and explain the Black-Scholes formula as a limited expected value for a lognormal distribution.
+(LO6) Understand the principle of value derivatives by using numerical methods.
+(LO7) Understand the assumption that stock price follows geometric Brownian motion and be able to use Ito’s lemma to analyze how the option price changes in response to the stock price. 
+(LO8) Understand Black-Scholes-Merton methodology. Be able to use this methodology to price virtually all derivatives.
+(S1) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S2) Numeracy/computational skills - Numerical methods
+"
+Numerical Analysis for Financial Mathematics ,(MATH371),Compulsory modules,3,15,Second Semester,50:50,"1. To provide basic background in solving mathematical problems numerically, including understanding of stability and convergence of approximations to exact solution. 
+2. To acquaint students with two standard methods of derivative pricing: recombining trees and Monte Carlo algorithms. 
+3. To familiarise students with sample generating methods, including acceptance-rejection and variance reduction,  and its application in finance
+","(LO2) Ability to analyse a simple numerical method for convergence and stability
+(LO3) Ability to formulate approximations to derivative pricing problems numerically.
+(LO4) Ability to generate a sample for a given probability distribution and its use in finance
+(LO5) Awareness of the major issues when solving mathematical problems numerically.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Interest Rate Theory ,(MATH481),Compulsory modules,M,15,Second Semester,50:50,"1. To provide a general foundation for pricing and hedging of financial derivatives, and an analysis of various market models.
+2. To introduce the typical  stochastic interest rate models, and pricing and hedging methodologies of financial derivatives in such a setting.
+3. To give a detailed analysis of basic fixed-income securities,  such as bonds, swaps, caps, swapations, caplets, and floorlets.
+","(LO1) At the end of the module students should have: 1.    A critical awareness of current problems and research issues in the field of financial derivatives, interest rate models, and fixed-income securities. 2.    The ability to  select and analyse the appropriate interest rate model. 3.    The ability to derive the prices and the hedging strategies of various financial derivatives. 4.    The ability to read, understand and communicate research literature in the field of fixed-income markets. 5.    The ability to recognise potential research opportunities and research directions.
+"
+Stochastic Analysis and Its Applications ,(MATH483),Compulsory modules,M,15,Second Semester,50:50,"This module aims to demonstrate the advanced mathematical techniques underlying financial markets and the practical use of financial derivative products to analyse various problems arising in financial markets. Emphases are on the stochastic techniques, probability theory, Markov processes and stochastic calculus, together with the related applications
+","(LO1) A critical awareness of current problems and research issues in the fields of probability and stochastic processes, stochastic analysis and financial mathematics.
+(LO2) The ability to formulate stochastic cuclulus for the purpose of modelling particular financial questions.
+(LO3) The ability to read, understand and communicate research literature in the fields of probability, stochastic analysis and financial mathematics.
+(LO4) The ability to recognise potential research opportunities and research directions.
+"
+Main Dissertation ,(MATH554),Compulsory modules,M,60,Whole Session,0:100,"The aim of the main dissertation is for the student, under guidance from his or her supervisor, to research a substantial mathematical topic thoroughly and write his or her own clear and coherent account of it. (There is no formal limit but a rough guide is that successful dissertations are usually 50-60 pages long). The account may contain original material in the form of new examples or computations, full details of proofs only available in sketch form in the literature, or even new results or new proofs of known results.  There is no requirement to produce publishable original work, but the level of detail and depth of the material should be greater than in the preliminary dissertation. Indeed, it is common (although not necessary) for students to continue their preliminary dissertation work in the main dissertation, and to work with the same supervisor.  It is acceptable to summarise material from the preliminary dissertation in the main one, where this makes it more complete or coherent, provided that this material is clearly labelled as such. Of course, the mark for the main dissertation will be based only on the new material.
+","(LO1) Familiarity with an area of current research interest within mathematics, including knowledge of some technical details;
+(LO2)  Ability to research a topic using a variety of resources including libraries and the internet;
+(LO3)   Ability to perform original calculations and/or describe new examples of a known theory and/or obtain new mathematical results and/or fill in gaps and details in proofs of known results;
+(LO4)  Ability to explain mathematical ideas clearly in written form, and place them within the context of their history and applications;
+(LO5) Ability to write a well-formatted mathematical text using appropriate software, including the ability to include graphics, tables of contents, cross-references, citations and a bibliography;
+(LO6) Ability to work independently on a project, and to manage own time.
+(S1) Organisational skills
+(S2) Problem solving skills
+"
+Financial Engineering ,(ECON918),Optional modules,M,15,Second Semester,80:20,"To provide an introduction to derivative products, namely futures and options in their many different varieties;
+To examine these products from both a speculative and hedging perspective and also consider advanced strategies such as intra and inter commodity spreads for futures as well as sophisticated option strategies used, not exclusively, to trade volatility;
+To examine the sensitivities of option strategies to underlying factors, namely an options &#34;Greeks&#34;;
+To consider the Black-Scholes-Merton and the Binomial approaches to option pricing.
+To use Monte-Carlo simulation for the pricing of path dependent exotic options;
+To develop skills in use of Excel, VBA, and Matlab.
+","(LO1) Understand how futures and options are traded and priced;
+(LO2) Be able to select the appropriate product to either hedge or speculate against future expected market conditions;
+(LO3) Apply pricing strategies in market based situations;
+(LO4) Develop trading skills using market data.
+(S1) IT skills
+(S2) Problem solving skills
+(S3) Numeracy
+"
+Applied Macroeconometrics ,(ECON920),Optional modules,M,15,Second Semester,70:30,"The aim of this module is to build on the first semester econometrics module and give the student an understanding of more advanced econometric and statistical methods suitable for analysing financial and macroeconomic data series. Extensive use will be made of the econometrics package EViews in lab-based tutorials to supplement the theory with applications and to provide hands-on experience. The aims are that the students will:
+Understand the main tools of modern econometric techniques for analysing financial and macroeconomic data.
+Understand the assumptions and limitations.
+Be confident in the use of an econometric computer programme (EViews) for a range of methods and applications.
+","(LO1) Formulate and estimate time series models;
+(LO2) Use time series models for testing economic theories and making economic forecasts.
+(LO3) Perform all the calculations required via EVIEWS.
+(LO4) Understand and be able to interpret time series models estimated from EVIEWS.
+(S1) Problem solving
+(S2) Numeracy
+(S3) Communication skills
+(S4) Teamwork
+"

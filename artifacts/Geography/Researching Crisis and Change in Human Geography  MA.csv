@@ -1,0 +1,125 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Social Survey Analysis ,(ENVS450),Compulsory modules,M,15,First Semester,0:100,"To introduce the principles underlying the collection and analysis of social survey data;
+To equip students to analysse social survey data;
+To provide a basic competence in the use of the &#39;R&#39; statistical programming language;
+To provide a platform to more advanced data analysis techniques covered in the Semester 2 module ENVS453 &#39;Spatial Analysis&#39;
+","(LO1) The ability to produce descriptive statistics and graphical representations of quantitative variables 
+(LO2) The ability to address survey bias through the use of survey reweighting
+(LO3) The ability to use statistical inference techniques to address the impacts of sampling uncertainty on survey estimates
+(LO4) An understanding of the impact of survey design and sample size on the precision of survey estimates
+(LO5) The ability to conduct data analysis using correlation and multivariate regression (OLS and logistic) 
+(LO6) Competence in the use of a statistical programming language (R) to undertake basic social survey analysis
+(S1) Communication skills
+(S2) Numeracy
+(S3) Problem solving skills
+(S4) IT skills
+"
+Spatial Modelling for Data Scientists ,(ENVS453),Optional modules,M,15,Second Semester,0:100,"Build upon the more general research training delivered via companion modules on Data Collection and Data Analysis, both of which have an aspatial focus;       
+Highlight a number of key socialissues that have a spatial dimension;
+Explain the specific challenges facedwhen attempting to analyse spatial data;
+Introduce a range of analyticaltechniques and approaches suitable for the analysis of spatial data;   
+Enhancepractical skills in using software packages to implement a wide range of spatial analytical tools.
+","(LO1)  Identify some key sources of spatial data and resources of spatial analysis and modelling tools
+(LO2) Explain the advantages of taking spatial structure into account when analysing spatial data
+(LO3) Apply a range of computer-based techniques for the analysis of spatial data, including mapping, correlation, kernel density estimation, regression, multi-level models, geographically-weighted regression, spatial interaction models and spatial econometrics
+(LO4) Select appropriate analytical tools for analysing specific spatial data sets to address emerging social issues facing the society
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+"
+An Introduction to Critical Discourse Analysis ,(SOCI517),Optional modules,M,5,First Semester,0:100,"1.To introduce students to Critical understandings of discourse and its place in society
+2.To introduce students to the practice of Critical Discourse Analysis
+3.To enable student&#39;s development of Critical Discourse Analytic skills and competences
+","(LO1) An understanding of ideas and concerns underpinning Critical Discourse Analysis
+(LO2) An ability to conduct Critical Discourse Analaytic work
+(LO3) A critical understanding of the place of discourse in society
+(S1) Communication (oral, written and visual) - Presentation skills – oral
+(S2) Communication (oral, written and visual) - Presentation skills - visual
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Information skills - Critical reading
+"
+"Visual Data, VIsual Analysis ",(SOCI518),Optional modules,M,5,First Semester,0:100,"• To provide an introduction to sociological engagement with visual data/analysis
+• To provide research students with an opportunity to practice these sets of research skills with respect to their own projects
+","(LO1) Familiarity with major classical and contemporary social scentific engagements with visual data and visual analysis (theoretical and empirical)
+(LO2) Ability to apply the perspectives learned in Outcome 1 to an ongoing research project (e.g thesis)
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Critical thinking and problem solving - Creative thinking
+(S3) Communication (oral, written and visual) - Presentation skills – oral
+"
+Using Foucault's Methods ,(SOCI515),Optional modules,M,5,Second Semester,0:100,"• To introduce students to Foucault’s use of history as a method
+• To demonstrate the use of Foucault’s method of discourse as an effective tool of social inquiry
+• To provide an introduction to Foucault’s method in relation to his work on sexuality, discipline and docile bodies as an example of the sociological imagination
+• To understand how, when and why Foucault’s methods have been taken up in the social sciences.
+","(LO1) To demonstrate an understanding of Foucault’s use of history as a method
+(LO2) To demonstrate an understanding of the role of discourse in addressing the relations between discourse and context, discourse and power and discourse and interaction
+(LO3) To explain the link between Foucault’s method and the study of culture and society
+(LO4) To apply Foucault’s methods to social research and social inquiry in the social sciences
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Critical thinking and problem solving - Evaluation
+(S3) Critical thinking and problem solving - Creative thinking
+(S4) Critical thinking and problem solving - Problem identification
+(S5) Communication (oral, written and visual) - Presentation skills - written
+"
+Focus Groups ,(SOCI516),Optional modules,M,5,Second Semester,0:100,"1.To provide students with the skills they need to design and complete research using focus group discussions
+2.To enable students to understand the ethical implications as well as the strengths and limitations of using focus groups
+3.To develop students&#39; skills in the analysis of focus group data, including verbatim transcripts of the discussions and notes of non-verbal interaction
+4.To develop students&#39; awareness of the practical issues  involved in setting up and moderating focus group discussions
+5.To provide students with a good understanding of methodological and theoretical literature they need to draw on to support their approach to focus group discussions
+","(LO1) To understand how and when focus groups could be used to research social issues, and be able to articulate the ethical implications of carrying out research in this way
+(LO2) Students will understand focus group methodology and be able to design and carry out research involving focus group discussions
+(LO3) Students will be able to capture and analyse data from focus group discussions, and clearly articulate their approach to analysis
+(LO4) Students will be able to identify methodological texts to cite to support the academic integrity of their research and to identify how sociological theory may enhance their analysis and presentation of findings
+(S1) Improving own learning/performance - Reflective practice
+(S2) Critical thinking and problem solving - Problem identification
+(S3) Critical thinking and problem solving - Creative thinking
+(S4) Global citizenship - Ethical awareness
+(S5) Critical thinking and problem solving - Critical analysis
+(S6) Communication (oral, written and visual) - Presentation skills – oral
+(S7) Working in groups and teams - Group action planning
+"
+Ethnomethodology and Conversation Analysis ,(SOCI519),Optional modules,M,5,Second Semester,0:100,"This module will provide students with an understanding of ethnomethodology and conversation analysis as radical approaches to the study of social practices grounded in work on and with interactional data. It will be of particular interest to students and researchers working across the social sciences and beyond with a specific interest in studying practice and interaction.
+","(LO1) This module will provide an overview of ethnmethodology and conversation analysis as dynamic, analytically innovative and intellectually adventurous fields of research.
+(LO2) It will enable students to trace the substantial influence ethnomethodology and conversation analysis continue to have in sociology, anthropology, psychology, science and technology studies, and other disciplines besides.
+(LO3) Students who take this module will acquire an understanding of ethnomethodology and conversation analysis as radical approaches to the study of social practices, and will do so in the course of practical work on and with interactional data. 
+(LO4) As the only postgraduate short course in the UK focusing on ethnomethodology specifically, it presents a unique opportunity for students to learn about an alternative way of approaching social inquiry, one grounded in &#39;radical&#39; empirical studies.
+(S1) Reading skills
+(S2) Writing skills
+(S3) Data collection skills
+(S4) Transcribing/capturing skills
+(S5) Anaytic skills
+"
+Participatory Action Research ,(SOCI520),Optional modules,M,5,Second Semester,0:100,"1. To plan for a Particiaptory Action Research dissertation project;
+2. To develop an understanding of the theoretical perspectives that inform a Participatory Action Research approach;
+3. To develop understanding of appropriate methods and activities for a Participatory Action Research approach;
+4. To understand ethical considerations related to a Participatory Action Research approach.
+","(LO1) To produce a strategy for engaging in a Particiaptory Action Research project;
+(LO2) Understanding Participatory Action Research within a theoretical and practice framework;
+(LO3) Understanding of methodology appropriate to a Participatory Action Research;
+(LO4) Reflecting on the ethical issues and practical problems associated with Participatory Action Research.
+(S1) Improving own learning/performance - Reflective practice
+(S2) Time and project management - Project planning
+(S3) Information skills - Networking skills
+(S4) Critical thinking and problem solving - Creative thinking
+(S5) Working in groups and teams - Group action planning
+(S6) Personal attributes and qualities - Integrity
+"
+Health and the Environmental Humanities ,(HLAC712),Optional modules,M,15,Second Semester,0:100,"Environmental Humanities aims to stimulate an interest in, and knowledge of, a topic of increasing concern: the relationship between health and the environment. It aims to introduce students to the interdisciplinary field of environmental humanities and allow students to explore a range of health-related environmental issues from a variety of perspectives, including those outside the Global North. It seeks to provide conceptual and methodological tools drawn from English, Geography, History, and other disciplines to interrogate the cultural, social and political dimensions of the complex health-environment relationship in the past and present. It also aims to introduce key critical concepts, such as the Anthropocene, slow violence and non-human agency, and encourage students to think about the relationship between justice and the health-environment nexus for different communities.
+","(LO1) Analyse, interpret and compare with competence and independence a wide variety of geographical, historical, literary and other texts
+(LO2) Demonstrate advanced knowledge and understanding of the environmental humanities
+(LO3) Critically appreciate the past and present relationship between health and the environment
+(LO4) Demonstrate critical awareness of current and new debates and concepts within the environmental humanities
+(LO5) Integrate public-facing and professional/collaborative learning (and where possible co-production) with research-informed critical inquiry.
+(LO6) Practically apply a comprehensive understanding of techniques for accessing electronic and bibliographic sources
+(LO7) Use scholarly referencing and bibliographic conventions appropriate for advanced scholarship
+(LO8) Critically evaluate different research methodologies and select appropriate methodologies
+(LO9) Negotiate complex issues both systematically and creatively in order to generate new and independent research
+(S1) Critically evaluate current debates and new insights within the field of environmental humanities from a range of disciplines and perspectives, including those from outside the academy
+(S2) Analyse diverse forms of discourse and of complex information and argument in a critical, creative and self-reflective manner
+(S3) Present sustained and persuasive written and oral arguments
+(S4) Autonomously design and self-direct a research-informed project that brings together historical and contemporary approaches
+(S5) Apply comprehensive understanding of a variety of theoretical and practical approaches to the environmental humanities
+(S6) Retrieve information, assemble bibliographic data, and critically evaluate, sift and organize material independently
+(S7) Use IT and other relevant tools and resources to present written and oral work to a professional, scholarly standard
+(S8) Select and use electronic and/or archival resources for planning and undertaking research and writing
+(S9) Demonstrate organisational skills in managing time and workloads, and in meeting deadlines
+"

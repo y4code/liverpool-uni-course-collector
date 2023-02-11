@@ -1,0 +1,89 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Informatics for Life Sciences ,(LIFE721),Compulsory modules,M,15,First Semester,0:100,"To provide a broad overview of the use of informatics in the biological sciences, to give students a theoretical and technical grounding in a range of application areas including bioinformatics-related topics.
+","(LO1) Critically evaluate and utilise core techniques in bioinformatics to support their research
+(LO2) Critically analyse, evaluate data analyses results and interpret them within the relevant  research context.
+(LO3) Evaluate research methods in bioinformatics to solve biological problems
+(LO4) Critically evaluate the literature and apply knowledge when analysing data.
+(S1) Learning skills online studying and learning effectively in technology-rich environments, formal and informal.
+(S2) Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication and collaboration online participating in digital networks for learning and research.
+"
+Immunology ,(LIFE728),Compulsory modules,M,15,Second Semester,0:100,"To develop principal skills in presenting immunological interactions and responses using graphics, posters and verbal communication that are transferable and key for employability.
+To aid critical evaluation of current topics, problems and developments in immunological research through advanced scholarship
+To evaluate methodologies and develop critiques of approaches used for interrogating the host immune response and integrating functions and evasion mechanisms of pathogens
+","(LO1) To  evaluate critically  the current concepts of host immunity and defence against viral, bacterial and parasite infections
+(LO2) Demonstrate  a comprehensive understanding of innate and adaptive immune responses and their interactions
+(LO3) Critically evaluate  methodologies for the study of key effector immune cells in host immune tissues, their migration and functions
+(LO4) Demonstrate a systematic understanding of immune function knowledge, and a critical awareness of the mucosal immune system relevant to the gastrointestinal and respiratory tracts and selected exemplar pathogens
+(LO5) Demonstrate critical awareness of current problems from immunological threats posed by infectious diseases and the potential of vaccines
+(S1) Deal with complex issues both systematically and creatively,  and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"
+"Diagnostics, Therapeutics and Vaccines ",(LIFE732),Compulsory modules,M,15,Second Semester,0:100,"To develop core skills in critically evaluating design and implementation of diagnostics, therapeutics and vaccines using written reports generated from appraising student-led discussion workshops and verbal communication, which are transferable and key for employability.
+To enhance critical evaluation of the considerations for product development through advanced scholarship of issues, including: industrial partnering, regulatory affairs, testing, governmental support and societal influences
+To enable appraisal of established techniques of research and enquiry to determine host contribution and response to interventions for the development of both diagnostic and control strategies
+","(LO1) To critically evaluate the strategies needed to design and develop novel drugs and vaccines for infectious disease
+(LO2) Demonstrate critical awareness of successes and current problems from infectious diseases, the genesis and implementation of diagnostics and strategies for limiting infection
+(LO3) Demonstrate a systematic understanding of the various agencies that input into local, national and global development of disease interventions
+(S1) Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"
+Coding for Life Sciences ,(LIFE733),Compulsory modules,M,15,First Semester,0:100,"This module is aimed at postgraduate students in the Life Sciences, wishing to learn about methods for use in data-intensive research. The module provides a broad introduction to the use of Python coding for performing basic tasks in the biological sciences. The module will give students practical experience in writing their own Python scripts for basic bioinformatics tasks, such as manipulating DNA, RNA and protein sequences, file input/output and working with other programs, such as BLAST. There is also an introduction to data visualisation using Python, and simple techniques used in data science, including a basic introduction to machine learning.
+","(LO1) Use Python for basic scripting
+(LO2) Understanding data structures in python and apply them to biological data
+(LO3) Use Python for manipulating files and controlling the running of external programs
+(LO4) Write Python code for performing simple bioinformatics tasks
+(LO5) Use Python to plot and analyse simple data
+(LO6) Understand basic concepts in supervised machine learning and use Python for such analyses
+(S1) Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations
+(S2) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+"
+Emerging Infections and Pandemics ,(LIFE751),Compulsory modules,M,15,First Semester,0:100,"To develop core skills in critically evaluating issues associated with emerging infectious disease and pandemics using written reports generated from appraising student-led discussion workshops and verbal communication, which are transferable and key for employability.
+To enhance ability to appraise the host contribution and response to interventions together with factors that can be exploited for the development of both diagnostic and control strategies
+","(LO1) To critically evaluate the history of both emerging animal and human diseases with major societal impact and interrogate the inter-species associations of infectious diseases
+(LO2) Demonstrate a comprehensive understanding of the origins and causalities of emerging pandemics with the underlying biology
+(LO3) To recognise and discuss the direct health consequences and societal impacts of a pandemic as well as the indirect effectors compromising the livestock and the foodchain as a whole.
+(LO4) Demonstrate a systematic understanding of individual pathogens causing emerging pandemics with their specific characteristics defining their gravity of the disease.
+(LO5) Critically evaluate the precautionary measures needed to curtail or to minimise the damaging effects from emergence of a new pandemic.
+(S1) Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences
+(S2) Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"

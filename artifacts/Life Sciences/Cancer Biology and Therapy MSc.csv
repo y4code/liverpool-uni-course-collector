@@ -1,0 +1,92 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+Frontiers in Cancer Research and Treatment ,(LIFE724),Compulsory modules,M,15,Second Semester,0:100,"This module aims to allow students to: develop the knowledge and understanding of the fundamentals of cancer biology and the current challenges in both diagnosis and treatment of cancer; gain an understanding of different treatment modalities used against cancer including chemotherapy, radiotherapy, targeted therapies and immunotherapy along with their advantages and disadvantages; understand the mechanisms of cancer resistance to treatment; understand the role of cancer biomarkers in patient stratification for optimal treatment strategies as well as the challenges in diagnosis of cancer and critically appraise scientific literature and seminars in the cancer field and to analyse and interpret tumour tissue samples.
+","(LO1) To assess and critique the current topics of research in cancer
+(LO2) To identify unmet screening, diagnostic and therapeutic needs in cancer.
+(LO3) To analyse and interpret research areas focussing on the fundamental mechanisms of cancer growth and resistance to therapies
+(LO4) To appraise state of the art technologies used in cancer research and interpret results
+(S1) Problem solving
+(S2) Presentation of scientific data
+(S3) Critical assessment of scientific data
+"
+Cancer Clinical Trials ,(LIFE726),Compulsory modules,M,15,Second Semester,0:100,"This module is designed to provide the students insights into how cancer clinical trials are designed and what strategies are to be considered whilst designing and executing a clinical trial. In order to achieve this, the students will be introduced to key concepts in this field, followed by lectures on how translational research is linked to clinical trials, with respect to study design, as well as regulatory requirements. The assessments in this module will enable students to critically appraise published clinical trials and systematic reviews. The module will have several case-based learning tutorials and workshops, all of which will enable the students to independently design a clinical trial to address a clinically important question.
+","(LO1) Assess the different cancer clinical trial strategies and designs
+(LO2) Justify appropriate courses of action to ensure good practice is set out and adhered to in given cancer clinical trial situations
+(LO3) Analyse and interpret cancer clinical trial data
+(LO4) Critique and appraise published cancer clinical trials and systematic reviews
+(S1) Scientific communication
+(S2) Develop critical thinking
+(S3) Digital fluency
+"
+Cellular Biotechnology and Biological Imaging ,(LIFE749),Compulsory modules,M,15,First Semester,0:100,"To enhance the core skills acquired , including both scientific (presentational and communication) and employability skills, and to provide advice on careers and career development in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models.
+To enable students to evaluate the latest scientific literature and technologies in imaging technologies for cell analysis on the microscopic level as well as for cell imaging and functional analysis in animal models of disease and topical issues of particular concern to biotechnologist.
+To enhance problem solving skills by data analysis exercises in relation to experimental methods in imaging and cell biotechnology, and develop a deeper understanding of topical issues in the subject.
+","(LO1) Compare various mammalian cell culture and cell analysis techniques.
+(LO2) Critically review the molecular details of various technologies for the genetic manipulation of mammalian cells .
+(LO3) Critically evaluate a broad range of imaging techniques and modalities to analyse cellular features and cell behaviour at different scales, from microscopic analysis to imaging in animal models of disease.
+(LO4) Appraise the translational impact of cellular biotechnology approaches and justify their application in medical research.
+(S1) Scientific Communication
+(S2) Scientific Technical Ability
+(S3) Digital Fluency
+(S4) Critical Thinking
+"
+Computational Biology ,(LIFE752),Compulsory modules,M,15,Second Semester,0:100,"The aims of this module are:
+1.	To support students develop a comprehensive understanding of complex computational approaches
+2.	Enable students to identify the correct computational approach to address a wide range of biological questions.
+","(LO1) Justify the integration of different tools and approaches for the description and analysis of complex data
+(LO2) Assess the basis for quantitative and computational techniques
+(LO3) Become proficient using computational analysis approaches to model the interaction of cellular molecular components in a wide range of biological systems
+(LO4) Assess the application of complex computational approaches for the discovery, development and optimisation of therapies
+(S1) Written communication
+(S2) Think critically
+(S3) Problem solving
+(S4) Biological Interpretation
+(S5) IT skills
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Informatics for Life Sciences ,(LIFE721),Compulsory modules,M,15,First Semester,0:100,"To provide a broad overview of the use of informatics in the biological sciences, to give students a theoretical and technical grounding in a range of application areas including bioinformatics-related topics.
+","(LO1) Critically evaluate and utilise core techniques in bioinformatics to support their research
+(LO2) Critically analyse, evaluate data analyses results and interpret them within the relevant  research context.
+(LO3) Evaluate research methods in bioinformatics to solve biological problems
+(LO4) Critically evaluate the literature and apply knowledge when analysing data.
+(S1) Learning skills online studying and learning effectively in technology-rich environments, formal and informal.
+(S2) Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication and collaboration online participating in digital networks for learning and research.
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"

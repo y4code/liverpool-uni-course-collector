@@ -1,0 +1,213 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+Research Methods and Applications in Biological Sciences ,(LIFE731),Compulsory modules,M,15,Whole Session,0:100,"This module is designed to:
+Provide students with an understanding of the processes required for the successful planning and delivery of research projects;
+Introduce students to the latest, cutting edge technologies in their research field of interest;
+Develop in students the transferrable communication skills that will enable them to disseminate their findings to both scientific and general audiences.
+","(LO1) Develop hypotheses and design a series of experiments that would allow these hypotheses to be tested
+(LO2) Critically review the legal and moral frameworks within which scientific research must be conducted, in particular research ethics and current legislation;
+(LO3) Effectively communicate research findings using writing styles for different audiences, including the scientific and lay communities, and to understand the need to promote the public understanding of science;
+(LO4) Debate why and when biologists need to engage with mathematicians, computer scientists and physical scientists to obtain more quantitative, holistic or systems-based approaches to studying biological processes
+(LO5) Critically review the latest scientific discoveries in their research field, and understand the principles underpinning cutting edge technologies that may be applied to their area of scientific investigation;
+(LO6) Synthesise information, critically review evidence to support conclusions, and define complex problems by applying appropriate knowledge and skills.
+(S1) Communication Skills
+(S2) Organisational Skills
+(S3) Lifelong learning skills
+(S4) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S5) Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture
+"
+"Professional, Employability and Research Skills for Advanced Biological Sciences ",(LIFE710),Compulsory modules,M,15,Whole Session,0:100,"To develop and acquire a range of personal and interpersonal skills relating to effective self-management and working relationships with others;
+To develop and acquire an enhanced ability to communicate effectively in academic and professional settings;
+To develop and acquire skills and knowledge required for enhanced employability;
+To develop and acquire a range of generic skills that will help with research planning and delivery to a professional standard.
+","(LO1) Demonstrate improved self-awareness and personal effectiveness
+(LO2) Work effectively as a team member to achieve a scientific goal
+(LO3) Communicate effectively, using in a variety of contexts to scientific and non-scientific audiences
+(LO4) Access and critically evaluate appropriate bibliographic resources and databases
+(LO5) Evaluate relevant health and safety issues and demonstrate responsible working practices
+(LO6) Demonstrate improved awareness of career opportunities and employability prospects via development of independent learning and self-evaluation skills
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+(S3) Communication and collaboration online participating in digital networks for learning and research
+(S4) Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics
+"
+Sustainable Food Systems ,(LIFE747),Compulsory modules,M,15,First Semester,0:100,"1. To introduce students to the concepts of sustainable food systems; 
+2.  To develop in students an appreciation of the interdisciplinary approaches required to design future food systems; 
+3. To develop in students a state-of-the art scientific understanding of disciplines underpinning sustainable food systems.
+","(LO1) Integrate and evaluate interdisciplinary approaches to the study of sustainable food systems.
+(LO2) Critically review the latest scientific approaches in the various fields associated with sustainable food systems.
+(LO3) Apply the underlying technological and methodological principles of sustainable food systems to food system analysis.
+(LO4)  Synthesise information from differing sources and critically review evidence to support conclusions.
+(LO5) Design novel approaches and solutions to address the challenges of future food security
+(S1) Teamwork
+(S2) Communication skills
+(S3) Organisational skills
+(S4) Lifelong learning skills
+(S5) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S6) Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"
+Advanced Statistics for Biological Research ,(LIFE707),Optional modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Statistics for Biological Research ,(LIFE763),Optional modules,M,15,First Semester,40:60,"To introduce and advance knowledge of a range of statistical tests that are commonly used in the Biosciences;
+To give experience in the implementation of these tests using statistical and programming software;
+To enable students to learn how to interpret and analyse the output of these tests.
+","(LO1) To develop an understanding of  statistical hypothesis testing;
+(LO2) To apply a range of relevant statistical tests to complex datasets to draw statistical conclusions;
+(LO3) To critically assess the appropriateness of a statistical test;
+(LO4) To intepret and report data collected in biological research.
+(LO5) To develop programming skills relevant for statistical analysis.
+(LO6) Use data visualisation techniques to present ‘big’ data
+(S1) Numeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);
+(S2) Problem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Analysing Climate Processes and Variability ,(ENVS475),Optional modules,M,15,Second Semester,0:100,"To outline the modes of operation, timescales of variation and drivers of the global climate system.
+To introduce major research themes in the global climate system.
+To introduce the techniques and approaches for the analysis of ocean, atmopshere and paleoclimate data sets.
+To learn to discuss and present key findings from data analysis of large data sets.
+","(LO1) Knowledge of how the Earth’s atmospheric and oceanic system operates, including the various spatial and temporal scales of the processes
+(LO2) Knowledge of the external and internals drivers of climate change
+(LO3) Knowledge of basic techniques and research themes in ocean, atmospheric and paleoclimate research
+(LO4) Knowledge of the methods of data collection and production in ocean and atmospheric science.
+(LO5)  Knowledge of the techniques of reconstruction of past climatic conditions
+(S1) Assessing the merits of contrasting theories and explanations
+(S2) Numeracy and statistical literacy
+(S3) Ability to work responsibly, autonomously and with others
+(S4) The handling of large datasets
+"
+Monitoring Urban Air Pollution ,(ENVS666),Optional modules,M,15,Second Semester,0:100,"This module is designed for students to further their skills in research and writing. As a student-led research module, large portions of the module are dedicated to individual and group research. The module will promote independent thinking, critical insights, leadership, teamwork and a sound understanding of the impacts of poor air quality across the city of Liverpool and the UK.
+The module promotes two skillsets:
+Industry Style
+Through group work, students will develop a consultancy report. This will develop team working, organisational and leadership skills. Students will be responsible for reporting their findings at weekly mentoring sessions. The weekly monitoring sessions will provide formative feedback for final grades.
+Academic
+Students will develop their academic skills through the production of a conference paper and presentation skills by presenting the work to the rest of the class at the ENVS666 conference day. Reflecting a real academic conference an abstract will be submitted at an early stage of the module promoting critical thinking.
+","(LO1) Demonstrating an appreciation of the risks and health issues associated to indoor and outdoor air pollution
+(LO2) Demonstrating an understanding of basic computer coding (Python), the ability to manipulate large datasets and the capability of being able to present the findings in an easily digestible manner
+(LO3) Demonstrate the ability to work as a team and develop a complete group-based consultancy report based on real-clients
+(LO4) Demonstrate the ability to give a timed presentation and answer questions under pressure at the ENVS666 conference day
+(LO5) Demonstrate the ability to communicate data derived findings at an appropriate scientific level.
+(S1) Teamwork
+(S2) Communication skills
+(S3) Ethical awareness
+(S4) Leadership
+(S5) Data proccessing / statistical tools
+(S6) Rudimentary electronics and coding
+(S7) Organisational skills
+"
+Supply Chain Operations Management ,(EBUS506),Optional modules,M,15,First Semester,0:100,"The management of supply chains is key to the operations of modern organisations. The need to be competitive, reach new markets, source new goods and raw materials as well as globalisation have all been key contributors to the development of supply chains as a function. It has become clear that competitive advantage and customer satisfaction can be gained if all organisations in the chain work together to improve service and reduce cost. The module provides the student with comprehensive understanding of key principles and techniques of supply chain management including topics such as inventory management, demand and capacity management, supply chain partnerships and IT.
+The aim of this module is to provide a study of the key principles, systems and techniques used to assure effective supply chain management. The module covers an extensive range of subjects including logistics, information management, inventory management, partnerships and information technology.
+The aims are to enable the student to:
+Understand the principles and role of SCM in organisations;
+Understand the nature and importance of inter-relationships within the supply chain;
+Understand and apply a range of tools and techniques relevant to the optimisation of supply chains.
+","(LO1) Be able to define and document a supply chain operation in national and international contexts;
+(LO2) Be able to analyse and evaluate the performance of the supply chain;
+(LO3) Be able to apply supply chain optimisation tools and techniques in a range of situations.
+(S1) Numeracy. Relevant supply chain operations tools and techniques that involve calculations will be introduced and practised in the lectures.
+(S2) Commercial awareness. Real-world examples and applications of supply chain operations management will be introduced and discussed in lectures.
+(S3) International awareness. The global nature of supply chain operations management will be introduced and discussed in lectures.
+"
+Informatics for Life Sciences ,(LIFE721),Optional modules,M,15,First Semester,0:100,"To provide a broad overview of the use of informatics in the biological sciences, to give students a theoretical and technical grounding in a range of application areas including bioinformatics-related topics.
+","(LO1) Critically evaluate and utilise core techniques in bioinformatics to support their research
+(LO2) Critically analyse, evaluate data analyses results and interpret them within the relevant  research context.
+(LO3) Evaluate research methods in bioinformatics to solve biological problems
+(LO4) Critically evaluate the literature and apply knowledge when analysing data.
+(S1) Learning skills online studying and learning effectively in technology-rich environments, formal and informal.
+(S2) Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication and collaboration online participating in digital networks for learning and research.
+"
+Advanced Ecology ,(ENVS412),Optional modules,M,15,First Semester,0:100,"  The aim of this module is to provide students with:
+<ul><li>    A clear and critical appreciation of ecological theory.  </li><li>    Information on statistical methods appropriate to community ecology.  </li><li>    The ability to apply scientific rigour when critically assessing the options available for conservation action in any given case.  </li><li>    The ability to present balanced, critical written accounts on scientific issues.  </li></ul>","On successful compeltion of this module students should have a knowledge and critical understanding of community ecology, specifically below:     
+Have understanding of aspects of macro-ecology. ​Discuss current scientific approaches and their uses 
+​Access, understand and summarise scientific information
+​Have a knowledge of communtiy analysis using multivariate tools
+"
+Advanced Topics in Animal Behaviour ,(LIFE743),Optional modules,M,15,Second Semester,50:50,"This module aims to:
+1. Provide an understanding of the use of evolutionary theory to understanding animal behaviour;
+2. Develop knowledge and deep understanding of the complexity of animal behaviour and the ability to apply, critically evaluate and interpret this knowledge in the light of selected primary and secondary literature.
+","(LO1) Evaluate the use of the adaptationist approach in studying behaviour
+(LO2) Critically evaluate how various factors affect the evolution of reproductive behaviour
+(LO3) Appraise current understanding of the evolution of altruism and cooperation
+(LO4) Formulate hypotheses to explain why individuals vary in behaviour 
+(LO5) Assess comparative approaches in the study of animal cognition and critically evaluate why cognitive processes of  animals might not be, and often are not, analogous to human cognitive processes
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Literacy application of literacy, ability to produce clear, structured written work and oral literacy - including listening and questioning
+"
+Advanced Topics in VIral Disease Mechanisms ,(LIFE720),Optional modules,M,15,Second Semester,0:100,"This module aims to:
+1. Describe the latest research on the role of viruses as important pathogens of humans and animals;
+2. Describe, in detail, viral virulence mechanisms, immune evasion and vaccine development;
+3. Develop knowledge and deep understanding in microbiology, and ability to apply, critically evaluate and interpret this knowledge to solve complex problems.
+","(LO1) Explain, at the molecular level, the mechanisms of replication and pathogenesis of a range of different virus families
+(LO2) Critically evaluate the contribution of virus infection to diseases in both humans and animals and hypotheses on the evolution of virulence;
+(LO3) Evaluate the immune control of virus infection and describe viral immune evasion strategies;
+(LO4) Appraise current approaches to prevention and treatment of a range of virus infections;
+(LO5) Evaluate modern approaches to investigating virus pathogenesis;
+(LO6) Explain current theories on the importance of globalization and climate change on the emergence and re-emergence of virus disease;
+(LO7) Synthesise information, critically review evidence to support conclusions, and define and solve complex problems in virology by applying appropriate knowledge and skills.
+(S1) Students will also develop independent learning and self-evaluation skills.
+"
+Health Inequalities: Evidence and Policy. ,(PUBH407),Optional modules,M,15,Second Semester,0:100,"1. To develop an in-depth knowledge of the social determinants of health inequalities both historically and in the contemporary world.
+2. To provide a comprehensive overview of the knowledge and skills needed for public health practitioners to develop and implement policies to reduce health inequalities.
+","(LO1) 1. Critically evaluate the main theoretical approaches used in research on health inequalities;
+2. Critically appraise the evidence on the impact of health and non-health policies on health inequalities;
+3. Critically evaluate and adapt to the complex influence of politics on policy development and health inequalities at various levels (local, regional, national and international);
+4. Develop an in-depth knowledge of the processes of policy formulation and implementation;
+5. Demonstrate the skills and knowledge public health practitioners need to be able to influence these processes;
+6. Critically evaluate complex evidence and work individually and collectively to present evidence, build arguments and influence key policy makers to promote policies that improve health equity, in challenging environments.
+"
+"Evidence-based Public Health: Theory, Methods and Practice ",(PUBH418),Optional modules,M,15,Second Semester,0:100,"The aim of the Module is for students develop skills in critically evaluating the role and function of the evidence based and to apply these skills when developing, implementing  and evaluating public health interventions and tackling health inequalities to improve population health outcomes in the real world. 
+","(LO1) Demonstrate a critical awareness of the current issues involved in evidence-based decision-making in public health
+(LO2) Evaluate critically the conceptual frameworks that are used to identify the appropriate research methods to address key public health questions.
+(LO3) Appraise critically the implications of the social determinants of health on delivering evidence-based public health strategy and actions.
+(LO4) Critically appraise the techniques and processes involved in quality appraising evidence and critically appraise the challenges and opportunities involved in quality appraising public health evidence. 
+(LO5) Analyse how evidence is translated into policy implementation and appraise critically the challenges/opportunities involved in such implementation.
+(S1) Problem solving skills
+(S2) Teamwork
+(S3) Communication skills
+"
+Conservation Biology ,(LIFE326),Optional modules,3,15,First Semester,0:100,"To develop in students the ability to explore current thinking and research in conservation biology;
+To develop in students knowledge and understanding about patterns of biodiversity and to enable them to critically evaluate the evidence supporting alternative explanations for the extinctions or demise of many animal and some plant species;
+To develop in students knowledge and deep understanding in conservation biology, and ability to apply, critically evaluate and interpret this knowledge to solve complex problems.
+","(LO1) To construct justified arguments for the value of conserving biodiversity
+(LO2) To evaluate the human activities that affect biodiversity and describe how they act individually and in combination to affect individuals, populations and ecosystems
+(LO3) To evaluate, using case studies, the pros and cons of a wide range of conservation interventions, from international legal instruments to local habitat management
+(LO4) To analyze where conservation questions can be answered with scientific evidence, and where socio-economic and other types of information are more important
+(S1) Problem solving skills
+(S2) Communication skills
+(S3) Ethical awareness
+"

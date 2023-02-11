@@ -1,0 +1,153 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+BIM Implementation in Collaborative Environments ,(ARCH725),Compulsory modules,M,15,Second Semester,0:100,"The module aims to promote student’s ability to plan and build strategies towards BIM implementation on a project level, as well as on the organisational level. In addition, the module will equip students with a subtle and systematic understanding of the UK and international BIM standards to scrutinise the implementation and adoption of BIM on national and international levels.
+","(LO1) Establish a profound understanding of collaboration and its fundamental role in the contemporary AEC industry.
+(LO2) Demonstrate an informative understanding of the essentiality of interoperability of technologies and systems in collaborative project delivery.
+(LO3) Recognise and critically appraise the role of BIM in Integrated Design, based on a thorough understanding of the UK BIM standards and principles of Integrated Project Delivery.
+(LO4) Scrutinise the methods used to exchange and share data and information throughout the project and building life cycle.
+(LO5) Demonstrate a critical awareness of the tools and processes associated with the articulation of performance targets and strategies which are updated throughout the process by the design, construction and maintenance teams.
+(S1) Research skills.
+(S2) Critical thinking and analysis.
+(S3) Independent learning skills.
+(S4) Written communication skills.
+(S5) Oral communication skills.
+(S6) Graphical communication skills.
+(S7) Team working skills.
+"
+"BIM Theory, Practice and Tools ",(ARCH724),Compulsory modules,M,30,First Semester,0:100,"The module aims to familiarise students with the theories, technologies, methods, and processes underlying the development and implementation of Building Information Modelling as a tool to enhance efficiency in project delivery throughout its life cycle.
+","(LO1) Analyse and evaluate the opportunities and challenges of BIM for all stakeholders.
+(LO2) Demonstrate a critical awareness of the use of existing BIM tools and methodology in the current industry and the underlying technical, social, managerial and organisational implications.
+(LO3) Demonstrate an informed awareness of interoperability and data exchange standards.
+(LO4) Establish the knowledge and required skills to critically appraise the implementation of BIM in different cultural contexts and at different scales.
+(LO5) Appraise the role of BIM in enhancing sustainability and energy efficiency in building design.
+(LO6) Demonstrate an informed awareness of how various BIM tools can be used for design coordination within integrated project environment.
+(LO7) Achieve competence in undertaking a case study research.
+(S1) Research skills.
+(S2) Critical thinking and analysis.
+(S3) Independent learning skills.
+(S4) Written communication skills.
+(S5) Oral communication skills.
+(S6) Graphical communication skills.
+(S7) Team working skills.
+"
+Interoperability and Design Coordination With BIM ,(ARCH745),Compulsory modules,M,15,Second Semester,0:100,"The module aims to provide students with the fundamental competencies, knowledge and skills of working with BIM software packages and generating multidisciplinary information and models across disciplines for fully integrated design.
+","(LO1) Demonstrate familiarity with the Industry Foundation Classes (IFC) and the different object classification systems.
+(LO2) Achieve competence in the technical and legal requirements for effective use and sharing of data and information within and across disciplines.
+(LO3) Scrutinise the data/information needs associated with different phases of a project across stakeholders. 
+(LO4) Demonstrate a thorough understanding of interoperability issues associated with model exchange and IFCs within collaborative BIM environments.
+(S1) Research skills.
+(S2) Critical thinking and analysis.
+(S3) Independent learning skills.
+(S4) Written communication skills.
+(S5) Oral communication skills.
+(S6) Graphical communication skills.
+(S7) Team working skills.
+(S8) Creative design skills.
+(S9) 3D modelling and 3D visualisation skills.
+(S10) Smart modelling (BIM and parametric).
+"
+Research Methodology ,(ARCH707),Compulsory modules,M,15,Second Semester,0:100,"This module aims to equip the student with the key skills needed to prepare a written dissertation or design thesis at postgraduate level in architecture, with visiting lecturers describing their own research and dissertation preparation and methods, with the overall aim of assisting students to select, define and launch their dissertation/thesis projects.
+","(LO1) Setting up and managing a research project
+(LO2) Identifying a topic and understanding the stages of developing and conducting a research project.
+(LO3) Using bibliographies, referencing, citations and quotations
+(LO4) Understanding the principles of preparing and performing an effective oral presentation
+(S1) Improving own learning/performance - Reflective practice
+(S2) Time and project management - Project planning
+(S3) Research skills - All information skills
+(S4) Personal attributes and qualities - Initiative
+(S5) Critical thinking and problem solving - Creative thinking
+"
+BIM-enabled Sustainability ,(ARCH746),Optional modules,M,15,First Semester,0:100,"The module aims to develop of understanding for sustainability and sustainable environmental design and the role that BIM can play through modelling, simulation, data exchange and analysis on achieving a better outcome.
+","(LO1) To establish basic knowledge of sustainability, sustainable environmental design and the key related concepts.
+(LO2) To demonstrate the ability to present research results in a concise and understandable manner to a professional audience.
+(LO3) To develop the ability to investigate the potential of BIM and its related technologies in supporting sustainable design and enhancing environmental performance in theory as well as in practice.
+(LO4) To demonstrate familiarity with various environmental design software and their use in the context of sustainable environmental design.
+(S1) Research skills.
+(S2) Critical thinking and analysis.
+(S3) Independent learning skills.
+(S4) Written communication skills.
+(S5) Oral communication skills.
+(S6) Graphical communication skills.
+"
+Innovative Technologies and Methods in Construction ,(ARCH743),Optional modules,M,15,Second Semester,0:100,"The module aims to offer the knowledge, experience and mechanism required for scrutinising the innovative technologies and methods that are driving the digital transformation in the contemporary construction industry, and to analyse how those technologies and methods are influencing/redefining the roles, tools, and processes associated with construction.
+","(LO1) Demonstrate a critical understanding of the nature, features and challenges of the construction industry and its similarities to and differences from other industries.
+(LO2) Demonstrate familiarity with the roles, tasks and activities associated with construction management.
+(LO3) Analyse challenges, complications and inefficiencies in traditional construction methods.
+(LO4) Demonstrate a critical understanding with the cutting-edge technologies and state-of-the-art methods that are applicable in the construction industry.
+(LO5) Analyse and critically appraise the potential of the innovative construction technologies and methods and investigate their potential impact on the tools, processes and roles associated with the construction industry.
+(S1) Research skills.
+(S2) Critical thinking and analysis.
+(S3) Independent learning skills.
+(S4) Written communication skills.
+(S5) Oral communication skills.
+(S6) Graphical communication skills.
+(S7) Team working skills.
+"
+Parametric Design and Digital Fabrication 1 ,(ARCH729),Optional modules,M,15,First Semester,0:100,"To gain knowledge in the use of parametric modelling tools digital/fabrication techniques and apply them in the design and production of a prototype component.
+","(LO1) Students will be able to demonstrate basic knowledge and application of parametric tools.
+(LO2) Students will be able to demonstrate basic knowledge and application of digital fabrication techniques.
+(LO3) Students will be able to demonstrate ability to present and communicate design and fabrication process.
+(LO4) Students will be able to demonstrate ability to apply digital fabrication techniques in relation to meteriality.
+(S1) Basic knowledge and application of parametric tools.
+(S2) Basic knowledge and application of digital fabrication techniques.
+(S3) Ability to present and communicate design and fabrication process.
+(S4) Ability to apply digital fabrication techniques in relation to meteriality.
+"
+Parametric Design and Digital Fabrication 2 ,(ARCH730),Optional modules,M,15,Second Semester,0:100,"To deepen the knowledge of parametric modelling and digital fabrication techniques.
+","(LO1) Students will be able to demonstrate advanced knowledge and application of parametric tools/fabrication techniques.
+(LO2) Students will be able to demonstrate an advanced knowledge and application of digital fabrication techniques.
+(LO3) Students will be able to demonstrate the ability to present and communicate design and fabrication demonstrate ability to present and communicate design and fabrication process.
+(LO4) Students will be able to demonstrate advanced ability to apply digital fabrication techniques in relation to meteriality.
+(S1) Advanced knowledge and application of parametric tools/fabrication techniques.
+(S2) Advanced knowledge and application of digital fabrication techniques.
+(S3) Ability to present and communicate design and fabrication process.
+(S4) Advanced ability to apply digital fabrication techniques in relation to materiality.
+"
+Thesis : Dissertation ,(ARCH721),Optional modules,M,60,Whole Session,0:100,"A primary aim of this module is to offer the opportunity to submit a conventional written dissertation OR to submit a design thesis with supporting documentation on an approved topic or brief of their choice. The second of these alternatives responds to current research agendas in the field of architecture, sustainability, digital design or BIM.
+To develop and practice academic skills in identifying a research topic, formulating a research design, managing the extended research process and achieving milestones, and drawing relevant policy conclusions from the research findings.
+To develop a deeper understanding in depth of a relevant body of literature.
+To develop analytical skills and critical thinking on current research issues.
+To develop writing, presentation and bibliographic skills in preparing and submitting a high quality, fully-referenced dissertation.
+","(LO1) To identify an appropriate research topic that can be investigated and reported on through sources of information that be in the form of written and/or design output.
+(LO2) To manage the research process effectively within given resources and meeting milestones on time.
+(LO3) To gain a deeper understanding of a particular topic in a chosen subject area.
+(LO4) To form independent and objective views on issues in a specialised subject area.
+(LO5) To produce a well-written, clearly presented consistently referenced and properly formatted Dissertation.
+(S1) Improving own learning/performance - Reflective practice.
+(S2) Improving own learning/performance - Self-awareness/self-analysis.
+(S3) Improving own learning/performance - Personal action planning.
+(S4) Communication (oral, written and visual) - Presentation skills - written.
+(S5) Critical thinking and problem solving - Critical analysis.
+(S6) Research skills - All Information skills.
+"
+Thesis: Research By Design ,(ARCH722),Optional modules,M,60,Whole Session,0:100,"To carry out a specific piece of research on a self selected topic and to develop a designed object that is derived directly from it.
+To develop and practice academic skills in identifying a current design problem, formulating an analysis strategy, managing the design process and drawing relevant conclusions from the design project and response to any research findings.
+To develop the idea of an design in the widest sense as a vehicle to apply research study and information drawn from appropriate literature.
+To develop a deeper understanding in depth of a relevant body of design precedent and literature.
+","(LO1) The module is intended to allow students:
+To identify an appropriate research topic that can be investigated and reported on through sources of information that be in the form of written and/or design output.
+(LO2) To design an effective project using appropriate methods (e.g. literature review, case study) and techniques that is derived directly from and satisfies the researched topic.
+(LO3) To manage the research process effectively within given resources and meeting milestones on time.
+(LO4) To gain a deeper understanding of a particular topic in a chosen subject area.
+(LO5) To form independent and objective views on issues in a specialised subject area.
+(LO6) To produce a well-written, clearly presented consistently referenced and properly formatted Research Report and a well-conceived, appropriate, well-supported and well-executed design project that is derived from the research. 
+(S1) Improving own learning/performance - Reflective practice.
+(S2) Improving own learning/performance - Self-awareness/self-analysis.
+(S3) Improving own learning/performance - Personal action planning.
+(S4) Communication (oral, written and visual) - Presentation skills – oral.
+(S5) Communication (oral, written and visual) - Presentation skills - written.
+(S6) Communication (oral, written and visual) - Presentation skills - visual.
+"
+Virtual Environments for Architecture ,(ARCH708),Optional modules,M,15,First Semester,0:100,"To offer the knowledge and tools that allow students to critically understand the potential of VR and VE in Architecture and the wider context of the AEC industry, and to scrutinise the VR and VE technologies within modelling workshops.
+","(LO1) Demonstrate a critical understanding of the historical context of VR and VE and how they can be used as an integral part of the design process.
+(LO2) Establish familiarity with a variety of VR systems; their components, features, scope and limitations.
+(LO3) Demonstrate ability to investigating the potential benefits of VR systems in architecture, construction and maintenance of buildings.
+(LO4) Enhance design and presentation skills through experiencing advanced software used for modelling, visualisation and animation.
+(LO5) Develop the ability to structure, analyse and report on an area of investigation.
+(S1) Independent learning skills.
+(S2) Communication skills - written.
+(S3) Communication skills - oral.
+(S4) Communication skills - graphical.
+(S5) Creative design skills.
+(S6) 3D modelling and visualisation skills.
+(S7) Team working skills.
+"

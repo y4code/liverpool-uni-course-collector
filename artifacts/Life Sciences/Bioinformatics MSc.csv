@@ -1,0 +1,90 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Informatics for Life Sciences ,(LIFE721),Compulsory modules,M,15,First Semester,0:100,"To provide a broad overview of the use of informatics in the biological sciences, to give students a theoretical and technical grounding in a range of application areas including bioinformatics-related topics.
+","(LO1) Critically evaluate and utilise core techniques in bioinformatics to support their research
+(LO2) Critically analyse, evaluate data analyses results and interpret them within the relevant  research context.
+(LO3) Evaluate research methods in bioinformatics to solve biological problems
+(LO4) Critically evaluate the literature and apply knowledge when analysing data.
+(S1) Learning skills online studying and learning effectively in technology-rich environments, formal and informal.
+(S2) Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S3) Communication and collaboration online participating in digital networks for learning and research.
+"
+Coding for Life Sciences ,(LIFE733),Compulsory modules,M,15,First Semester,0:100,"This module is aimed at postgraduate students in the Life Sciences, wishing to learn about methods for use in data-intensive research. The module provides a broad introduction to the use of Python coding for performing basic tasks in the biological sciences. The module will give students practical experience in writing their own Python scripts for basic bioinformatics tasks, such as manipulating DNA, RNA and protein sequences, file input/output and working with other programs, such as BLAST. There is also an introduction to data visualisation using Python, and simple techniques used in data science, including a basic introduction to machine learning.
+","(LO1) Use Python for basic scripting
+(LO2) Understanding data structures in python and apply them to biological data
+(LO3) Use Python for manipulating files and controlling the running of external programs
+(LO4) Write Python code for performing simple bioinformatics tasks
+(LO5) Use Python to plot and analyse simple data
+(LO6) Understand basic concepts in supervised machine learning and use Python for such analyses
+(S1) Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations
+(S2) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+"
+Practical Bioinformatics ,(LIFE748),Compulsory modules,M,30,Whole Session,0:100,"To develop knowledge and skills necessary to perform bioinformatics analyses, in order to prepare students for their MSc projects.  The emphasis will be on applying this knowledge to a real data set, in order to produce the equivalent of an original piece of research.
+","(LO1) Critically analyse and evaluate genomics and protein data
+(LO2) Perform genomic and protein analysis necessary to complete a successful research project
+(LO3) Critically appraise and evaluate computer skills necessary for bioinformatics analyses
+(LO4) Develop and present a plan for a research project which critically appraises the background of the project, evaluates the methodologies, formulates hypotheses, and objectives, and resources required
+(S1) Digital fluency
+(S2) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, using data, applying research methods, applying ethics
+(S3) Self-management: readiness to accept responsibility, flexibility, resilience, self-starting, initiative, integrity, willingness to take risks,  appropriate assertiveness, time management, readiness to improve 
+own performance based on feedback / reflective learning.
+"
+Advanced Genomic Analysis ,(LIFE750),Compulsory modules,M,15,Second Semester,0:100,"The aim of this course is to equip students with a broad understanding of genomic data and its analysis, and to develop insight into how these methods can be applied to answer biological and medical questions.
+","(LO1) Design genomics experiments to address a given biological problem.
+(LO2) Categorise a broad range of common genomic analyses and the types of data sets to which they can be applied.
+(LO3) Justify a choice of genomic data analysis tools and strategies.
+(LO4) Interpret the outcomes of genomic analyses in their biological context.
+Learning
+(S1) Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner
+(S2) Problem solving
+(S3) Communication skills
+"
+Computational Biology ,(LIFE752),Compulsory modules,M,15,Second Semester,0:100,"The aims of this module are:
+1.	To support students develop a comprehensive understanding of complex computational approaches
+2.	Enable students to identify the correct computational approach to address a wide range of biological questions.
+","(LO1) Justify the integration of different tools and approaches for the description and analysis of complex data
+(LO2) Assess the basis for quantitative and computational techniques
+(LO3) Become proficient using computational analysis approaches to model the interaction of cellular molecular components in a wide range of biological systems
+(LO4) Assess the application of complex computational approaches for the discovery, development and optimisation of therapies
+(S1) Written communication
+(S2) Think critically
+(S3) Problem solving
+(S4) Biological Interpretation
+(S5) IT skills
+"
+Proteomics Metabolomics and Data Analysis ,(LIFE754),Compulsory modules,M,15,Second Semester,0:100,"To illustrate the value of proteomics and metabolomics towards unbiased, quantitative and high-throughput analysis of biological systems. To offer demonstrations in the design and synthesis of proteomic and metabolomics experiments, including practical demonstrations within the metabolomics and proteomics facilities.
+","(LO1) Appraise proteomic and metabolome techniques.
+(LO2) Evaluate analytical methods and design proteomics or metabolomics experiments to address a given biological problem.
+(LO3) Critically appraise data analysis tools and strategies and interpret the experimental data in the biological context
+(S1) Problem Solving Skills
+(S2) Communication Skills – Professional Report Writing
+(S3) Coding and Statistical Analysis
+"

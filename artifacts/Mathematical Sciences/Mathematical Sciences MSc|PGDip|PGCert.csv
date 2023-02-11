@@ -1,0 +1,376 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Latex and Mathematical Programming Project ,(MATH549),Compulsory modules,M,15,First Semester,0:100,"This module introduces students, in a practical context, to the use of a common mathematical programming language and the typesetting system LaTeX . This enhances their IT skills as well as providing practical training in the use of these systems for mathematics.
+","(LO1) By the end of the module, students should know how to write a Mathematical project in the typesetting language LaTeX, including the ability to include graphics.
+(LO2) By the end of the module, students should be able to use a mathematical programming language (such as Maple or Matlab), and apply their programming ability to a particular mathematical problem.
+(S1) Problem solving skills
+(S2) IT skills
+(S3) Organisational skills
+"
+Math552 - Preliminary Dissertation ,(MATH552),Compulsory modules,M,30,Second Semester,0:100,"- To introduce students to mathematical research, through guided reading.
+- To begin to prepare students for independent mathematical research.
+- To give students experience in scientific report writing.
+- To give students experience of presenting their work to a small group.
+","(LO1) Familiarity with an area of current research interest within mathematics, including knowledge of some technical details.
+(LO2) Ability to research a topic using a variety of resources including libraries and the internet;
+(LO3) Ability to present mathematical work in a clear and coherent fashion;
+(LO4) Ability to explain mathematical ideas clearly in written form, and place them within the context of their history and applications;
+(LO5) Ability to typeset a mathematical document, including equations, cross references, citations, bibliography and, where appropriate, graphics, tables and program documentation.
+(LO6) Ability to work independently on a project, and to manage own time.
+(S1) Organisational skills
+(S2) Communication skills
+(S3) IT skills
+(S4) Problem solving skills
+"
+Main Dissertation ,(MATH554),Compulsory modules,M,60,Whole Session,0:100,"The aim of the main dissertation is for the student, under guidance from his or her supervisor, to research a substantial mathematical topic thoroughly and write his or her own clear and coherent account of it. (There is no formal limit but a rough guide is that successful dissertations are usually 50-60 pages long). The account may contain original material in the form of new examples or computations, full details of proofs only available in sketch form in the literature, or even new results or new proofs of known results.  There is no requirement to produce publishable original work, but the level of detail and depth of the material should be greater than in the preliminary dissertation. Indeed, it is common (although not necessary) for students to continue their preliminary dissertation work in the main dissertation, and to work with the same supervisor.  It is acceptable to summarise material from the preliminary dissertation in the main one, where this makes it more complete or coherent, provided that this material is clearly labelled as such. Of course, the mark for the main dissertation will be based only on the new material.
+","(LO1) Familiarity with an area of current research interest within mathematics, including knowledge of some technical details;
+(LO2)  Ability to research a topic using a variety of resources including libraries and the internet;
+(LO3)   Ability to perform original calculations and/or describe new examples of a known theory and/or obtain new mathematical results and/or fill in gaps and details in proofs of known results;
+(LO4)  Ability to explain mathematical ideas clearly in written form, and place them within the context of their history and applications;
+(LO5) Ability to write a well-formatted mathematical text using appropriate software, including the ability to include graphics, tables of contents, cross-references, citations and a bibliography;
+(LO6) Ability to work independently on a project, and to manage own time.
+(S1) Organisational skills
+(S2) Problem solving skills
+"
+"Manifolds, Homology and Morse Theory ",(MATH410),Optional modules,M,15,First Semester,70:30,"To give an introduction to the topology of manifolds, emphasising the role of homology as an invariant and the role of Morse theory as a visualising and calculational tool.
+","(LO1) To be able to: 
+•   give examples of manifolds, particularly in low dimensions; 
+•   compute homology groups, Euler characteristics and degrees of maps in simple cases; 
+•   determine whether an explicitly given function is Morse and to identify its critical points and their indices; 
+•   use the Morse inequalities to estimate the ranks of homology groups; 
+•   use the Morse complex to compute Euler characteristics and, in simple cases, homology.
+"
+Linear Differential Operators in Mathematical Physics ,(MATH421),Optional modules,M,15,First Semester,60:40,"This module provides a comprehensive introduction to the theory of partial differential equations, and it provides illustrative applications and practical examples in the theory of elliptic boundary value problems, wave propagation and diffusion problems.
+","(LO1) To understand and actively use the basic concepts of mathematical physics, such as generalised functions, fundamental solutions and Green&#39;s functions.
+(LO2)  To apply powerful mathematical methods to problems of electromagnetism, elasticity, heat conduction and wave propagation.
+(LO3) Applications of mathematical methods for research-centred problems
+(S1) Numeracy
+(S2) Mathematical software (e.g. Maple, MATLAB)
+"
+Quantum Field Theory ,(MATH425),Optional modules,M,15,First Semester,50:50,"To provide a broad understanding of the essentials of quantum field theory.
+","(LO1) After the course the students should understand the important features of the mathematical tools necessary for particle physics. In particular they should ·      be able to compute simple Feynman diagrams, ·      understand the basic principles of regularisation and renormalisation ·      be able to calculate elementary scattering cross-sections.
+"
+Variational Calculus and Its Applications ,(MATH430),Optional modules,M,15,First Semester,60:40,"This module provides a comprehensive introduction to the theory of the calculus of variations, providing illuminating applications and examples along the way.
+","(LO1) Students will possess a solid understanding of the fundamentals of variational calculus
+(LO2) Students will be confident in their ability to apply the calculus of variations to range of physical problems
+(LO3) Students will also have the ability to solve a wide class of non-physical problems using variational methods
+(LO4) Students will develop an understanding of Hamiltonian formalism and have the ability to apply this framework to solve physical and non-physical problems
+(LO5) Students will be confident in their ability to analyse variational symmetries and generate the associated conservation laws
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Higher Arithmetic ,(MATH441),Optional modules,M,15,Second Semester,70:30,"This module is designed to provide an introduction to topics in Analytic Number Theory, including the worst and average case behaviour of arithmetic functions, properties of the Riemann zeta function, and the distribution of prime numbers.
+","(LO1) Be able to apply analytic techniques to arithmetic functions.
+(LO2) Understand basic analytic properties of the Riemann zeta function.
+(LO3) Understand Dirichlet characters and L-series.
+(LO4)  Understand the connection between Ingham&#39;s theorem and the Prime Number Theorem.
+(S1) Adaptability
+(S2) Problem solving skills
+(S3) Numeracy
+"
+Representation Theory of Finite Groups ,(MATH442),Optional modules,M,15,Second Semester,50:50,"Representation theory is one of the standard tools used in the investigation of finite groups, especially via the character of a representation.  This module will be an introduction to these ideas with emphasis of the calculation of character tables for specific groups.
+","(LO1) After completing this module students should be able to  ·       use representation theory as a tool to understand finite groups;
+(LO2)  calculate character tables of a variety of groups.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Singularity Theory of Differentiable Mappings ,(MATH455),Optional modules,M,15,First Semester,70:30,"To give an introduction to the study of local singularities of differentiable functions and mappings.
+","(LO1) To know and be able to apply the technique of reducing functions to local normal forms.
+(LO2) To understand the concept of stability of mappings and its applications. 
+(LO3) To be able to construct versal deformations of isolated function singularities.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Adaptability
+"
+Introduction to String Theory ,(MATH423),Optional modules,M,15,Second Semester,50:50,"To provide a broad understanding of string theory, and its utilization as a theory that unifies all of the known fundamental matter and interactions.
+","(LO1) After completing the module the students should: - be familiar with the properties of the classical string.
+(LO2) be familiar with the basic structure of modern particle physics and how it may arise from string theory.
+(LO3)  be familiar with the basic properties of first quantized string and the implications for space-time dimensions.
+(LO4) be familiar with string toroidal compactifications and T-duality.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Advanced Topics in Mathematical Biology ,(MATH426),Optional modules,M,15,Second Semester,50:50,"To introduce some hot problems of contemporary mathematical biology, including analysis of developmental processes, networks and biological mechanics. 
+To further develop mathematical skills in the areas of difference equations and ordinary and partial differential equations.
+To explore biological applications of fluid dynamics in the limit of low and high Reynolds number.
+","(LO1) To familiarise with mathematical modelling methodology used in contemporary mathematical biology.
+(LO2) Be able to use techniques from difference equations and ordinary and partial differential equations in tackling problems in biology.
+"
+"Waves, Mathematical Modelling ",(MATH427),Optional modules,M,15,Second Semester,60:40,"This module gives an introduction to the mathematical theory of linear and non-linear waves. Illustrative applications involve problems of acoustics, gas dynamics and examples of solitary waves.
+","(LO1) To understand essential modelling techniques in problems of wave propagation.
+(LO2) To understand that mathematical models of the same type can be successfully used to describe different physical phenomena.
+(LO3) To understand background mathematical theory in models of acoustics, gas dynamics and water  waves.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Introduction to Modern Particle Theory ,(MATH431),Optional modules,M,15,Second Semester,70:30,"To provide a broad understanding of the current status of elementary particle theory. To describe the structure of the Standard Model of particle physics and its embedding in Grand Unified Theories.
+","(LO1) To understand the Lorentz and Poincare groups and their role in classification of elementary particles.
+(LO2) To understand the basics of Langrangian and Hamiltonian dynamics and the differential equations of bosonic and fermionic wave functions.
+(LO3) To understand the basic elements of field quantisation.
+(LO4)  To understand the Feynman diagram pictorial representation of particle interactions.
+(LO5) To understand the role of symmetries and conservation laws in distinguishing the strong, weak and electromagnetic interactions.
+(LO6) To be able to describe the spectrum and interactions of elementary particles and their embedding into Grand Unified Theories (GUTs)
+(LO7) To understand the flavour structure of the standard particle model and generation of mass through symmetry breaking.
+(LO8) To understand the phenomenological aspects of Grand Unified Theories.
+(S1) Problem solving skills
+"
+Asymptotic Methods for Differential Equations ,(MATH433),Optional modules,M,15,Second Semester,50:50,"This module provides an introduction into the perturbation theory for  partial differential equations. We consider singularly and regularly perturbed problems and applications in electro-magnetism, elasticity, heat conduction and propagation of waves.
+","(LO1) The ability to make appropriate use of asymptotic approximations.
+(LO2) The ability to analyse boundary layer effects.
+(LO3) The ability to use the method of compound asymptotic expansions in the analysis of singularly perturbed problems.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Elliptic Curves ,(MATH444),Optional modules,M,15,Second Semester,50:50,"To provide an introduction to the problems and methods in the theory of elliptic curves.
+To investigate the geometry of ellptic curves and their arithmetic in the context of finite fields, p-adic fields and rationals.
+To outline the use of elliptic curves in cryptography.
+","(LO1) The ability to describe and to work with the group structure on a given elliptic curve.
+(LO2) Understanding and application of the Abel-Jacobi theorem.
+(LO3) To estimate the number of points on an elliptic curve over a finite field.
+(LO4) To use the reduction map to investigate torsion points on a curve over Q.
+(LO5) To apply descent to obtain so-called Weak Mordell-Weil Theorem.
+(LO6) Use heights of points on elliptic curves to investigate the group of rational points on an elliptic curve.
+(LO7) Understanding and application of Mordell-Weil theorem. Encode and decode using public keys.
+(S1) Problem solving skills
+"
+Riemann Surfaces ,(MATH445),Optional modules,M,15,First Semester,50:50,"To introduce to a beautiful theory at the core of modern mathematics. Students will learn how to handle some abstract geometric notions from an elementary point of view that relies on the theory of holomorphic functions. This will provide those who aim to continue their studies in mathematics with an invaluable source of examples, and those who plan to leave the subject with the example of a modern axiomatic mathematical theory.
+","(LO1) Students should be familiar with the most basic examples of Riemann surfaces: the Riemann sphere, hyperelliptic Riemann surfaces, and smooth plane algebraic curves.
+(LO2) Students should understand and be able to use the abstract notions used to build the theory: holomorphic maps, meromorphic differentials, residues and integrals, Euler characteristic and genus.
+(LO3) Students should know different techniques to calculate the genus and the dimensions of spaces of meromorphic functions, and they should have acquired some understanding of uniformisation.
+(S1) Problem solving skills
+"
+Geometry of Continued Fractions ,(MATH447),Optional modules,M,15,Second Semester,50:50,"To give an introduction to the current state of the art in geometry of continued fractions and to study how classical theorems can be visualized via modern techniques of integer geometry.
+","(LO1) To be able to find best approximations to realnumbers and to homogeneous decomposable forms.
+(LO2) To be able to use techniques of geometric continuedfractions for quadratic irrationalities (Lagrange’s theorem, Markov spectrum).
+(LO3) To be able to use lattice trigonometry in the studyof toric varieties.
+(LO4) To be able to compute relative frequencies of facesin multidimensional continued fractions.
+(LO5) To be able to use multidimensional continuedfractions to study properties of algebraic irrationalities of higher degree.
+(S1) Adaptability
+(S2) Problem solving skills
+(S3) Numeracy
+"
+Stochastic Analysis and Its Applications ,(MATH483),Optional modules,M,15,Second Semester,50:50,"This module aims to demonstrate the advanced mathematical techniques underlying financial markets and the practical use of financial derivative products to analyse various problems arising in financial markets. Emphases are on the stochastic techniques, probability theory, Markov processes and stochastic calculus, together with the related applications
+","(LO1) A critical awareness of current problems and research issues in the fields of probability and stochastic processes, stochastic analysis and financial mathematics.
+(LO2) The ability to formulate stochastic cuclulus for the purpose of modelling particular financial questions.
+(LO3) The ability to read, understand and communicate research literature in the fields of probability, stochastic analysis and financial mathematics.
+(LO4) The ability to recognise potential research opportunities and research directions.
+"
+Algebraic Geometry ,(MATH448),Optional modules,M,15,Second Semester,70:30,"To give a detailed explanation of basic concepts and methods of algebraic geometry in terms of coordinates and polynomial algebra, supported by strong geometrical  intuition.
+To elaborate examples and to explain the basic constructions of algebraic geometry, such as projections, products, blowing up, intersection multiplicities, linear systems, vector bundles, etc.
+To understand in detail the proofs of several fundamental results in algebraic geometry on the structure of birational maps and intersection theory.
+To take the first steps in acquiring the technique of linear systems, vector bundles and differential forms.
+","(LO1) To know:basic concepts of smooth geometry and algebraic geometry.
+(LO2) To understand: the interplay between local and global geometry, the duality between differential forms and submanifolds, between curves and divisors, between algebraic and geometric data.
+(LO3) To be able to: perform elementary computations with differential forms, patch together local objects into global ones, compute elementary intersection indices.
+(S1) Problem solving skills
+"
+Chaos and Dynamical Systems ,(MATH322),Optional modules,3,15,First Semester,50:50,"To develop expertise in dynamical systems in general and study particular systems in detail.
+","(LO1) After completing the module students will be able to understand the possible behaviour of dynamical systems with particular attention to chaotic motion;
+(LO2) After completing the module students will be familiar with techniques for extracting fixed points and exploring the behaviour near such fixed points;
+(LO3) After completing the module students will understand how fractal sets arise and how to characterise them.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Further Methods of Applied Mathematics ,(MATH323),Optional modules,3,15,First Semester,70:30,"•To give an insight into some specific methods for solving important types of ordinary differential equations.
+•To provide a basic understanding of the Calculus of Variations and to illustrate the techniques using simple examples in a variety of areas in mathematics and physics.
+•To build on the students&#39;&#39; existing knowledge of partial differential equations of first and second order.
+","(LO1) After completing the module students should be able to:
+ - use the method of &#34;Variation of Arbitrary Parameters&#34; to find the solutions of some inhomogeneous ordinary differential equations.
+- solve simple integral extremal problems including cases with constraints;
+- classify a system of simultaneous 1st-order linear partial differential equations, and to find the Riemann invariants and general or specific solutions in appropriate cases;
+- classify 2nd-order linear partial differential equations and, in appropriate cases, find general or specific solutions.  
+
+[This might involve a practical understanding of a variety of mathematics tools; e.g. conformal mapping and Fourier transforms.]
+"
+Cartesian Tensors and Mathematical Models of Solids and VIscous Fluids ,(MATH324),Optional modules,3,15,First Semester,60:40,"To provide an introduction to the mathematical theory of viscous fluid flows and solid elastic materials. Cartesian tensors are first introduced. This is followed by modelling of the mechanics of continuous media. The module includes particular examples of the flow of a viscous fluid as well as a variety of problems of linear elasticity.
+","(LO1)  To understand and actively use the basic concepts of continuum mechanics such as stress, deformation and constitutive relations.
+(LO2) To apply mathematical methods for analysis of problems involving the flow of viscous fluid or behaviour of solid elastic materials.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Adaptability
+"
+Quantum Mechanics ,(MATH325),Optional modules,3,15,First Semester,70:30,"The aim of the module is to lead the student to an understanding of the way that relatively simple mathematics (in modern terms) led Bohr, Einstein, Heisenberg and others to a radical change and improvement in our understanding of the microscopic world. 
+","(LO1) To be able to solve Schrodinger&#39;s equation for simple systems.
+(LO2) To have an understanding of the significance of quantum mechanics for both elementary systems and the behaviour of matter.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Relativity ,(MATH326),Optional modules,3,15,First Semester,70:30,"(i) To introduce the physical principles behind Special and General Relativity and their main consequences;
+(ii) To develop the competence in the mathematical framework of the subjects - Lorentz transformation and Minkowski space-time, semi-Riemannian geometry and curved space-time, symmetries and conservation laws, Variational principles.
+(iii) To develop the understanding of the dynamics of particles and of the Maxwell field in Minkowski space-time, and of particles in curved space-time
+(iv) To develop the knowledge of tests of General Relativity, including the classical tests (perihelion shift, gravitational deflection of light)
+(v) To understand the basic concepts of black holes and (time permitting) relativistic cosmology and gravitational waves.
+","(LO1) To be proficient at calculations involving Lorentz transformations, the kinematical and dynamical quantities associated to particles in Minkowski space-times, and the application of the conservation law for the four-momentum to scattering processes.
+(LO2) To know the relativistically covariant form of the Maxwell equations .
+(LO3) To know the action principles for relativistic particles, the Maxwell field and the gravitational field.
+(LO4) To be proficient at calculations in semi-Riemannian geometry as far as needed for General Relativity, including calculations involving general coordinate transformations, tensor fields, covariant derivatives, parallel transport, geodesics and curvature.
+(LO5) To understand the arguments leading to the Einstein&#39;s field equations and how Newton&#39;s law of gravity arises as a limiting
+(LO6) To be able to calculate the trajectories of bodies in a Schwarzschild space-time.
+(S1) problem solving skills
+(S2) numeracy
+"
+Group Theory ,(MATH343),Optional modules,3,15,First Semester,70:30,"To introduce the basic techniques of finite group theory with the objective of explaining the ideas needed to solve classification results.
+","(LO1) Understanding of abstract algebraic systems (groups) by concrete, explicit realisations (permutations, matrices, Mobius transformations).
+(LO2) The ability to understand and explain classification results to users of group theory.
+(LO3) The understanding of connections of the subject with other areas of Mathematics.
+(LO4) To have a general understanding of the origins and history of the subject.
+(S1) Problem solving skills
+(S2) Logical reasoning
+"
+Combinatorics ,(MATH344),Optional modules,3,15,Second Semester,50:50,"To provide an introduction to the problems and methods of Combinatorics, particularly to those areas of the subject with the widest applications such as pairings problems, the inclusion-exclusion principle, recurrence relations, partitions and the elementary theory of symmetric functions.
+","(LO1) After completing the module students should be able to: understand of the type of problem to which the methods of Combinatorics apply, and model these problems; solve counting and arrangement problems; solve general recurrence relations using the generating function method;  appreciate the elementary theory of partitions and its application to the study of symmetric functions.
+"
+Applied Probability ,(MATH362),Optional modules,3,15,First Semester,70:30,"To give examples of empirical phenomena for which stochastic processes provide suitable mathematical models. To provide an introduction to the methods of probabilistic model building for ‘‘dynamic&#34; events occurring over time. To familiarise students with an important area of probability modelling.
+","(LO1) 1. Knowledge and Understanding After the module, students should have a basic understanding of: 
+  (a) some basic models in discrete and continuous time Markov chains such as random walk and Poisson processes
+  (b) important subjects like transition matrix, equilibrium distribution, limiting behaviour etc. of Markov chain 
+  (c) special properties of the simple finite state discrete time Markov chain and Poisson processes, and perform calculations using these.
+2. Intellectual Abilities After the module, students should be able to: 
+  (a) formulate appropriate situations as probability models: random processes 
+  (b) demonstrate knowledge of standard models (c) demonstrate understanding of the theory underpinning simple dynamical systems 
+3. General Transferable Skills 
+  (a) numeracy through manipulation and interpretation of datasets     
+  (b) communication through presentation of written work and preparation of diagrams 
+  (c) problem solving through tasks set in tutorials 
+  (d) time management in the completion of practicals and the submission of assessed work 
+  (e) choosing, applying and interpreting results of probability techniques for a range of different problems.
+"
+Linear Statistical Models ,(MATH363),Optional modules,3,15,First Semester,70:30,"- To understand how regression methods for continuous data extend to include multiple continuous and categorical predictors, and categorical response variables.
+- To provide an understanding of how this class of models forms the basis for the analysis of experimental and also observational studies.
+- To understand generalized linear models.
+- To develop skills in using an appropriate statistical software package.
+","(LO1) Be able to understand the rationale and assumptions of linear regression and analysis of variance.
+(LO2) Be able to understand the rationale and assumptions of generalized linear models.
+(LO3) Be able to recognise the correct analysis for a given experiment.
+(LO4) Be able to carry out and interpret linear regressions and analyses of variance, and derive appropriate theoretical results.
+(LO5) Be able to carry out and interpret analyses involving generalised linear models and derive appropriate theoretical results.
+(LO6) Be able to perform linear regression, analysis of variance and generalised linear model analysis using an appropriate statistical software package.
+"
+Measure Theory and Probability ,(MATH365),Optional modules,3,15,Second Semester,50:50,"The main aim is to provide a sufficiently deepintroduction to measure theory and to the Lebesgue theory of integration. Inparticular, this module aims to provide a solid background for the modernprobability theory, which is essential for Financial Mathematics.
+","(LO1) After completing the module students should be ableto:
+(LO2) master the basic results about measures and measurable functions;
+(LO3) master the basic results about Lebesgue integrals and their properties;
+(LO4) to understand deeply the rigorous foundations ofprobability theory;
+(LO5) to know certain applications of measure theoryto probability, random processes, and financial mathematics.
+(S1) Problem solving skills
+(S2) Logical reasoning
+"
+Networks in Theory and Practice ,(MATH367),Optional modules,3,15,Second Semester,50:50,"•To develop an appreciation of network models for real world problems.
+•To describe optimisation methods to solve them.
+•To study a range of classical problems and techniques related to network models.
+","(LO1) After completing the module students should be able to model problems in terms of networks and be able to apply effectively a range of exact and heuristic optimisation techniques.
+"
+Statistical Physics ,(MATH327),Optional modules,3,15,Second Semester,55:45,"1. To develop an understanding of the foundations of Statistical Physics normally including statistical ensembles and related extensive and intrinsic quantities.
+2. To develop an understanding of the properties of classical and quantum gases and an appreciation of their applications to concepts such as the classical equation of state or the statistical
+theory of photons.
+3. To obtain a reasonable level of skill in using numerical computer programming to describe diffusion and transport in terms of stochastic processes.
+4. To know the laws of thermodynamics and thermodynamical cycles.
+5. To obtain a reasonable understanding of interacting statistical systems and related phenomenons such as phase transitions.
+","(LO1) Demonstrate understanding of the microcanonical, canonical and grand canonical ensembles, their relation and the derived concepts of entropy, temperature and particle number
+density.
+(LO2) Understand the derivation of the equation-of-state for non-interacting classical or quantum gases.
+(LO3) Demonstrate numerical skills to understand diffusion from an underlying stochastic process.
+(LO4) Know the laws of thermodynamics and demonstrate their application to thermodynamic cycles.
+(LO5) Be aware of the effect of interactions including an understanding of the origin of phase transitions.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Adaptability
+(S4) Communication skills
+(S5) IT skills
+(S6) Organisational skills
+(S7) Teamwork
+"
+Game Theory ,(MATH331),Optional modules,3,15,Second Semester,70:30,"To explore, from a game-theoretic point of view, models which have been used to understand phenomena in which conflict and cooperation occur. To see the relevance of the theory not only to parlour games but also to situations involving human relationships, economic bargaining (between trade union and employer, etc), threats, formation of coalitions, war, etc. To treat fully a number of specific games including the famous examples of &#34;The Prisoners&#39; Dilemma&#34; and &#34;The Battle of the Sexes&#34;. To treat in detail two-person zero-sum and non-zero-sum games. To give a brief review of n-person games. In microeconomics, to look at exchanges in the absence of money, i.e. bartering, in which two individuals or two groups are involved.To see how the Prisoner&#39;s Dilemma arises in the context of public goods.
+","(LO1) To extend the appreciation of the role of mathematics in modelling in Economics and the Social Sciences.
+(LO2) To be able to formulate, in game-theoretic terms, situations of conflict and cooperation.
+(LO3) To be able to solve mathematically a variety of standard problems in the theory of games and to understand the relevance of such solutions in real situations.
+"
+Population Dynamics ,(MATH332),Optional modules,3,15,Second Semester,70:30,"- To provide a theoretical basis for the understanding of population ecology - To explore the classical models of population dynamics - To learn basic techniques of qualitative analysis of mathematical models
+","(LO1) The ability to relate the predictions of the mathematical models to experimental results obtained in the field.
+(LO2) The ability to  recognise the limitations of mathematical modelling in understanding the mechanics of complex biological systems.
+(LO3) The ability to use analytical and graphical methods to investigate population growth and the stability of equilibrium states for continuous-time and discrete-time models of ecological systems.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Number Theory ,(MATH342),Optional modules,3,15,First Semester,35:65,"To give an account of elementary number theory with use of certain algebraic methods and to apply the concepts to problem solving.
+","(LO1) To understand and solve a wide range of problems about integers numbers.
+(LO2)  To have a better understanding of the properties of prime numbers.
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) Communication skills
+"
+"The Magic of Complex Numbers: Complex Dynamics, Chaos and the Mandelbrot Set ",(MATH345),Optional modules,3,15,Second Semester,50:50,"1. To introduce students to the theory of the iteration of functions of one complex variable, and its fundamental objects;
+2. To introduce students to some topics of current and recent research in the field;
+3. To study various advanced results from complex analysis, and show how to apply these in a dynamical setting;
+4. To illustrate that many results in complex analysis are &#34;magic&#34;, in that there is no reason to expect them in a real-variable context, and the implications of this in complex dynamics;
+5. To explain how complex-variable methods have been instrumental in questions purely about real-valued one-dimensional dynamical systems, such as the logistic family.
+6. To deepen students&#39; appreciations for formal reasoning and proof.
+","(LO1) To understand the compactification of the complex plane to the Riemann sphere, and be able to use spherical distances and derivatives.
+(LO2) To be able to use Möbius transformations to transform the Riemann sphere and to normalise complex dynamical systems.
+(LO3) To be able to state and apply the definitions of Julia and Fatou sets of polynomials, and understand their basic properties.
+(LO4) To be able to determine whether points with simple orbits, such as certain periodic points, belong to the Julia set or the Fatou set.
+(LO5) To know how to apply advanced results from complex analysis in a dynamical setting.
+(LO6) To be able to determine whether certain types of quadratic polynomials belong to the Mandelbrot set or not.
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Problem solving skills
+"
+Topology ,(MATH346),Optional modules,3,15,Second Semester,70:30,"1. To introduce students to the mathematical notions of space and continuity.
+2. To develop students’ ability to reason in an axiomatic framework.
+3. To provide students with a foundation for further study in the area of topology and geometry, both within their degree and subsequently.
+4. To introduce students to some basic constructions in topological data analysis.
+5. To enhance students’ understanding of mathematics met elsewhere within their degree (in particular real and complex analysis, partial orders, groups) by placing it within a broader context.
+6. To deepen students’ understanding of mathematical objects commonly discussed in popular and recreational mathematics (e.g. Cantor sets, space-filling curves, real surfaces).
+","(BH1) An understanding of the ubiquity of topological spaces within mathematics.
+(BH2) Knowledge of a wide range of examples of topological spaces, and of their basic properties.
+(BH3) The ability to construct proofs of, or counter-examples to, simple statements about topological spaces and continuous maps.
+(BH4) The ability to decide if a (simple) space is connected and/or compact.
+(BH5) The ability to construct the Cech and Vietoris-Rips complexes of a point set in Euclidean spac. e
+(BH6) The ability to compute the fundamental group of a (simple) space, and to use it to distinguish spaces.
+"
+Differential Geometry ,(MATH349),Optional modules,3,15,First Semester,70:30,"This module is designed to provide an introduction to the methods of differential geometry, applied in concrete situations to the study of curves and surfaces in euclidean 3-space.  While forming a self-contained whole, it will also provide a basis for further study of differential geometry, including Riemannian geometry and applications to science and engineering.
+","(LO1) 1a. Knowledge and understanding: Students will have a reasonable understanding of invariants used to describe the shape of explicitly given curves and surfaces.
+(LO2) 1b. Knowledge and understanding: Students will have a reasonable understanding of special curves on surfaces.
+(LO3) 1c. Knowledge and understanding: Students will have a reasonable understanding of the difference between extrinsically defined properties and those which depend only on the surface metric.
+(LO4) 1d. Knowledge and understanding: Students will have a reasonable understanding of the passage from local to global properties exemplified by the Gauss-Bonnet Theorem.
+(LO5) 2a. Intellectual abilities: Students will be able to use differential calculus to discover geometric properties of explicitly given curves and surfaces.
+(LO6) 2b. Intellectual abilities: Students will be able to understand the role played by special curves on surfaces.
+(LO7) 3a. Subject-based practical skills: Students will learn to compute invariants of curves and surfaces.
+(LO8) 3b. Subject-based practical skills: Students will learn to interpret the invariants of curves and surfaces as indicators of their geometrical properties.
+(LO9) 4a. General transferable skills: Students will improve their ability to think logically about abstract concepts,
+(LO10) 4b. General transferable skills: Students will improve their ability to combine theory with examples in a meaningful way.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Applied Stochastic Models ,(MATH360),Optional modules,3,15,First Semester,70:30,"To give examples of empirical phenomena for which stochastic processes provide suitable mathematical models. To provide an introduction to the methods of stochastic model building for &#39;dynamic&#39; events occurring over time or space. To enable further study of the theory of stochastic processes by using this course as a base.
+","(LO1)  To understand the theory of continuous-time Markov chains.
+(LO2) To understand the theory of diffusion processes. 
+(LO3) To be able to solve problems arising in epidemiology, mathematical biology, financial mathematics, etc. using the theory of continuous-time Markov chains and diffusion processes. 
+(LO4)  To acquire an understanding of the standard concepts and methods of stochastic modelling.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Theory of Statistical Inference ,(MATH361),Optional modules,3,15,Second Semester,70:30,"To introduce some of the concepts and principles which provide theoretical underpinning for the various statistical methods, and, thus, to consolidate the theory behind the other second year and third year statistics options.
+","(LO1) To acquire a good understanding of the classical approach to, and especially the likelihood methods for, statistical inference.
+(LO2) To acquire an understanding of the blossoming area of Bayesian approach to inference.
+(S1) Problem solving skills
+(S2) Numeracy
+"
+Medical Statistics ,(MATH364),Optional modules,3,15,Second Semester,50:50,"The aims of this module are to: demonstrate the purpose of medical statistics and the role it plays in the control of disease and promotion of health explore different epidemiological concepts and study designs apply statistical methods learnt in other programmes, and some new concepts, to medical problems and practical epidemiological research enable further study of the theory of medical statistics by using this module as a base.
+","(LO1) identify the types of problems encountered in medical statistics
+(LO2) demonstrate the advantages and disadvantages of different epidemiological study designs
+(LO3) apply appropriate statistical methods to problems arising in epidemiology and interpret results
+(LO4) explain and apply statistical techniques used in survival analysis
+(LO5) critically evaluate statistical issues in the design and analysis of clinical trials
+(LO6) discuss statistical issues related to systematic review and apply appropriate methods of meta-analysis
+(LO7) apply Bayesian methods to simple medical problems.
+(S1) Problem solving skills
+"
+Stochastic Theory and Methods in Data Science ,(MATH368),Optional modules,3,15,Second Semester,70:30,"1.  To develop a understanding of the foundations of stochastics normally including processes and theory.
+2. To develop an understanding of the properties of simulation methods and their applications to statistical concepts.
+3. To develop skills in using computer simulations such as Monte-Carlo methods
+4. To gain an understanding of the learning theory and methods and of their use in the context of machine learning and statistical physics.
+5. To obtain an understanding of particle filters and stochastic optimisation.
+","(LO1) Develop understanding of the use of probability theory.
+(LO2) Understand stochastic models and the use statistical data.
+(LO3) Demonstrate numerical skills for the understanding of stochastic processes.
+(LO4) Understand the main machine learning techniques.
+"

@@ -1,0 +1,83 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+"Professional, Employability and Research Skills for Advanced Biological Sciences ",(LIFE710),Compulsory modules,M,15,Whole Session,0:100,"To develop and acquire a range of personal and interpersonal skills relating to effective self-management and working relationships with others;
+To develop and acquire an enhanced ability to communicate effectively in academic and professional settings;
+To develop and acquire skills and knowledge required for enhanced employability;
+To develop and acquire a range of generic skills that will help with research planning and delivery to a professional standard.
+","(LO1) Demonstrate improved self-awareness and personal effectiveness
+(LO2) Work effectively as a team member to achieve a scientific goal
+(LO3) Communicate effectively, using in a variety of contexts to scientific and non-scientific audiences
+(LO4) Access and critically evaluate appropriate bibliographic resources and databases
+(LO5) Evaluate relevant health and safety issues and demonstrate responsible working practices
+(LO6) Demonstrate improved awareness of career opportunities and employability prospects via development of independent learning and self-evaluation skills
+(S1) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S2) Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others
+(S3) Communication and collaboration online participating in digital networks for learning and research
+(S4) Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics
+"
+Research Methods and Applications in Biological Sciences ,(LIFE731),Compulsory modules,M,15,Whole Session,0:100,"This module is designed to:
+Provide students with an understanding of the processes required for the successful planning and delivery of research projects;
+Introduce students to the latest, cutting edge technologies in their research field of interest;
+Develop in students the transferrable communication skills that will enable them to disseminate their findings to both scientific and general audiences.
+","(LO1) Develop hypotheses and design a series of experiments that would allow these hypotheses to be tested
+(LO2) Critically review the legal and moral frameworks within which scientific research must be conducted, in particular research ethics and current legislation;
+(LO3) Effectively communicate research findings using writing styles for different audiences, including the scientific and lay communities, and to understand the need to promote the public understanding of science;
+(LO4) Debate why and when biologists need to engage with mathematicians, computer scientists and physical scientists to obtain more quantitative, holistic or systems-based approaches to studying biological processes
+(LO5) Critically review the latest scientific discoveries in their research field, and understand the principles underpinning cutting edge technologies that may be applied to their area of scientific investigation;
+(LO6) Synthesise information, critically review evidence to support conclusions, and define complex problems by applying appropriate knowledge and skills.
+(S1) Communication Skills
+(S2) Organisational Skills
+(S3) Lifelong learning skills
+(S4) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+(S5) Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture
+"
+Advanced Statistics for Biological Research ,(LIFE707),Compulsory modules,M,15,First Semester,50:50,"To enable students to analyse biological data by: 
+
+Choice of appropriate statistical approaches to test hypotheses; 
+
+Critical understanding of the use of a range of advanced statistical tests for appropriate analysis and  model fitting of a range of biological datasets; 
+
+Using the software package, R; 
+
+Synthesizing information, summarising statistical findings, and using hypothesis testing to critically review evidence from experimental data to support conclusions.
+","(LO1) Illustrate and explain the methods of hypothesis testing
+(LO2) Critically evaluate experimental design(s) used in data collection and then apply the appropriate statistical test(s).
+(LO3) Design data collection methods appropriate to rigorous data analysis
+(LO4) Synthesise information from data analysis, test statistical hypotheses and critically review evidence to support conclusions. 
+(S1) Problem solving skills
+(S2) Numeracy
+(S3) IT skills
+(S4) Communication skills
+(S5) Organisational skills
+(S6) Lifelong learning skills
+"
+Statistics for Biological Research ,(LIFE763),Compulsory modules,M,15,First Semester,40:60,"To introduce and advance knowledge of a range of statistical tests that are commonly used in the Biosciences;
+To give experience in the implementation of these tests using statistical and programming software;
+To enable students to learn how to interpret and analyse the output of these tests.
+","(LO1) To develop an understanding of  statistical hypothesis testing;
+(LO2) To apply a range of relevant statistical tests to complex datasets to draw statistical conclusions;
+(LO3) To critically assess the appropriateness of a statistical test;
+(LO4) To intepret and report data collected in biological research.
+(LO5) To develop programming skills relevant for statistical analysis.
+(LO6) Use data visualisation techniques to present ‘big’ data
+(S1) Numeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);
+(S2) Problem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Introduction to Research ,(LIFE702),Compulsory modules,M,30,Whole Session,0:100,"To prepare students for their MSc research project module, this module will give students the opportunity to gain the knowledge and the skills specific to their project area.
+","(LO1) Demonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+(LO2) Demonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+(LO3) Develop and present a plan for a research project in the form of a grant proposal.
+(LO4) Critically review scientific literature
+(S1) Technical writing
+(S2) Independence
+(S3) Time management
+(S4) Reflective learning
+"
+MSc Research Project ,(LIFE703),Compulsory modules,M,60,Summer (June-September),0:100,"To give students the opportunity to work in a guided but independent fashion on an area of research related to their programme of study, making use of the knowledge and skills acquired elsewhere in the programme.
+","(LO1) Plan a piece of original scientific research;
+(LO2) Design and perform a coherent set of investigations to test a hypothesis;
+(LO3) Present work in the form of an oral presentation to a scientific audience and at an oral examination;
+(LO4) Write final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+(S1) Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics.
+(S2) Self-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;
+(S3) Team (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others.
+"

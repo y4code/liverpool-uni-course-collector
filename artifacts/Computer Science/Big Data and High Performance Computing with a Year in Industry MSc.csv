@@ -1,0 +1,177 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Research Methods in Computer Science ,(COMP516),Compulsory modules,M,15,First Semester,0:100,"1. To provide a deep and systematic understanding of the nature and conduct of CS research.
+2. To enhance existing transferable key skills.
+3. To develop high order transferable key skills.
+4. To equip students with the ability to undertake independent research.
+5. To remind students of the Legal, Social, Ethical and Professional (LSEP) issues applicable to the computer industry.
+","(LO1) Have an understanding of how established techniques of research and enquiry are used to extend, create and interpret knowledge in Computer Science.
+(LO2) Have a conceptual understanding sufficient to:(i) evaluate critically current research and advanced scholarship in Computer Science and (ii) propose possible alternative directions for further work.
+(LO3) Be able to: (i) deal with complex issues at the forefront of the academic discipline of Computer Science in a manner, based on sound judgements, that is both systematic and creative, (ii) demonstrate self-direction and originality in tackling and solving problems within the domain of Computer Science, (iii) act autonomously in planning and implementing solutions in a professional manner and (iv) define, plan, and/or carry out a project related to research and to communicate conclusions clearly to both specialists and non-specialists.
+(LO4) Make use of the qualities and transferable skills necessary for employment requiring:(i) the exercise of initiative and personal responsibility, (ii) decision making in complex and unpredictable situations, (iii) scientific risk identification, assessment and control, and (iv) the independent learning ability required for continuing professional development.
+(LO5) Understand and participate within the professional, legal, social and ethical framework within which they would be expected to operate as professionals within the IT industry.
+(LO6) Have the skills set to be able to continue to advance their knowledge and understanding, and to develop new skills to a high level, with respect to continuing professional development as a &#34;self-directed life-long learner&#34; across the discipline of Computer Science.
+(S1) Communication (oral, written and visual) - Presentation skills – oral
+(S2) Communication (oral, written and visual) - Listening skills
+(S3) Communication (oral, written and visual) - Academic writing (inc. referencing skills)
+(S4) Time and project management - Project planning
+(S5) Research skills - Ethical awareness
+"
+Data Mining and VIsualisation ,(COMP527),Compulsory modules,M,15,Second Semester,70:30,"To provide an in-depth, systematic and critical understanding of some of the current research issues at the forefront of the academic research domain of data mining.
+","(LO1) A critical awareness of current problems and research issues in Data Mining.
+(LO2) A comprehensive understanding of current advanced scholarship and research in data mining and how this may contribute to the effective design and implementation of data mining applications.
+(LO3) The ability to consistently apply knowledge concerning current data mining research issues in an original manner and produce work which is at the forefront of current developments in the sub-discipline of data mining.
+(LO4) A conceptual understanding sufficient to evaluate critically current research and advanced scholarship in data mining.
+(S1) Critical thinking and problem solving - Problem identification
+(S2) Critical thinking and problem solving - Critical analysis
+"
+Multi-core and Multi-processor Programming ,(COMP528),Compulsory modules,M,15,First Semester,0:100,"To provide students with a deep, critical and systematic understanding of key issues and effective solutions for parallel programming for systems with multi-core processors and parallel architectures. 
+To develop students appreciation of a variety of approaches to parallel programming, including using MPI, OpenMP and CUDA.   
+To develop the students skills in parallel programming using MPI, OpenMP and CUDA.  
+To develop the students skills in parallelization of existing serial code.
+","(LO1) At the end of the module students should be able to:  Explain the concepts of multi-core processors and systems and parallel architectures,  their advantages and challenges of their programming.
+(LO2) Appraise the differences between various programming techniques and programming patterns available for parallel programming for multi-core systems and parallel architectures. 
+(LO3) Design parallel multi-threaded programs using the most appropriate for a particular application approach, using one of MPI, OpenMP, CUDA, or a combination of thereof.  
+(LO4) Design and implement reasonably sophisticated parallel multi-threaded programs demonstrating reasonable scalability on multi-core and parallel systems  using MPI, OpenMP, or CUDA, or the combination of thereof. 
+(LO5) Analyse and evaluate the efficiency and scalability of parallel multi-threaded programs for multi-core parallel systems.
+(S1) Improving own learning/performance - Personal action planning
+(S2) Communication (oral, written and visual) - Presentation skills
+(S3) Communication (oral, written and visual) - Report writing
+(S4) Critical thinking and problem solving
+(S5) Information skills - Critical reading
+(S6) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S7) Numeracy/computational skills - Problem solving
+"
+Big Data Analytics ,(COMP529),Compulsory modules,M,15,First Semester,60:40,"To introduce students to advanced methods and algorithms used in Big Data analytics.
+To introduce students to  software environments that enable developing solutions for Big Data problems.
+To introduce students to implementing algorithms using such software environments.
+","(LO1) Deep and systematic knowledge of algorithmic approaches for Big Data analysis and handling batch and streaming data.
+(LO2) Comprehensive and critical insight into the software environments that can be used to enable algorithms to scale up to analysis of large batch and streaming datasets.
+(LO3) Devising a most suitable algorithm for solving a Big Data problem
+(LO4) Demonstrating a critical awareness of current problems and research issues in the field of Big Data
+(S1) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S2) Communication (oral, written and visual) - Following instructions/protocols/procedures
+"
+MSc Group Project ,(COMP530),Compulsory modules,M,15,Second Semester,0:100,"1.	To provide experience of working and collaborating in a software development team 
+2.	To provide experience of aspects of the development of an appropriate and effective solution to tackle industrially relevant issues 
+3.	To prepare students for their individual MSc project (COMP702).
+4.	To consolidate materials from other MSc course modules taken by the student by applying these to real world problems.
+","(LO1) An in depth and critical understanding of the operation of software development teams, the interpersonal skills required and the issues involved in working as part of a team.
+(LO2) Knowledge of how to specify and design appropriate and effective solutions to industrially relevant issues.
+(LO3) Knowledge of how to implement and test appropriate and effective software systems.
+(LO4) A critical understanding of the software development process.
+(LO5) Practical experience in the realisation of a moderately sized software system.
+(LO6) A critical understanding of the importance of software documentation and its creation.
+(S1) Communication (oral, written and visual) - Presentation skills - written
+(S2) Time and project management - Project planning
+(S3) Critical thinking and problem solving - Critical analysis
+(S4) Working in groups and teams - Group action planning
+(S5) Working in groups and teams - Time management
+(S6) Commercial awareness - Relevant understanding of organisations
+"
+MSc Project ,(COMP702),Compulsory modules,M,60,Whole Session,0:100,"To give students the opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in the programme.  
+To give experience of carrying out a large piece of individual work and in producing a dissertation.  
+To enhance communication skills, both oral and written.
+","(LO1) After completing the module students should be able to: Investigate and specify a substantial problem in the domain of Computer Science, to place it in the context of related work including, as appropriate, Computer Science reserach, and to produce a plan to address this problem
+(LO2) Make use of the qualities and transferable skills necessary for the conduct of a Computer Science project: (i) the exercise of initiative and personal responsibility, (ii) decision making in complex situations, (iii) risk identification (including, as appropriate, commercial and scientific risk), assessment and control, and (iv) the independent learning ability required for continuing professional development
+(LO3) Demonstrate effective time management, self-direction and originality in carrying out a project in the domain of Computer Science
+(LO4) Locate and make use of information relevant to a given IT project
+(LO5) Design a solution to a substantial IT problem
+(LO6) Implement and test potential solutions to IT problems
+(LO7) Evaluate critically, as relevant to the project, current research and advanced scholarship in Computer Science, evaluate their own work, and participate effectively in the process of peer review of other projects
+(LO8) Conduct and evaulate critically the project within the professional, legal, social and ethical framework in Computer Science and Sortware Engineering
+(LO9) Prepare and deliver formal presentations
+(LO10) Prepare and deliver a demonstration of software
+(LO11) Structure and write a dissertation describing their project
+(S1) Communication (oral, written and visual) - Presentation skills – oral
+(S2) Communication (oral, written and visual) - Presentation skills - written
+(S3) Communication (oral, written and visual) - Academic writing (inc. referencing skills)
+(S4) Time and project management - Project planning
+(S5) Critical thinking and problem solving - Critical analysis
+(S6) Critical thinking and problem solving - Evaluation
+(S7) Commercial awareness - Ability to analyse/balance risk and reward
+"
+Machine Learning and Bioinspired Optimisation ,(COMP532),Optional modules,M,15,Second Semester,70:30,"In this module we focus on learning agents that interact with an initially unknown world. Since the world is dynamic this module will put strong emphasis on learning to deal with sequential data unlike many other machine learning courses. The aims can be summarised as: 
+To introduce and give an overview to state of the art bio-inspired self-adapting methods.  
+To enable students to not only learn to build models with reactive input/output mappings but also build computer programs that sense and perceive their environment, plan, and make optimal decisions.  
+To familiarise students with multi-agent reinforcement learning, swarm intelligence, deep neural networks, evolutionary game theory, artificial immune systems and DNA computing. 
+To demonstrate principles of bio-inspired methods, provide indicative examples, develop problem-solving abilities and provide students with experience to apply the learnt methods in real-world problems.
+","(LO1) A systematic understanding of bio-inspired algorithms that can be used for autonomous agent design and complex optimisation problems.
+(LO2) In depth insight in  the mathematics of biologically inspired machine learning and optimisation methods.
+(LO3) A comprehensive understanding of the benefits and drawbacks of the various methods.
+(LO4) Demonstrate knowledge of using the methods in real-world applications (e.g. logistic problems).
+(LO5) Practical assignments will lead to hands on experience using tools as well as coding of own algorithms.
+"
+Safety and Dependability ,(COMP524),Optional modules,M,15,Second Semester,70:30,"1. To provide a critical and in-depth understanding of all aspects of software safety and dependability; including issues realting to security, reliability and trustworthiness.
+2. To provide a broad understanding of the state-of-the-art software engineering techniques currently used to address safety and dependability issues. 
+3. To provide an overview of the contemporary research issues relating to software safety and dependability.
+","(LO1) At the end of the module, a student will understand some of the problems associated with the use of computer software in critical applications where safety, security and trust are issues.
+(LO2) At the end of the module, a student will understand some of the contemporary mechanisms for ensuring dependability and reliability.
+(LO3) At the end of the module, a student will understand a variety of approaches to the design and development of safe and dependable systems.
+(LO4) At the end of the module, a student will understand formal verification techniques in relation to the assessment of safety and dependability.
+(LO5) At the end of the module, a student will  be aware of some of the contemporary research problems in the areas of safety, security, dependability and trust.
+(S1) Working in groups and teams - Group action planning
+(S2) Skills in using technology - Using common applications (work processing, databases, spreadsheets etc.)
+(S3) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S4) Numeracy/computational skills - Problem solving
+(S5) Communication skills - Presenting
+(S6) Problem solving - Co-designing a program and a correctness proof
+(S7) Problem solving - Model (MDP) design analysis
+(S8) Business and customer awareness - Brief discussion of the cost of software bugs and the cost of applying formal techniques
+(S9) Information Technology (IT) skills - Formulating (probabilistic) models as Markov chains and decision processes, and using of-the-shelf tools for their analysis
+"
+Reasoning About Action and Change ,(COMP525),Optional modules,M,15,Second Semester,75:24,"1. Give the student a feel for several formalisms that deal with change 
+2. Show how logics can be used to specify and verify dynamic systems 
+3. Give students a deeper knowledge of the semantics of such systems 
+4. Develop awareness of the usual trade-off between expressivity and complexity of logical languages. 
+","(LO1) Provide formal specifications, using a logical language, of informal problem descriptions.
+(LO2) Verify simple properties of models.
+(LO3) Produce simple logical proofs.
+(LO4) Understand how temporal logics relate to each other.
+(LO5) Understand and use model checkers.
+(LO6) Understand and be able to explain and fomulate properties (such as &#34;safety&#34;, &#34;fairness&#34; and &#34;liveness&#34;) of systems and be able to formulate simple instances of them.
+(S1) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S2) Numeracy/computational skills - Problem solving
+"
+Algorithmic Game Theory ,(COMP559),Optional modules,M,15,Second Semester,70:30,"1. To provide an understanding of the inefficiency arising from uncontrolled, decentralized resource allocation.
+2. To provide a foundation for modelling various mechanism design problems together with their algorithmic aspects. 
+3. To provide the tools and paradigms for the design and analysis of efficient algorithms/mechanisms that are robust in environments that involve interactions of selfish agents. 
+4. To review the links and interconnections between algorithms and computational issues with selfish agents. 
+5. To provide an in-depth, systematic and critical understanding of selected significant topics related to algorithmic game theory, together with the related research issues.
+","(LO1) Have a critical awareness ofcurrent problems, important concepts and research issues in  the field ofalgorithmic game theory. 
+(LO2) Systematic knowledge andability to quantify the inefficiency of equilibria.
+(LO3) Systematic knowledge andability to formulate mechanism design models or network games for the purpose of modeling particularapplications.
+(LO4) Detailed understanding andability to use, describe and explain appropriate algorithmic paradigms and techniques in context of aparticular game-theoretic or mechanism design problem.
+(LO5) Critical ability to read,understand and communicate research literature in the field of algorithmic game theory.  
+(LO6) Critical ability torecognise potential research opportunities and research directions in the field of algorithmic game theory.
+(S1) Communication (oral, written and visual) - Presentation skills – oral
+(S2) Communication (oral, written and visual) - Presentation skills - written
+(S3) Communication (oral, written and visual) - Presentation skills - visual
+(S4) Critical thinking and problem solving - Critical analysis
+(S5) Information skills - Critical reading
+(S6) Business and customer awareness
+(S7) Computer science principles
+"
+Efficient Algorithms ,(COMP526),Optional modules,M,15,First Semester,60:40,"The main aim of this module is to lay a strong foundation for research in the field of algorithms, with a clear emphasis on algorithmic problems and solutions that haven proven useful in applications (e.g., in bioinformatics, search engines, networks, and data compression).  This is done through the rigorous study of selected algorithmic techniques, an in-depth, systematic, and critical discussion of their respective benefits and weaknesses (by means of mathematical and empirical analysis), and by gaining hands-on experience on solving new algorithmic challenges residing on the border of the theory of abstract algorithms and engineering of applied algorithmic solutions.
+","(LO1) Be able to recognize standard algorithmic problems, apply and judge known solutions based on comprehensive and in-depth understanding of their properties and limitations.
+(LO2) Be able to systematically compare the goals and approaches in algorithm theory and algorithm engineering.
+(LO3) Be able to critically assess algorithmic solutions from the research literature and to adapt these solutions to a range of application scenarios.
+(LO4) Be able to design algorithmic solutions for real-world applications in small-scale programming projects.
+(LO5) Be able to critically communicate algorithmic problems and solutions (both within and outside of the algorithms/computer science community).
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Critical thinking and problem solving - Problem identification
+(S3) Critical thinking and problem solving - Evaluation
+(S4) Critical thinking and problem solving - Creative thinking
+(S5) Numeracy/computational skills - Problem solving
+"
+Optimisation ,(COMP557),Optional modules,M,15,First Semester,70:30,"To provide a foundation for modelling various continuous and discrete optimisation problems.
+To provide the tools and paradigms for the design and analysis of algorithms for continuous and discrete optimisation problems. Apply these tools to real-world problems.
+To review the links and interconnections between optimisation and computational complexity theory.
+To provide an in-depth, systematic and critical understanding of selected significant topics at the intersection of optimisation, algorithms and (to a lesser extent) complexity theory, together with the related research issues.
+","(LO1) The ability to recognise potential research opportunities and research directions
+(LO2) The ability to read, understand and communicate research literature in the field of optimisation.
+(LO3) The ability to use appropriate algorithmic paradigms and techniques in context of a particular optimisation model.
+(LO4) The ability to formulate optimisation models for the purpose of modelling particular applications.
+(LO5) A critical awareness of current problems and research issues in the field of optimisation.
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Communication (oral, written and visual) - Presentation skills – oral
+"

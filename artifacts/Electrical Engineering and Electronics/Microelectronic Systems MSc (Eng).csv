@@ -1,0 +1,185 @@
+Name,Module Code,Compulsory or Optional,Level,Credit Level,Semester,Exam Coursework Weighting,Aims,Learning Outcomes
+Integrated Circuits - Concepts and Design ,(ELEC472),Compulsory modules,M,15,Whole Session,60:40,"To understand the reasons for the predominance and importance of silicon-based microelectronics to the semiconductor industry. To understand how materials, devices and circuit issues are inter-related and exploited to make the microchips that underpin the information age. To prepare students for entering the Silicon semiconductor industry.
+","(LO1) Appreciation of MOS based integrated circuit design philosophy: power, speed, yield, packing density considerations and of design trade-offs associated with materials, device and circuit limitations.
+(LO2) Knowledge of how to analyse and design simple MOS logic gates and amplifier stages.
+(LO3) Appreciation of historical and future development of silicon based integrated circuit technology.
+(LO4) Knowledge of silicon integrated circuit technology.
+(LO5) Appreciation of some IC design issues.
+(LO6) Ability to use simulation tool (i.e. Multisim) to design, layout and test by simulation digital circuit cells.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning. Problem solving and design skills.
+(S2) On successful completion of the module, students will have skill to utilise software package such as Multisim, in the design and simulation of circuit designs.
+(S3) On successful completion of the module, students should be able to demonstrate the ability to apply knowledge of the module concepts on simulation package such as Multisim in the design and testing of digital/analogue circuits.
+(S4) On successful completion of the module the student is expected to have: Appreciation of MOS based integrated circuit design philosophy: power, speed, yield, packing density considerations and of design trade-offs associated with materials, device and circuit limitations. Knowledge of how to analyse and design simple MOS logic gates and amplifier stages. Appreciation of historical and future development of silicon based integrated circuit technology.Knowledge of silicon integrated circuit technology. Appreciation of some IC design issues.
+"
+Digital System Design ,(ELEC473),Compulsory modules,M,15,Whole Session,20:80,"To provide students with the ability to: Design and synthesise digital systems using Verilog and ASM. Understand the problems of meta-stability in digital systems. Design microprocessors using ASM techniques. Develop and test customised NIOS II systems using Altera&#39;s System on a Programmable Chip (SOPC) builder tool and Software Build Tools (SBT).
+","(LO1) Ability to design digital systems using the ASM design method.
+(LO2) Ability to implement digital systems using the Verilog Hardware Description Language.
+(LO3) Understanding the internal operation of a MIPS processor.
+(LO4) Ability to implement a SOPC system using Quartus Nios-II.
+(S1) IT skills.
+(S2) Problem solving skills.
+"
+Advanced Embedded Systems ,(ELEC470),Compulsory modules,M,15,Whole Session,75:25,"This module covers material for understanding and designingadvanced embedded computer systems.
+Key topics include computer architecture, low-powerdesign, hardware/software co-design and logic synthesis techniques.
+","(LO1) Students will achieve a full understanding of modernembedded systems including computer architecture, low-power design, hardware/softwareco-design and logic synthesis techniques.
+(LO2) On successful completion the student should be able to understand published data concerning use of typical computer system design and components.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning, Problem solving and design skills.
+(S2) On successful completetion the student should be able to understand published literature on topics related to low-power embedded systems.
+(S3) After scuccessful completion of the module, the student should have: an understanding of the internal operation of CPU, computer architecture, low-power design techniques, hardward/software co-design and logic synthesis techniques.
+"
+Research Skills & Project Management ,(ELEC483),Compulsory modules,M,15,Whole Session,0:100,"To provide students with the necessary background information so that they will be able to satisfactorily research, plan and undertake their project.
+","(E1) Reflect on experiences, reflecting on goals and objectives, building a reflective habit, and building self-awareness through reflection.
+(E2) Assess and compare personal skills and attributes to identify development needs.
+(E3) Apply knowledge and skills to build a professional network, integrating program learning, graduate attributes and professional experiences to construct a professional identity.
+(E4) Prepare evidence to enhance employability, to demonstrate positive behaviours and communicate appropriately for a job/study interview.
+(LO1) Ability to demonstrate and appreciate the importance of communicating technical/scientific information.
+(LO2) Ability to demonstrate and appreciate the importance formalising the organisation and planning of project work
+(LO3) Capable of collecting and assessing the resources required to complete a project and presenting their findings in both oral presentation and written reports
+(LO4) Determining the critical path in the planning of a project
+(LO5) Show use of methodologies for organising and planning project workcommunicate via executive summaries, technical reports and oral presentationsanalysing and synthesise research data
+(LO6) Demonstrate an understanding of Academic Integrity Policy.
+(S1) On successful completion of the module, students should be able to show use of methodologies for: organising and planning project work; communicate via executive summaries, technical reports and oral presentations; analysing abd synthesise research data
+(S2) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning; Problem solving and design skills
+(S3) Academic integrity awareness.
+"
+Engineering  Programming ,(ELEC431),Compulsory modules,M,15,First Semester,0:100,"This module aims to equip students with knowledge of two most popular programming languages, C++ and MATLAB, an understanding of the Functional Decomposition method for program design, and practical skills of designing and coding software for engineering applications based on a problem specification.
+","(LO1) Knowledge and Understanding : On successful completion of the module, students should be able to demonstrate their appreciation of software as an &#34;engineered product&#34; and its development procedure;understanding of established engineering principles, such as abstraction, modularity and information hiding;knowledge of MATLAB and C++ as programming languages commonly used for enginnering computation and modelling, and their pros and cons for different applications requirements.knowledge of logic structures, data types, user sub-routines (functions), operater precedancy, and the availability of special functions or tool boxes in MATLAB for signal analysis, image processing, filter design, and simulation of electrical systems.
+(LO2) Intellectual Abilities: On successful completion of the module students should be able to analyse and determine the suitability of a programming language based on the nature of the problem; based on relevant software engineering principles, decompose a problem specification into well defined functional blocks (modules) and design the overall program structure; propose coding algorithms based on their knowledge of the programming languages to efficiently implement the software design; design and carry out a test strategy to assess the soundness of the software and make subsequent improvement to design and code; choose and correctly use appropriate tool boxes or functions for a given computational or data processing need in Matlab.
+(S1) On completion of the module students should be able to show experience and skills in software design based on functional decomposition method; design and coding C++ classes for Object oriented program design; using MATLAB to perform matrix calculation and generating high quality visualisation of a given data set. using SIMULINK to model electrical and electronic systems.
+(S2) On completion of the module students should be able to show experience and enhancement in software design using different programming languages; project organisation and problem solving; exploring the functionality of emerging Matlab toolboxes and C++ libraries through independent study.
+"
+Microprocessor Systems ,(ELEC422),Compulsory modules,M,15,Second Semester,0:100,"This module provides an understanding of the construction and operation of microprocessor based systems. 
+Students are introduced to programming at low level and interfacing microprocessors to other components.
+","(LO1) On successful completion of the module students should have sufficient knowledge in both hardware and software to be able to use microprocessors in typical engineering applications.
+(LO2) On successful completion of the module students should be able to program the Cortex M series in Assembly Language.
+(LO3) On successful completion of the module students should be able to interface additional components to the AHB-Lite bus and understand the operation of the AHB-Lite bus.
+(LO4) On successful completion of the module students should be able to use a real-time operating system to create a multithreaded program runing on a Cortex M series device.
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning, Problem solving,  Design skills
+"
+MSc Project ,(ELEC460),Compulsory modules,M,60,Summer (June-September),0:100,"The student will carry out an individual project under the supervision of a member of staff. He/she will report findings both orally and in writing.
+The purpose of the project is: to provide students with the opportunity to plan, carry out and control a research project at the forefront of their academic discipline, field of study or area of professional practice;
+To prepare students for research or investigative work in professional engineering;
+To enable students to gain a comprehensive understanding of the techniques applicable to research or advanced scholarship in their field of study;
+To make an original contribution to knowledge.
+The dissertation must provide evidence of: in-depth understanding of the subject mastery of research techniques, ability to assemble and analyse data, ability to evaluate the project outcomes.
+","(LO1) Ability to plan and conduct independent research.
+(LO2) Ability to present research findings in reports and oral presentations.
+(S1) On successful completion of the project, students should be able to show experience and enhancement of the following keyskills: Dealing with complex issues in a systematic and creative manner, Effectively communicating findings orally and in writing to specialist and non-specialist audiences;  Planning and implementing tasks autonomously at a professional level; Interacting effectively with others (eg, supervisor, technicians, etc) ; Designing poster/web pages ; Computing and IT skills (scope-dependent); Self-discipline, self-motivation, self-direction and originality in tackling and solving problems.
+(S2) On successful completion of the project, the student should be able to show experience and enhancement in some of the following discipline-specific practical skills (depending on the scope of the project): Using sophisticated research equipment to carry out  experimental/laboratory/workshop activities with due regard to safety; Using appropriate engineering analysis software and IT tools.
+(S3) On successful completion of the project,the student should be able to demonstrate ability in several of the following: Critically evaluating current research and advanced scholarship; Defining/specifying a problem; Researching and information-gathering; Planning/designing experimental work using suitable techniques and procedures with due regard to safety;  Assessing and managing risk ; Analysing technical problems qualitatively and/or quantitatively and drawing conclusions; Designing a system,component or process based on an outline or detailed specification; Assembling and analysing data and drawing conclusions; Evaluating current methodologies and (where appropriate) propose new methodologies; Critically evaluate the project outcomes an making an original contribution to knowledge.
+(S4) The project is intended to provide experience of all aspects of working as an individual engineer to complete an engineering task with a complexity that is comparable with these encountered in industry.
+"
+The Internet of Things: Architecture and Applications ,(ELEC423),Compulsory modules,M,15,First Semester,60:40,"This module aims to give students an understanding of the key principles of IoT systems. Students will have a hands on experience by developing an IoT system as a practical assignment.
+","(M1) Understand core concepts of the Internet of Things paradigm.
+(M2) Demonstrate an ability to design and implement IoT based prototypes.
+(M3) Demonstrate a knowledge of the IoT architecture and technologies used to design and implement it.
+(M4) Demonstrate a knowledge of IoT embedded systems based on Linux.
+(M5) Demonstrate a knowledge of wireless technologies and communication protocols specific to IoT
+(M6) Demonstrate a knowledge of security, privacy and trust mechanisms applied to the IoT and issues related to them.
+(S1) Information technology (application of) adopting, adapting and using embedded devices, applications and protocol specific to IoT.
+(S2) Bash scripting
+(S3) Python programming language
+(S4) Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate IoT solutions.
+"
+Image Processing ,(ELEC319),Optional modules,3,7.5,First Semester,100:0,"To introduce the basic concepts of digital image processing and pattern recognition.
+","(LO1) Knowledge and understanding of Human Vision
+(LO2) Knowledge and understanding of Image Histogram and its application
+(LO3) Knowledge and understanding of Image Transformation methods and their applications
+(LO4) Knowledge and understanding of Shapes and Connectivity
+(LO5) Knowledge and understanding of Morphologocal Operations and their applications
+(LO6) Knowledge and understanding of Noise Filtering methods in Image Processing
+(LO7) Knowledge and understanding of Image Enhancement techniques
+(LO8) Knowledge and understanding of Image Segmentation and its applications
+(LO9) Knowledge and understanding of Image Compression methods
+(LO10) Knowledge and understanding of Frequency Domain Image Analysis
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning Problem solving and design skills
+(S2) After successful completion of the module, the student should have: The ability to apply relevant image enhancement techniques to a given problem. The necessary mathematical skills to develop standard image processing algorithms. The necessary Software skills (using MATLAB) to apply image processing methods and techniques on images.
+"
+Advanced Systems Modelling & Control ,(ELEC476),Optional modules,M,15,First Semester,70:30,"The module is to introduce advanced system analysis and design techniques to the students and to develop the skills of considering engineering problems from system point of view.
+The aims of the module are: 
+To learn the skills required for system modelling and simulation. 
+To extend the students knowledge from time-driven system to even-driven system modelling and simulation, which covers modelling and simulation of stochastic processes. 
+To understand the principle of advanced control systems. Understand principles of basic adaptive and learning systems and their applications. 
+Select appropriate adaptive systems and/or learning algorithms to deal with a specific engineering problem.
+Develop software packages using MATLAB to resolve an adaptive and/or learning problem. 
+Gain their own knowledge of the subjects of adaptive and learning systems for further development.
+","(LO1) After successful completion of the module, the student should have: An understanding of how time and event driven systems can be represented by mathematical modules. 
+An understanding of how computer simulation can be implemented to help system analysis and design. 
+An appreciation of how computer-aided design and simulation tools operate. 
+An understanding of how random number and random process can be simulated. 
+An understanding of discrete time Markov process modelling and simulation. 
+An appreciation of the system optimisation. 
+The principle of advanced control system design. 
+An appreciation of the advantages of system identification approached to problems of industrial modelling and control and adaptive controller design by contrast to the traditional methodologies. 
+A familiarity with system identification and parameter estimation of dynamic systems.
+An understanding of the system identification and adaptive control techniques. 
+An ability to use the MATLAB software to model a linear dynamic system and design an adaptive controller. 
+An appreciation of how adaptive control theory can be applied to various industrial systems.
+A basic understanding of stochastic automata and their applications.
+(S1) on successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning 
+Problem solving and design skills
+(S2) After successful completion of the module, students will have skills to develop software programs for complicated mixed time-and-event-driven systems. on successful completion of this module the student should have practical skills of using MATLAB System Identification Toolbox to achieve the system modelling of basic engineering systems and to design a basic adamptive learning system for engineering problems.
+(S3) After successful completion of the module, the students should be able to demonstrate ability in applying knowledge of the module topics to: Develop mathematical models for both time-driven and event-driven systems. Analyse the systems described by Markov process. Model, simulate, and validate random processes. Design simulation programs for particularly specified systems. Understand the methods of system optimisation and adaptive control design. On successful completion of this module the student should be able to pursue the further study by themselves in this subject and relevant areas.
+(S4) After successful completion of the module, the student should have: An understanding of how time and event driven systems can be represented by mathematical modules. An understanding of how computer simulation can be implemented to help system analysis and design. An appreciation of how computer-aided design and simulation tools operate. An understanding of how random number and random process can be simulated. An understanding of discrete time Markov process modelling and simulation. An appreciation of the system optimisation. The principle of advanced control system design. An appreciation of the advantages of system identification approached to problems of industrial modelling and control and adaptive controller design by contrast to the traditional methodologies. A familiarity with system identification and parameter estimation of dynamic systems. An understanding of the system identification and adaptive control techniques. An ability to use the MATLAB software to model a linear dynamic system and design an adaptive controller. An appreciation of how adaptive control theory can be applied to various industrial systems. A basic understanding of stochastic automata and their applications.
+"
+Mobile Computing ,(COMP327),Optional modules,3,15,First Semester,60:40,"To provide guidelines, design principles and experience in developing applications for small, mobile devices, including an appreciation of context and location aware services.
+To develop an appreciation of interaction modalities with small, mobile devices (including interface design for non-standard display surfaces) through the implementation of simple applications and use cases.
+To introduce wireless communication and networking principles, that support connectivity to cellular networks, wireless internet and sensor devices.
+To understand the use of transaction and e-commerce principles over such devices to support mobile business concepts.
+","(LO1) At the end of the module, the student will have a working understanding of the characteristics and limitations of mobile hardware devices including their user-interface modalities.
+(LO2) The ability to develop applications that are mobile-device specific and demonstrate current practice in mobile computing contexts.
+(LO3) A comprehension and appreciation of the design and development of context-aware solutions for mobile devices.
+(S1) Problem Solving - Numeracy and computational skills
+(S2) Problem solving – analysing facts and situations and applying creative thinking to develop appropriate solutions.
+"
+Multi-core and Multi-processor Programming ,(COMP528),Optional modules,M,15,First Semester,0:100,"To provide students with a deep, critical and systematic understanding of key issues and effective solutions for parallel programming for systems with multi-core processors and parallel architectures. 
+To develop students appreciation of a variety of approaches to parallel programming, including using MPI, OpenMP and CUDA.   
+To develop the students skills in parallel programming using MPI, OpenMP and CUDA.  
+To develop the students skills in parallelization of existing serial code.
+","(LO1) At the end of the module students should be able to:  Explain the concepts of multi-core processors and systems and parallel architectures,  their advantages and challenges of their programming.
+(LO2) Appraise the differences between various programming techniques and programming patterns available for parallel programming for multi-core systems and parallel architectures. 
+(LO3) Design parallel multi-threaded programs using the most appropriate for a particular application approach, using one of MPI, OpenMP, CUDA, or a combination of thereof.  
+(LO4) Design and implement reasonably sophisticated parallel multi-threaded programs demonstrating reasonable scalability on multi-core and parallel systems  using MPI, OpenMP, or CUDA, or the combination of thereof. 
+(LO5) Analyse and evaluate the efficiency and scalability of parallel multi-threaded programs for multi-core parallel systems.
+(S1) Improving own learning/performance - Personal action planning
+(S2) Communication (oral, written and visual) - Presentation skills
+(S3) Communication (oral, written and visual) - Report writing
+(S4) Critical thinking and problem solving
+(S5) Information skills - Critical reading
+(S6) Numeracy/computational skills - Reason with numbers/mathematical concepts
+(S7) Numeracy/computational skills - Problem solving
+"
+Communications Networks ,(ELEC461),Optional modules,M,15,Second Semester,100:0,"To  introduce the principles of communications networks, their components and protocols.    
+To provide students with the tools and techniques to analyse the performance of the main communications protocols, including: link layer, MAC layer, Network Layer (IP) including the main routing protocols, the transport control protocol (TCP), and basic packet queuing theory.
+To provide an overview of the main topic areas in network/Cyber secuity including firewalls, intrusion detection and prevention systems, key  ciphers and applied cryptogrphy, and secure sockets layer (SSL).
+","(LO1) Knowledge and Understanding:On successful completion of the module, students should be able to demonstrate knowledge and understanding of:- The structure of communications networks and how these can be described and analysed using standard reference models (OSI, TCP/IP).- The common protocols used over the major  wired and wireless networks, and ther Interent. - The concept of quality of service (QoS) as applied to networks, and the techniques for implementing it.- The essential parts of an Interent router and the main routing protocols used over the Interent
+(LO2)  Intellectual Abilities: On successful completion of the module, students should be able to  demonstrate the ability to apply their knowledge of the above topics to: - Design and analyse communications networks - Analyse the behaviour, and predict the performance of the communications protocols they have learned. - Analyse and predict the behaviour of queues in packet switched networks. - Analyse and predict the performance of common Internet routing algorithms when applied to differnt network topologies.  - Analyse QoS for communications networks.  -
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the following key skills: Independent learning Problem solving and design skills
+(S2) Practical Skills:On successful completion of the module, students should be able to show experience and enhancement of the following key skills:- General mathematical and IT skills.- The ability to analyse and configure networks and protocols.
+"
+Electromagnetic Compatibility ,(ELEC382),Optional modules,3,7.5,Second Semester,75:25,"The module is aimed to provide the students with advanced knowledge and skills to deal with EMC problems.
+The students are expected to master the  fundamental EMC principles and concepts based on the underlying electromagnetic theory. 
+To study  EMC standa rds and regulations, and be able to apply them to real world problems.  
+To be able to use advanced theory too analyse EMC problems.
+To be able to conduct EMC measurements and tests, and also interprete the results.
+","(LO1) Ability to conduct EMC tests and analysis
+(LO2) Ability to conduct EMC analysis and designs
+(LO3) Knowledge and skills and solve EMC problems
+(S1) On successful completion of the module, students should be able to show experience and enhancement of the folowing key skills: Independent learning Problem solving and design skills.
+(S2) After successful completion of the module, the student should be able to: Demonstrate their familiarity with the various measurement techniques used to assess the electromagnetic compatibility of both hardware and systems.
+(S3) On successful completion of the module, students should be able to: Demonstrate their ability to apply sound EMC analytical and design techniques when dealing with both conducted and radiated interference and times domains, and their applicability to engineering systems, is prerequisite knowledge.
+(S4) On successful completion of the module, students should be able to: Demonstrate their knowledge and understanding of the relevant EU regulations governing EMC. Be capable of analysing EMC problems by applying sound electromagnetics principles to networks of current-carrying conductors whether as cable configurations or in circuits/systems involving active and passive devices.
+"
+Information Theory and Coding ,(ELEC415),Optional modules,M,7.5,Second Semester,100:0,"To introduce the techniques used in source coding and error correcting codes, including the use of information as a measure.
+","(LO1) After successful completion of the module the student should have: An appreciation of information sources and of the information rates    available on real channels. An appreciation of techniques for making the best use of channels for efficient transmission with error protection.
+(LO2) After successful completion of the module the student should have: An understanding of the basic methods of source coding and error correcting codes.
+(S1) Critical thinking and problem solving - Critical analysis
+(S2) Critical thinking and problem solving - Evaluation
+(S3) Critical thinking and problem solving - Problem identification
+"
+Plasma System Engineering ,(ELEC391),Optional modules,3,7.5,First Semester,100:0,"To develop an appreciation and understanding of industrial plasma discharges and associated engineering.
+","(LO1) Apply knowledge in the analysis of plasma creation and sustainment, its basic physical properties, its interaction with substrates and its use to produce desired technological outcomes.
+(S1) After successful completion of the module, the student should be able to: Calculate plasma characteristics, predit the energy and flux at the boundary region of material surfaces; Calculate the desposition, etch and sputter rates of substrates in different types of plasma; To design a number of simple power supply circuits relevant to technology plasma creation; To design a simple plasma system for particular technological applications.
+(S2) After successful completion of the module, the student should be able to: Apply their knowledge in the analysis of plasma creation and sustainment , its basic physical properties, its interaction with substrates and its use to produce desired technological outcomes.
+(S3) To demonstrate knowledge and understanding of the basic physical properties in plasmas relevant to industry and the uses for industrial plasma technology.
+"
